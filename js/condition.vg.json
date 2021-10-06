@@ -1,0 +1,67 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Condition of Imported Wild and Captive Animals (%)",
+    "width": 600,
+    "height": 400,
+    "data": {"url": "https://raw.githubusercontent.com/msavMonash/Week10Homework/master/data/ConditionCaptiveWild.csv"},
+    "params": [
+        {
+            "name": "Condition_group",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null, 
+                    "Body part",
+                    "Bone",
+                    "Eggs",
+                    "Extracts",
+                    "Other",
+                    "Skin",
+                    "Whole"
+                ],
+                "labels": [
+                    "Show All",
+                    "Body part",
+                    "Bone",
+                    "Eggs",
+                    "Extracts",
+                    "Other",
+                    "Skin",
+                    "Whole"
+                ],
+                "name": "Condition Group: "
+            }
+        }
+    ],
+    "mark": "bar",
+    "transform": [
+        {"calculate":"datum.Number / datum.Total", "as":"PercentCondition"},
+        {"calculate":"datum.Number / datum.Total * 100", "as":"CalcPercentCondition"},
+        {"filter": "Condition_group == null || datum.Group == Condition_group"}
+    ],
+    "encoding": {
+      "x": {
+        "field": "Condition",
+        "type": "nominal"
+      },
+      "y": {
+        "field": "CalcPercentCondition",
+        "title": "% of Animals",
+        "type": "quantitative",
+        "axis": {"grid": false, "ticks": false}
+      },
+      "color": {
+        "field": "Source",
+        "type": "nominal",
+        "scale": {"range": ["#08b3e5","#00ab08"]},
+        "title": "Source"
+      },
+
+      "tooltip": [
+        {"field": "Condition", "type": "nominal", "title": "Condition"},
+        {"field": "PercentCondition", "type": "quantitative", "title": "Percent","format":".0%"},
+        {"field": "Number", "type": "quantitative", "title": "Number"},
+        {"field": "Source", "type": "nominal", "title": "Source"}
+        ]
+    }
+  }

@@ -1,0 +1,23 @@
+Purpose,Number,Source,Total
+Commercial,7027,Captive,13883
+Breeding in captivity,110,Captive,153
+Zoo,159,Captive,185
+Personal,1056,Captive,1828
+Medical,51,Captive,56
+Scientific,81,Captive,644
+Circus,68,Captive,121
+Educational,6,Captive,62
+Hunting trophy,14,Captive,395
+Re/introduction into wild,1,Captive,4
+Forensic,0,Captive,4
+Commercial,6856,Wild,13883
+Breeding in captivity,43,Wild,153
+Zoo,26,Wild,185
+Personal,772,Wild,1828
+Medical,5,Wild,56
+Scientific,563,Wild,644
+Circus,53,Wild,121
+Educational,56,Wild,62
+Hunting trophy,381,Wild,395
+Re/introduction into wild,3,Wild,4
+Forensic,4,Wild,4
