@@ -1,1359 +1,1336 @@
-id,name,parent,size,wild,,,,
-1,Animals,,,0.51,,,,
-2,Actinopteri,1,,0.49,,,,
-3,Acipenseriformes,2,,0.38,,,,
-4,Polyodontidae,3,,0.38,,,,
-5,polyodon,4,,0.38,,,,
-6,Polyodon spathula,5,8,0.38,,,,
-7,Syngnathiformes,2,,0.49,,,,
-8,Syngnathidae,7,,0.49,,,,
-9,Hippocampus,8,,0.49,,,,
-10,Hippocampus abdominalis,9,7,0.14,,,,
-11,Hippocampus algiricus,9,1,1.00,,,,
-12,Hippocampus barbouri,9,7,0.14,,,,
-13,Hippocampus breviceps,9,1,1.00,,,,
-14,Hippocampus comes,9,8,0.13,,,,
-15,Hippocampus erectus,9,5,0.60,,,,
-16,Hippocampus histrix,9,2,0.50,,,,
-17,Hippocampus kelloggi,9,3,1.00,,,,
-18,Hippocampus kuda,9,27,0.74,,,,
-19,Hippocampus reidi,9,13,0.15,,,,
-20,Hippocampus semispinosus,9,4,0.00,,,,
-21,Hippocampus spinosissimus,9,4,0.75,,,,
-22,Hippocampus spp.,9,3,0.67,,,,
-23,Hippocampus subelongatus,9,3,1.00,,,,
-24,Hippocampus trimaculatus,9,2,1.00,,,,
-25,Hippocampus whitei,9,2,0.50,,,,
-26,Hippocampus zosterae,9,1,1.00,,,,
-27,Amphibia,1,,0.84,,,,
-28,Anura,27,,0.84,,,,
-29,Calyptocephalellidae,28,,0.00,,,,
-30,Calyptocephalella,29,,0.00,,,,
-31,Calyptocephalella gayi,30,1,0.00,,,,
-32,Mantellidae,28,,0.85,,,,
-33,Mantella,32,,0.85,,,,
-34,Mantella aurantiaca,33,12,0.58,,,,
-35,Mantella baroni,33,6,1.00,,,,
-36,Mantella betsileo,33,11,0.91,,,,
-37,Mantella cowanii,33,1,1.00,,,,
-38,Mantella crocea,33,2,1.00,,,,
-39,Mantella laevigata,33,4,1.00,,,,
-40,Mantella madagascariensis,33,8,0.75,,,,
-41,Mantella manery,33,1,1.00,,,,
-42,Mantella milotympanum,33,2,1.00,,,,
-43,Mantella nigricans,33,9,1.00,,,,
-44,Mantella pulchra,33,1,1.00,,,,
-45,Mantella spp.,33,2,1.00,,,,
-46,Mantella viridis,33,1,0.00,,,,
-47,Anthozoa,1,,0.68,,,,
-48,Antipatharia,47,,1.00,,,,
-49,Myriopathidae,48,,1.00,,,,
-50,Cupressopathes,49,,1.00,,,,
-51,Cupressopathes spp.,50,1,1.00,,,,
-52,Tanacetipathes,49,,1.00,,,,
-53,Tanacetipathes barbadensis,52,1,1.00,,,,
-54,Tanacetipathes hirta,52,1,1.00,,,,
-55,Tanacetipathes tanacetum,52,1,1.00,,,,
-56,Tanacetipathes thamnea,52,1,1.00,,,,
-57,Schizopathidae,48,,1.00,,,,
-58,Parantipathes,57,,1.00,,,,
-59,Parantipathes spp.,58,1,1.00,,,,
-60,Gorgonacea,47,,0.97,,,,
-61,Coralliidae,60,,0.97,,,,
-62,Corallium,61,,0.97,,,,
-63,Corallium elatius,62,51,0.98,,,,
-64,Corallium japonicum,62,13,1.00,,,,
-65,Corallium konjoi,62,8,0.88,,,,
-66,Corallium secundum,62,24,0.96,,,,
-67,Scleractinia,47,,0.66,,,,
-68,Meandriniidae,67,,1.00,,,,
-69,Dendrogyra,68,,1.00,,,,
-70,Dendrogyra cylindrus,69,1,1.00,,,,
-71,Dichocoenia,68,,1.00,,,,
-72,Dichocoenia stokesii,71,1,1.00,,,,
-73,Meandrina,68,,1.00,,,,
-74,Meandrina maeandrites,73,2,1.00,,,,
-75,Merulinidae,67,,0.62,,,,
-76,Hydnophora,75,,0.65,,,,
-77,Hydnophora bonsai,76,1,1.00,,,,
-78,Hydnophora exesa,76,58,0.97,,,,
-79,Hydnophora microconos,76,40,1.00,,,,
-80,Hydnophora rigida,76,29,0.66,,,,
-81,Hydnophora spp.,76,68,0.16,,,,
-82,Merulina,75,,0.58,,,,
-83,Merulina ampliata,82,107,0.56,,,,
-84,Merulina scabricula,82,5,0.80,,,,
-85,Merulina spp.,82,2,1.00,,,,
-86,Mussidae,67,,0.71,,,,
-87,Acanthastrea,86,,0.70,,,,
-88,Acanthastrea amakusensis,87,7,0.86,,,,
-89,Acanthastrea bowerbanki,87,14,0.93,,,,
-90,Acanthastrea echinata,87,8,0.88,,,,
-91,Acanthastrea hemprichii,87,2,0.00,,,,
-92,Acanthastrea hillae,87,9,1.00,,,,
-93,Acanthastrea lordhowensis,87,22,0.95,,,,
-94,Acanthastrea maxima,87,4,0.75,,,,
-95,Acanthastrea rotundoflora,87,1,0.00,,,,
-96,Acanthastrea spp.,87,124,0.60,,,,
-97,Acanthophyllia,86,,0.96,,,,
-98,Acanthophyllia deshayesiana,97,44,0.95,,,,
-99,Acanthophyllia spp.,97,1,1.00,,,,
-100,Australomussa,86,,0.15,,,,
-101,Australomussa rowleyensis,100,32,0.13,,,,
-102,Australomussa spp.,100,1,1.00,,,,
-103,Blastomussa,86,,0.59,,,,
-104,Blastomussa merleti,103,30,0.33,,,,
-105,Blastomussa spp.,103,12,0.92,,,,
-106,Blastomussa wellsi,103,98,0.63,,,,
-107,Cynarina,86,,0.95,,,,
-108,Cynarina lacrymalis,107,69,0.94,,,,
-109,Cynarina spp.,107,4,1.00,,,,
-110,Lobophyllia,86,,0.73,,,,
-111,Lobophyllia corymbosa,110,55,0.95,,,,
-112,Lobophyllia diminuta,110,1,1.00,,,,
-113,Lobophyllia hataii,110,1,0.00,,,,
-114,Lobophyllia hemprichii,110,18,0.94,,,,
-115,Lobophyllia robusta,110,3,1.00,,,,
-116,Lobophyllia spp.,110,167,0.63,,,,
-117,Micromussa,86,,1.00,,,,
-118,Micromussa spp.,117,2,1.00,,,,
-119,Mussismilia,86,,1.00,,,,
-120,Mussismilia braziliensis,119,1,1.00,,,,
-121,Mycetophyllia,86,,1.00,,,,
-122,Mycetophyllia aliciae,121,2,1.00,,,,
-123,Scolymia,86,,0.81,,,,
-124,Scolymia australis,123,34,0.97,,,,
-125,Scolymia cubensis,123,1,1.00,,,,
-126,Scolymia lacera,123,1,1.00,,,,
-127,Scolymia spp.,123,49,0.57,,,,
-128,Scolymia vitiensis,123,40,0.95,,,,
-129,Symphyllia,86,,0.67,,,,
-130,Symphyllia agaricia,129,5,1.00,,,,
-131,Symphyllia radians,129,2,1.00,,,,
-132,Symphyllia recta,129,2,0.50,,,,
-133,Symphyllia spp.,129,117,0.63,,,,
-134,Symphyllia valenciennesii,129,2,1.00,,,,
-135,Symphyllia wilsoni,129,7,1.00,,,,
-136,Oculinidae,67,,0.68,,,,
-137,Acrhelia,136,,1.00,,,,
-138,Acrhelia horrescens,137,3,1.00,,,,
-139,Galaxea,136,,0.68,,,,
-140,Galaxea acrhelia,139,1,1.00,,,,
-141,Galaxea astreata,139,48,1.00,,,,
-142,Galaxea fascicularis,139,67,0.94,,,,
-143,Galaxea spp.,139,63,0.14,,,,
-144,Madrepora,136,,1.00,,,,
-145,Madrepora oculata,144,1,1.00,,,,
-146,Madrepora spp.,144,1,1.00,,,,
-147,Pectiniidae,67,,0.53,,,,
-148,Echinophyllia,147,,0.60,,,,
-149,Echinophyllia aspera,148,11,0.82,,,,
-150,Echinophyllia echinata,148,3,1.00,,,,
-151,Echinophyllia echinoporoides,148,1,1.00,,,,
-152,Echinophyllia nishihirai,148,3,1.00,,,,
-153,Echinophyllia spp.,148,133,0.56,,,,
-154,Mycedium,147,,0.40,,,,
-155,Mycedium elephantotus,154,55,0.44,,,,
-156,Mycedium robokaki,154,26,0.04,,,,
-157,Mycedium spina,154,1,0.00,,,,
-158,Mycedium spp.,154,56,0.54,,,,
-159,Oxypora,147,,0.55,,,,
-160,Oxypora convoluta,159,1,1.00,,,,
-161,Oxypora glabra,159,1,1.00,,,,
-162,Oxypora spp.,159,60,0.53,,,,
-163,Pectinia,147,,0.61,,,,
-164,Pectinia africanus,163,1,1.00,,,,
-165,Pectinia alcicornis,163,1,1.00,,,,
-166,Pectinia lactuca,163,3,1.00,,,,
-167,Pectinia paeonia,163,2,1.00,,,,
-168,Pectinia spp.,163,93,0.58,,,,
-169,Pocilloporidae,67,,0.51,,,,
-170,Madracis,169,,1.00,,,,
-171,Madracis asanoi,170,1,1.00,,,,
-172,Madracis decactis,170,2,1.00,,,,
-173,Madracis myriaster,170,1,1.00,,,,
-174,Madracis pharensis,170,1,1.00,,,,
-175,Madracis spp.,170,1,1.00,,,,
-176,Pocillopora,169,,0.56,,,,
-177,Pocillopora damicornis,176,17,0.71,,,,
-178,Pocillopora eydouxi,176,8,1.00,,,,
-179,Pocillopora meandrina,176,13,1.00,,,,
-180,Pocillopora spp.,176,106,0.43,,,,
-181,Pocillopora verrucosa,176,7,0.86,,,,
-182,Seriatopora,169,,0.46,,,,
-183,Seriatopora aculeata,182,1,1.00,,,,
-184,Seriatopora caliendrum,182,5,0.60,,,,
-185,Seriatopora hystrix,182,46,0.93,,,,
-186,Seriatopora spp.,182,73,0.15,,,,
-187,Stylophora,169,,0.45,,,,
-188,Stylophora pistillata,187,26,0.81,,,,
-189,Stylophora spp.,187,94,0.36,,,,
-190,Stylophora subseriata,187,1,0.00,,,,
-191,Poritidae,67,,0.74,,,,
-192,Alveopora,191,,0.57,,,,
-193,Alveopora gigas,192,11,0.91,,,,
-194,Alveopora spongiosa,192,7,0.86,,,,
-195,Alveopora spp.,192,81,0.49,,,,
-196,Goniopora,191,,0.80,,,,
-197,Goniopora albiconus,196,2,1.00,,,,
-198,Goniopora columna,196,1,1.00,,,,
-199,Goniopora lobata,196,68,0.96,,,,
-200,Goniopora minor,196,3,0.33,,,,
-201,Goniopora norfolkensis,196,1,1.00,,,,
-202,Goniopora somaliensis,196,1,1.00,,,,
-203,Goniopora spp.,196,189,0.68,,,,
-204,Goniopora stokesi,196,73,0.97,,,,
-205,Goniopora stutchburyi,196,2,1.00,,,,
-206,Goniopora tenuidens,196,3,1.00,,,,
-207,Porites,191,,0.71,,,,
-208,Porites annae,207,1,1.00,,,,
-209,Porites astreoides,207,9,0.78,,,,
-210,Porites branneri,207,1,0.00,,,,
-211,Porites cylindrica,207,6,0.50,,,,
-212,Porites lobata,207,10,1.00,,,,
-213,Porites lutea,207,7,1.00,,,,
-214,Porites porites,207,5,1.00,,,,
-215,Porites rus,207,2,1.00,,,,
-216,Porites spp.,207,145,0.67,,,,
-217,Rhizangiidae,67,,1.00,,,,
-218,Astrangia,217,,1.00,,,,
-219,Astrangia poculata,218,2,1.00,,,,
-220,Siderastreidae,67,,1.00,,,,
-221,Coscinaraea,220,,1.00,,,,
-222,Coscinaraea spp.,221,1,1.00,,,,
-223,Psammocora,220,,1.00,,,,
-224,Psammocora spp.,223,3,1.00,,,,
-225,Psammocora superficialis,223,1,1.00,,,,
-226,Siderastrea,220,,1.00,,,,
-227,Siderastrea radians,226,1,1.00,,,,
-228,Siderastrea siderea,226,3,1.00,,,,
-229,Siderastrea spp.,226,1,1.00,,,,
-230,Trachyphylliidae,67,,0.91,,,,
-231,Trachyphyllia,230,,0.91,,,,
-232,Trachyphyllia geoffroyi,231,107,0.91,,,,
-233,Trachyphyllia spp.,231,3,1.00,,,,
-234,Stolonifera,47,,0.76,,,,
-235,Tubiporidae,234,,0.76,,,,
-236,Tubipora,235,,0.76,,,,
-237,Tubipora musica,236,116,0.75,,,,
-238,Tubipora spp.,236,3,1.00,,,,
-239,Arachnida,1,,0.02,,,,
-240,Araneae,239,,0.00,,,,
-241,Theraphosidae,240,,0.00,,,,
-242,Aphonopelma,241,,0.00,,,,
-243,Aphonopelma albiceps,242,2,0.00,,,,
-244,Brachypelma,241,,0.00,,,,
-245,Brachypelma albopilosum,244,13,0.00,,,,
-246,Brachypelma annitha,244,4,0.00,,,,
-247,Brachypelma auratum,244,4,0.00,,,,
-248,Brachypelma baumgarteni,244,2,0.00,,,,
-249,Brachypelma boehmei,244,7,0.00,,,,
-250,Brachypelma emilia,244,7,0.00,,,,
-251,Brachypelma kahlenbergi,244,2,0.00,,,,
-252,Brachypelma klaasi,244,1,0.00,,,,
-253,Brachypelma smithi,244,15,0.00,,,,
-254,Brachypelma spp.,244,1,0.00,,,,
-255,Brachypelma vagans,244,4,0.00,,,,
-256,Brachypelma verdezi,244,1,0.00,,,,
-257,Scorpiones,239,,1.00,,,,
-258,Scorpionidae,257,,1.00,,,,
-259,Pandinus,258,,1.00,,,,
-260,Pandinus dictator,259,1,1.00,,,,
-261,Aves,1,,0.16,,,,
-262,Anseriformes,261,,0.00,,,,
-263,Anatidae,262,,0.00,,,,
-264,Cairina,263,,0.00,,,,
-265,Cairina moschata,264,22,0.00,,,,
-266,Apodiformes,261,,0.97,,,,
-267,Trochilidae,266,,0.97,,,,
-268,Amazilia,267,,1.00,,,,
-269,Amazilia cyanocephala,268,2,1.00,,,,
-270,Amazilia fimbriata,268,1,1.00,,,,
-271,Amazilia viridigaster,268,1,1.00,,,,
-272,Amazilia yucatanensis,268,1,1.00,,,,
-273,Anthracothorax,267,,1.00,,,,
-274,Anthracothorax veraguensis,273,1,1.00,,,,
-275,Archilochus,267,,1.00,,,,
-276,Archilochus colubris,275,2,1.00,,,,
-277,Basilinna,267,,1.00,,,,
-278,Basilinna leucotis,277,1,1.00,,,,
-279,Calliphlox,267,,1.00,,,,
-280,Calliphlox bryantae,279,1,1.00,,,,
-281,Campylopterus,267,,1.00,,,,
-282,Campylopterus hemileucurus,281,1,1.00,,,,
-283,Campylopterus largipennis,281,1,1.00,,,,
-284,Chlorostilbon,267,,1.00,,,,
-285,Chlorostilbon lucidus,284,1,1.00,,,,
-286,Colibri,267,,0.75,,,,
-287,Colibri coruscans,286,1,0.00,,,,
-288,Colibri thalassinus,286,3,1.00,,,,
-289,Eugenes,267,,1.00,,,,
-290,Eugenes fulgens,289,2,1.00,,,,
-291,Florisuga,267,,1.00,,,,
-292,Florisuga fusca,291,1,1.00,,,,
-293,Florisuga mellivora,291,1,1.00,,,,
-294,Heliothryx,267,,1.00,,,,
-295,Heliothryx auritus,295,1,1.00,,,,
-296,Hylocharis,267,,1.00,,,,
-297,Hylocharis cyanus,296,1,1.00,,,,
-298,Lampornis,267,,1.00,,,,
-299,Lampornis amethystinus,298,1,1.00,,,,
-300,Lampornis sybillae,298,1,1.00,,,,
-301,Lampornis viridipallens,298,1,1.00,,,,
-302,Lophornis,267,,1.00,,,,
-303,Lophornis ornatus,302,1,1.00,,,,
-304,Lophornis pavoninus,302,1,1.00,,,,
-305,Phaethornis,267,,1.00,,,,
-306,Phaethornis augusti,305,1,1.00,,,,
-307,Phaethornis bourcieri,305,1,1.00,,,,
-308,Phaethornis longirostris,305,1,1.00,,,,
-309,Phaethornis superciliosus,305,1,1.00,,,,
-310,Thalurania,267,,1.00,,,,
-311,Thalurania furcata,310,1,1.00,,,,
-312,Charadriiformes,261,,1.00,,,,
-313,Burhinidae,312,,1.00,,,,
-314,Burhinus,313,,1.00,,,,
-315,Burhinus bistriatus,314,1,1.00,,,,
-316,Ciconiiformes,261,,0.19,,,,
-317,Phoenicopteridae,316,,0.33,,,,
-318,Phoeniconaias,317,,1.00,,,,
-319,Phoeniconaias minor,318,3,1.00,,,,
-320,Phoenicopterus,317,,0.20,,,,
-321,Phoenicopterus chilensis,320,2,0.00,,,,
-322,Phoenicopterus ruber,320,13,0.23,,,,
-323,Threskiornithidae,316,,0.05,,,,
-324,Eudocimus,323,,0.00,,,,
-325,Eudocimus ruber,324,17,0.00,,,,
-326,Platalea,323,,0.50,,,,
-327,Platalea leucorodia,326,2,0.50,,,,
-328,Columbiformes,261,,0.00,,,,
-329,Columbidae,328,,0.00,,,,
-330,Nesoenas,329,,0.00,,,,
-331,Nesoenas mayeri,330,1,0.00,,,,
-332,Cuculiformes,261,,0.12,,,,
-333,Musophagidae,332,,0.12,,,,
-334,Tauraco,333,,0.12,,,,
-335,Tauraco corythaix,334,2,0.00,,,,
-336,Tauraco erythrolophus,334,14,0.00,,,,
-337,Tauraco fischeri,334,5,0.00,,,,
-338,Tauraco hartlaubi,334,4,0.00,,,,
-339,Tauraco leucolophus,334,18,0.06,,,,
-340,Tauraco leucotis,334,9,0.00,,,,
-341,Tauraco livingstonii,334,3,0.00,,,,
-342,Tauraco persa,334,7,0.57,,,,
-343,Tauraco porphyreolophus,334,9,0.00,,,,
-344,Tauraco schalowi,334,1,0.00,,,,
-345,Tauraco schuettii,334,2,1.00,,,,
-346,Tauraco spp.,334,2,1.00,,,,
-347,Falconiformes,261,,0.78,,,,
-348,Cathartidae,347,,0.67,,,,
-349,Sarcoramphus,348,,0.67,,,,
-350,Sarcoramphus papa,349,3,0.67,,,,
-351,Pandionidae,347,,1.00,,,,
-352,Pandion,351,,1.00,,,,
-353,Pandion haliaetus,352,5,1.00,,,,
-354,Sagittariidae,347,,0.00,,,,
-355,Sagittarius,354,,0.00,,,,
-356,Sagittarius serpentarius,355,1,0.00,,,,
-357,Galliformes,261,,0.17,,,,
-358,Cracidae,357,,0.20,,,,
-359,Crax,358,,0.25,,,,
-360,Crax rubra,359,4,0.25,,,,
-361,Ortalis,358,,1.00,,,,
-362,Ortalis vetula,361,1,1.00,,,,
-363,Pauxi,358,,0.00,,,,
-364,Pauxi pauxi,363,9,0.00,,,,
-365,Penelope,358,,1.00,,,,
-366,Penelope purpurascens,365,1,1.00,,,,
-367,Phasianidae,357,,0.16,,,,
-368,Argusianus,367,,0.00,,,,
-369,Argusianus argus,368,1,0.00,,,,
-370,Gallus,367,,0.00,,,,
-371,Gallus sonneratii,370,3,0.00,,,,
-372,Lophura,367,,0.00,,,,
-373,Lophura leucomelanos,372,2,0.00,,,,
-374,Meleagris,367,,0.67,,,,
-375,Meleagris ocellata,374,6,0.67,,,,
-376,Pavo,367,,0.16,,,,
-377,Pavo cristatus,376,119,0.17,,,,
-378,Pavo muticus,376,12,0.08,,,,
-379,Polyplectron,367,,0.00,,,,
-380,Polyplectron bicalcaratum,379,6,0.00,,,,
-381,Polyplectron germaini,379,1,0.00,,,,
-382,Polyplectron malacense,379,1,0.00,,,,
-383,Tragopan,367,,0.00,,,,
-384,Tragopan satyra,383,3,0.00,,,,
-385,Gruiformes,261,,0.83,,,,
-386,Otididae,385,,0.83,,,,
-387,Ardeotis,386,,0.00,,,,
-388,Ardeotis kori,387,1,0.00,,,,
-389,Lissotis,386,,1.00,,,,
-390,Lissotis melanogaster,389,1,1.00,,,,
-391,Lophotis,386,,1.00,,,,
-392,Lophotis ruficrista,391,1,1.00,,,,
-393,Otis,386,,1.00,,,,
-394,Otis tarda,393,3,1.00,,,,
-395,Passeriformes,261,,0.35,,,,
-396,Cotingidae,395,,1.00,,,,
-397,Cephalopterus,396,,1.00,,,,
-398,Cephalopterus ornatus,397,1,1.00,,,,
-399,Muscicapidae,395,,0.38,,,,
-400,Leiothrix,399,,0.43,,,,
-401,Leiothrix argentauris,400,3,1.00,,,,
-402,Leiothrix lutea,400,4,0.00,,,,
-403,Liocichla,399,,0.33,,,,
-404,Liocichla omeiensis,403,6,0.33,,,,
-405,Paradisaeidae,395,,0.27,,,,
-406,Cicinnurus,405,,0.00,,,,
-407,Cicinnurus regius,406,2,0.00,,,,
-408,Lophorina,405,,1.00,,,,
-409,Lophorina superba,408,2,1.00,,,,
-410,Paradisaea,405,,0.00,,,,
-411,Paradisaea apoda,410,2,0.00,,,,
-412,Paradisaea minor,410,1,0.00,,,,
-413,Paradisaea raggiana,410,1,0.00,,,,
-414,Paradisaea rubra,410,3,0.00,,,,
-415,Paradisaea spp.,410,1,0.00,,,,
-416,Parotia,405,,1.00,,,,
-417,Parotia lawesii,416,1,1.00,,,,
-418,Pteridophora,405,,1.00,,,,
-419,Pteridophora alberti,418,1,1.00,,,,
-420,Seleucidis,405,,0.00,,,,
-421,Seleucidis melanoleucus,420,1,0.00,,,,
-422,Pycnonotidae,395,,1.00,,,,
-423,Pycnonotus,422,,1.00,,,,
-424,Pycnonotus zeylanicus,423,3,1.00,,,,
-425,Sturnidae,395,,0.21,,,,
-426,Gracula,425,,0.21,,,,
-427,Gracula religiosa,426,14,0.21,,,,
-428,Piciformes,261,,0.78,,,,
-429,Ramphastidae,428,,0.78,,,,
-430,Baillonius,429,,0.00,,,,
-431,Baillonius bailloni,430,1,0.00,,,,
-432,Pteroglossus,429,,0.89,,,,
-433,Pteroglossus aracari,432,9,0.89,,,,
-434,Pteroglossus viridis,432,9,0.89,,,,
-435,Ramphastos,429,,0.77,,,,
-436,Ramphastos dicolorus,435,2,0.00,,,,
-437,Ramphastos sulfuratus,435,2,0.00,,,,
-438,Ramphastos toco,435,24,0.54,,,,
-439,Ramphastos tucanus,435,25,0.96,,,,
-440,Ramphastos vitellinus,435,28,0.89,,,,
-441,Psittaciformes,261,,0.12,,,,
-442,Loriidae,441,,0.06,,,,
-443,Chalcopsitta,442,,0.09,,,,
-444,Chalcopsitta atra,443,16,0.00,,,,
-445,Chalcopsitta cardinalis,443,10,0.40,,,,
-446,Chalcopsitta duivenbodei,443,12,0.00,,,,
-447,Chalcopsitta sintillata,443,7,0.00,,,,
-448,Charmosyna,442,,0.13,,,,
-449,Charmosyna papou,448,5,0.20,,,,
-450,Charmosyna placentis,448,3,0.00,,,,
-451,Eos,442,,0.00,,,,
-452,Eos cyanogenia,451,2,0.00,,,,
-453,Eos reticulata,451,3,0.00,,,,
-454,Eos rubra,451,20,0.00,,,,
-455,Eos semilarvata,451,1,0.00,,,,
-456,Eos squamata,451,3,0.00,,,,
-457,Eos squamata riciniata,451,2,0.00,,,,
-458,Glossopsitta,442,,0.00,,,,
-459,Glossopsitta concinna,458,6,0.00,,,,
-460,Lorius,442,,0.08,,,,
-461,Lorius chlorocercus,460,7,0.57,,,,
-462,Lorius domicella,460,3,0.00,,,,
-463,Lorius garrulus,460,28,0.04,,,,
-464,Lorius hypoinochrous,460,1,0.00,,,,
-465,Lorius lory,460,22,0.00,,,,
-466,Phigys,442,,0.00,,,,
-467,Phigys solitarius,466,1,0.00,,,,
-468,Pseudeos,442,,0.00,,,,
-469,Pseudeos fuscata,468,13,0.00,,,,
-470,Psitteuteles,442,,0.00,,,,
-471,Psitteuteles goldiei,470,2,0.00,,,,
-472,Trichoglossus,442,,0.04,,,,
-473,Trichoglossus chlorolepidotus,472,4,0.25,,,,
-474,Trichoglossus flavoviridis,472,1,0.00,,,,
-475,Trichoglossus haematodus,472,56,0.04,,,,
-476,Trichoglossus johnstoniae,472,2,0.00,,,,
-477,Trichoglossus ornatus,472,4,0.00,,,,
-478,Trichoglossus spp.,472,1,0.00,,,,
-479,Vini,442,,1.00,,,,
-480,Vini kuhlii,479,1,1.00,,,,
-481,Psittacidae,441,,0.13,,,,
-482,Agapornis,481,,0.01,,,,
-483,Agapornis canus,482,12,0.00,,,,
-484,Agapornis fischeri,482,76,0.00,,,,
-485,Agapornis hybrid,482,1,0.00,,,,
-486,Agapornis lilianae,482,10,0.00,,,,
-487,Agapornis nigrigenis,482,7,0.00,,,,
-488,Agapornis personatus,482,59,0.00,,,,
-489,Agapornis pullarius,482,2,1.00,,,,
-490,Agapornis taranta,482,15,0.00,,,,
-491,Alisterus,481,,0.00,,,,
-492,Alisterus amboinensis,491,1,0.00,,,,
-493,Alisterus chloropterus,491,3,0.00,,,,
-494,Alisterus scapularis,491,35,0.00,,,,
-495,Amazona,481,,0.25,,,,
-496,Amazona aestiva,495,102,0.05,,,,
-497,Amazona albifrons,495,18,0.00,,,,
-498,Amazona amazonica,495,59,0.53,,,,
-499,Amazona autumnalis,495,36,0.06,,,,
-500,Amazona barbadensis,495,2,0.00,,,,
-501,Amazona collaria,495,1,0.00,,,,
-502,Amazona dufresniana,495,11,0.91,,,,
-503,Amazona farinosa,495,39,0.36,,,,
-504,Amazona festiva,495,16,0.31,,,,
-505,Amazona ochrocephala,495,97,0.31,,,,
-506,Amazona ventralis,495,5,0.00,,,,
-507,Amazona xantholora,495,1,0.00,,,,
-508,Amazona xanthops,495,4,0.00,,,,
-509,Aprosmictus,481,,0.00,,,,
-510,Aprosmictus erythropterus,509,30,0.00,,,,
-511,Ara,481,,0.25,,,,
-512,Ara ararauna,511,182,0.22,,,,
-513,Ara chloropterus,511,127,0.35,,,,
-514,Ara hybrid,511,33,0.03,,,,
-515,Ara severus,511,22,0.23,,,,
-516,Aratinga,481,,0.11,,,,
-517,Aratinga acuticaudata,516,6,0.00,,,,
-518,Aratinga aurea,516,6,0.33,,,,
-519,Aratinga auricapillus,516,6,0.00,,,,
-520,Aratinga cactorum,516,1,0.00,,,,
-521,Aratinga canicularis,516,2,0.00,,,,
-522,Aratinga chloroptera,516,1,1.00,,,,
-523,Aratinga erythrogenys,516,3,0.00,,,,
-524,Aratinga holochlora,516,2,0.00,,,,
-525,Aratinga jandaya,516,14,0.00,,,,
-526,Aratinga leucophthalma,516,4,0.50,,,,
-527,Aratinga mitrata,516,2,0.00,,,,
-528,Aratinga pertinax,516,10,0.50,,,,
-529,Aratinga solstitialis,516,58,0.03,,,,
-530,Aratinga wagleri,516,1,1.00,,,,
-531,Aratinga weddellii,516,6,0.00,,,,
-532,Barnardius,481,,0.00,,,,
-533,Barnardius zonarius,532,35,0.00,,,,
-534,Bolborhynchus,481,,0.00,,,,
-535,Bolborhynchus lineola,534,17,0.00,,,,
-536,Brotogeris,481,,0.00,,,,
-537,Brotogeris cyanoptera,536,2,0.00,,,,
-538,Brotogeris pyrrhoptera,536,1,0.00,,,,
-539,Brotogeris tirica,536,1,0.00,,,,
-540,Coracopsis,481,,0.00,,,,
-541,Coracopsis nigra,540,3,0.00,,,,
-542,Cyanoliseus,481,,0.00,,,,
-543,Cyanoliseus patagonus,542,18,0.00,,,,
-544,Cyanoramphus,481,,0.00,,,,
-545,Cyanoramphus auriceps,544,38,0.00,,,,
-546,Cyanoramphus malherbi,544,3,0.00,,,,
-547,Cyanoramphus unicolor,544,1,0.00,,,,
-548,Deroptyus,481,,0.72,,,,
-549,Deroptyus accipitrinus,548,29,0.72,,,,
-550,Diopsittaca,481,,0.40,,,,
-551,Diopsittaca nobilis,550,40,0.40,,,,
-552,Eclectus,481,,0.03,,,,
-553,Eclectus roratus,552,101,0.03,,,,
-554,Eclectus spp.,552,1,0.00,,,,
-555,Enicognathus,481,,0.00,,,,
-556,Enicognathus leptorhynchus,555,1,0.00,,,,
-557,Forpus,481,,0.02,,,,
-558,Forpus coelestis,557,32,0.00,,,,
-559,Forpus modestus,557,1,0.00,,,,
-560,Forpus passerinus,557,5,0.20,,,,
-561,Forpus xanthops,557,5,0.00,,,,
-562,Forpus xanthopterygius,557,1,0.00,,,,
-563,Lathamus,481,,0.00,,,,
-564,Lathamus discolor,563,9,0.00,,,,
-565,Loriculus,481,,0.13,,,,
-566,Loriculus galgulus,565,5,0.00,,,,
-567,Loriculus philippensis,565,1,1.00,,,,
-568,Loriculus pusillus,565,2,0.00,,,,
-569,Myiopsitta,481,,0.04,,,,
-570,Myiopsitta monachus,569,54,0.04,,,,
-571,Nandayus,481,,0.00,,,,
-572,Nandayus nenday,571,6,0.00,,,,
-573,Neophema,481,,0.00,,,,
-574,Neophema chrysostoma,573,3,0.00,,,,
-575,Neophema elegans,573,6,0.00,,,,
-576,Neophema petrophila,573,1,0.00,,,,
-577,Neophema pulchella,573,21,0.00,,,,
-578,Neophema splendida,573,13,0.00,,,,
-579,Neopsephotus,481,,0.00,,,,
-580,Neopsephotus bourkii,579,25,0.00,,,,
-581,Nestor,481,,0.00,,,,
-582,Nestor notabilis,581,8,0.00,,,,
-583,Northiella,481,,0.00,,,,
-584,Northiella haematogaster,583,8,0.00,,,,
-585,Orthopsittaca,481,,0.88,,,,
-586,Orthopsittaca manilata,585,17,0.88,,,,
-587,Pionites,481,,0.19,,,,
-588,Pionites leucogaster,587,54,0.00,,,,
-589,Pionites melanocephalus,587,58,0.38,,,,
-590,Pionites spp.,587,1,0.00,,,,
-591,Pionus,481,,0.43,,,,
-592,Pionus chalcopterus,591,7,0.00,,,,
-593,Pionus fuscus,591,13,0.77,,,,
-594,Pionus maximiliani,591,9,0.11,,,,
-595,Pionus menstruus,591,35,0.57,,,,
-596,Pionus senilis,591,8,0.00,,,,
-597,Platycercus,481,,0.00,,,,
-598,Platycercus adscitus,597,28,0.00,,,,
-599,Platycercus caledonicus,597,8,0.00,,,,
-600,Platycercus elegans,597,60,0.00,,,,
-601,Platycercus eximius,597,80,0.00,,,,
-602,Platycercus icterotis,597,19,0.00,,,,
-603,Platycercus spp.,597,1,0.00,,,,
-604,Platycercus venustus,597,9,0.00,,,,
-605,Poicephalus,481,,0.16,,,,
-606,Poicephalus cryptoxanthus,605,2,0.00,,,,
-607,Poicephalus flavifrons,605,2,0.00,,,,
-608,Poicephalus fuscicollis,605,1,0.00,,,,
-609,Poicephalus gulielmi,605,21,0.38,,,,
-610,Poicephalus meyeri,605,13,0.00,,,,
-611,Poicephalus robustus,605,10,0.00,,,,
-612,Poicephalus rueppellii,605,4,0.00,,,,
-613,Poicephalus rufiventris,605,4,0.00,,,,
-614,Poicephalus senegalus,605,37,0.19,,,,
-615,Poicephalus spp.,605,1,0.00,,,,
-616,Polytelis,481,,0.00,,,,
-617,Polytelis alexandrae,616,26,0.00,,,,
-618,Polytelis anthopeplus,616,33,0.00,,,,
-619,Polytelis swainsonii,616,39,0.00,,,,
-620,Primolius,481,,0.00,,,,
-621,Primolius auricollis,620,19,0.00,,,,
-622,Prioniturus,481,,0.33,,,,
-623,Prioniturus discurus,622,1,1.00,,,,
-624,Prioniturus platurus,622,2,0.00,,,,
-625,Prosopeia,481,,0.00,,,,
-626,Prosopeia personata,625,1,0.00,,,,
-627,Psephotus,481,,0.00,,,,
-628,Psephotus haematonotus,627,69,0.00,,,,
-629,Psephotus varius,627,14,0.00,,,,
-630,Psilopsiagon,481,,0.00,,,,
-631,Psilopsiagon aurifrons,630,2,0.00,,,,
-632,Psilopsiagon aymara,630,7,0.00,,,,
-633,Psittacula,481,,0.00,,,,
-634,Psittacula alexandri,633,12,0.00,,,,
-635,Psittacula columboides,633,2,0.00,,,,
-636,Psittacula cyanocephala,633,20,0.00,,,,
-637,Psittacula derbiana,633,24,0.00,,,,
-638,Psittacula eupatria,633,32,0.00,,,,
-639,Psittacula himalayana,633,1,0.00,,,,
-640,Psittacula longicauda,633,4,0.00,,,,
-641,Psittaculirostris,481,,0.00,,,,
-642,Psittaculirostris desmarestii,641,4,0.00,,,,
-643,Psittaculirostris salvadorii,641,1,0.00,,,,
-644,Psittacus,481,,0.13,,,,
-645,Psittacus erithacus,644,355,0.12,,,,
-646,Psittinus,481,,0.00,,,,
-647,Psittinus cyanurus,646,4,0.00,,,,
-648,Psittrichas,481,,0.00,,,,
-649,Psittrichas fulgidus,648,7,0.00,,,,
-650,Purpureicephalus,481,,0.00,,,,
-651,Purpureicephalus spurius,650,11,0.00,,,,
-652,Pyrrhura,481,,0.05,,,,
-653,Pyrrhura egregia,652,1,1.00,,,,
-654,Pyrrhura frontalis,652,8,0.00,,,,
-655,Pyrrhura griseipectus,652,3,0.00,,,,
-656,Pyrrhura hoffmanni,652,1,0.00,,,,
-657,Pyrrhura lepida,652,4,0.00,,,,
-658,Pyrrhura leucotis,652,2,0.00,,,,
-659,Pyrrhura molinae,652,68,0.00,,,,
-660,Pyrrhura perlata,652,20,0.00,,,,
-661,Pyrrhura picta,652,11,0.55,,,,
-662,Pyrrhura rhodocephala,652,4,0.00,,,,
-663,Pyrrhura rupicola,652,6,0.00,,,,
-664,Tanygnathus,481,,0.00,,,,
-665,Tanygnathus lucionensis,664,6,0.00,,,,
-666,Tanygnathus megalorynchos,664,3,0.00,,,,
-667,Tanygnathus sumatranus,664,1,0.00,,,,
-668,Triclaria,481,,0.00,,,,
-669,Triclaria malachitacea,668,1,0.00,,,,
-670,Rheiformes,261,,0.05,,,,
-671,Rheidae,670,,0.05,,,,
-672,Pterocnemia,671,,0.00,,,,
-673,Pterocnemia pennata pennata,672,2,0.00,,,,
-674,Rhea,671,,0.06,,,,
-675,Rhea americana,674,17,0.06,,,,
-676,Rhea americana albescens,674,1,0.00,,,,
-677,Sphenisciformes,261,,0.00,,,,
-678,Spheniscidae,677,,0.00,,,,
-679,Spheniscus,678,,0.00,,,,
-680,Spheniscus demersus,679,4,0.00,,,,
-681,Strigiformes,261,,0.15,,,,
-682,Strigidae,681,,0.12,,,,
-683,Aegolius,682,,0.00,,,,
-684,Aegolius funereus,683,5,0.00,,,,
-685,Asio,682,,0.57,,,,
-686,Asio capensis,685,1,1.00,,,,
-687,Asio flammeus,685,2,1.00,,,,
-688,Asio otus,685,4,0.25,,,,
-689,Athene,682,,0.21,,,,
-690,Athene brama,689,2,0.50,,,,
-691,Athene cunicularia,689,5,0.20,,,,
-692,Athene noctua,689,12,0.17,,,,
-693,Bubo,682,,0.11,,,,
-694,Bubo africanus,693,9,0.11,,,,
-695,Bubo ascalaphus,693,1,0.00,,,,
-696,Bubo bubo,693,32,0.09,,,,
-697,Bubo bubo bengalensis,693,4,0.00,,,,
-698,Bubo capensis,693,2,0.00,,,,
-699,Bubo cinerascens,693,3,0.00,,,,
-700,Bubo lacteus,693,3,0.33,,,,
-701,Bubo spp.,693,1,1.00,,,,
-702,Bubo virginianus,693,9,0.11,,,,
-703,Ciccaba,682,,0.00,,,,
-704,Ciccaba huhula,703,1,0.00,,,,
-705,Glaucidium,682,,0.25,,,,
-706,Glaucidium brasilianum,705,5,0.00,,,,
-707,Glaucidium gnoma,705,2,1.00,,,,
-708,Glaucidium passerinum,705,1,0.00,,,,
-709,Ninox,682,,0.22,,,,
-710,Ninox boobook,709,4,0.00,,,,
-711,Ninox novaeseelandiae,709,3,0.00,,,,
-712,Ninox odiosa,709,1,1.00,,,,
-713,Ninox philippensis,709,1,1.00,,,,
-714,Nyctea,682,,0.03,,,,
-715,Nyctea scandiaca,714,34,0.03,,,,
-716,Otus,682,,0.15,,,,
-717,Otus asio,716,1,0.00,,,,
-718,Otus bakkamoena,716,4,0.00,,,,
-719,Otus choliba,716,5,0.00,,,,
-720,Otus kennicottii,716,4,0.00,,,,
-721,Otus mindorensis,716,1,1.00,,,,
-722,Otus rutilus,716,2,1.00,,,,
-723,Otus scops,716,3,0.00,,,,
-724,Pseudoscops,682,,0.00,,,,
-725,Pseudoscops clamator,724,2,0.00,,,,
-726,Ptilopsis,682,,0.00,,,,
-727,Ptilopsis granti,726,1,0.00,,,,
-728,Ptilopsis leucotis,726,6,0.00,,,,
-729,Pulsatrix,682,,0.06,,,,
-730,Pulsatrix koeniswaldiana,729,1,1.00,,,,
-731,Pulsatrix melanota,729,1,0.00,,,,
-732,Pulsatrix perspicillata,729,16,0.00,,,,
-733,Scotopelia,682,,1.00,,,,
-734,Scotopelia peli,733,1,1.00,,,,
-735,Strix,682,,0.10,,,,
-736,Strix aluco,735,7,0.00,,,,
-737,Strix chacoensis,735,2,0.00,,,,
-738,Strix leptogrammica,735,6,0.00,,,,
-739,Strix nebulosa,735,15,0.13,,,,
-740,Strix rufipes,735,3,0.00,,,,
-741,Strix seloputo,735,1,0.00,,,,
-742,Strix uralensis,735,7,0.00,,,,
-743,Strix varia,735,2,1.00,,,,
-744,Strix virgata,735,3,0.00,,,,
-745,Strix woodfordii,735,6,0.17,,,,
-746,Surnia,682,,0.00,,,,
-747,Surnia ulula,746,5,0.00,,,,
-748,Tytonidae,681,,0.44,,,,
-749,Phodilus,748,,0.50,,,,
-750,Phodilus badius,749,2,0.50,,,,
-751,Tyto,748,,0.44,,,,
-752,Tyto alba,751,20,0.40,,,,
-753,Tyto capensis,751,1,1.00,,,,
-754,Tyto glaucops,751,2,0.00,,,,
-755,Tyto rosenbergii,751,1,1.00,,,,
-756,Tyto sororcula,751,1,1.00,,,,
-757,Bivalvia,1,,0.43,,,,
-758,Veneroida,757,,0.43,,,,
-759,Tridacnidae,758,,0.43,,,,
-760,Hippopus,759,,0.00,,,,
-761,Hippopus hippopus,760,14,0.00,,,,
-762,Tridacna,759,,0.46,,,,
-763,Tridacna crocea,762,24,0.13,,,,
-764,Tridacna derasa,762,20,0.10,,,,
-765,Tridacna gigas,762,4,1.00,,,,
-766,Tridacna maxima,762,105,0.59,,,,
-767,Tridacna spp.,762,1,1.00,,,,
-768,Tridacna squamosa,762,31,0.45,,,,
-769,Tridacna hybrid,759,,0.00,,,,
-770,Tridacna hybrid spp.,769,1,0.00,,,,
-771,Dipneusti,1,,0.00,,,,
-772,Ceratodontiformes,771,,0.00,,,,
-773,Neoceratodontidae,772,,0.00,,,,
-774,Neoceratodus,773,,0.00,,,,
-775,Elasmobranchii,1,,1.00,,,,
-776,Carcharhiniformes,775,,1.00,,,,
-777,Sphyrnidae,776,,1.00,,,,
-778,Sphyrna,777,,1.00,,,,
-779,Sphyrna lewini,778,21,1.00,,,,
-780,Sphyrna mokarran,778,16,1.00,,,,
-781,Sphyrna zygaena,778,4,1.00,,,,
-782,Myliobatiformes,775,,1.00,,,,
-783,Myliobatidae,782,,1.00,,,,
-784,Manta,783,,1.00,,,,
-785,Manta alfredi,784,5,1.00,,,,
-786,Manta birostris,784,7,1.00,,,,
-787,Orectolobiformes,775,,1.00,,,,
-788,Rhincodontidae,787,,1.00,,,,
-789,Rhincodon,788,,1.00,,,,
-790,Rhincodon typus,789,2,1.00,,,,
-791,Gastropoda,1,,0.98,,,,
-792,Mesogastropoda,791,,0.98,,,,
-793,Strombidae,792,,0.98,,,,
-794,Strombus,793,,0.98,,,,
-795,Strombus gigas,794,128,0.98,,,,
-796,Holothuroidea,1,,1.00,,,,
-797,Aspidochirotida,796,,1.00,,,,
-798,Stichopodidae,797,,1.00,,,,
-799,Isostichopus,798,,1.00,,,,
-800,Isostichopus fuscus,799,4,1.00,,,,
-801,Hydrozoa,1,,0.94,,,,
-802,Milleporina,801,,0.87,,,,
-803,Milleporidae,802,,0.87,,,,
-804,Millepora,803,,0.87,,,,
-805,Millepora alcicornis,804,2,0.50,,,,
-806,Millepora complanata,804,1,1.00,,,,
-807,Millepora platyphylla,804,4,1.00,,,,
-808,Millepora spp.,804,63,0.87,,,,
-809,Millepora tenera,804,1,1.00,,,,
-810,Stylasterina,801,,0.99,,,,
-811,Stylasteridae,810,,0.99,,,,
-812,Calyptopora,811,,1.00,,,,
-813,Calyptopora reticulata,812,1,1.00,,,,
-814,Conopora,811,,1.00,,,,
-815,Conopora verrucosa,814,1,1.00,,,,
-816,Crypthelia,811,,1.00,,,,
-817,Crypthelia cymas,816,1,1.00,,,,
-818,Crypthelia glebulenta,816,1,1.00,,,,
-819,Crypthelia pudica,816,1,1.00,,,,
-820,Crypthelia trophostega,816,1,1.00,,,,
-821,Cyclohelia,811,,1.00,,,,
-822,Cyclohelia lamellata,821,1,1.00,,,,
-823,Distichopora,811,,1.00,,,,
-824,Distichopora anceps,823,1,1.00,,,,
-825,Distichopora borealis,823,1,1.00,,,,
-826,Distichopora gracilis,823,1,1.00,,,,
-827,Distichopora laevigranulosa,823,1,1.00,,,,
-828,Distichopora serpens,823,1,1.00,,,,
-829,Distichopora spp.,823,45,1.00,,,,
-830,Errina,811,,1.00,,,,
-831,Errina antarctica,830,2,1.00,,,,
-832,Errina cheilopora,830,1,1.00,,,,
-833,Errina cochleata,830,1,1.00,,,,
-834,Errina gracilis,830,1,1.00,,,,
-835,Errina kerguelensis,830,1,1.00,,,,
-836,Errina reticulata,830,1,1.00,,,,
-837,Errina spp.,830,2,1.00,,,,
-838,Errinopora,811,,1.00,,,,
-839,Errinopora nanneca,838,1,1.00,,,,
-840,Errinopsis,811,,1.00,,,,
-841,Errinopsis fenestrata,840,1,1.00,,,,
-842,Errinopsis reticulum,840,1,1.00,,,,
-843,Lepidopora,811,,1.00,,,,
-844,Lepidopora glabra,843,1,1.00,,,,
-845,Lepidotheca,811,,1.00,,,,
-846,Lepidotheca macropora,845,1,1.00,,,,
-847,Sporadopora,811,,1.00,,,,
-848,Sporadopora dichotoma,847,1,1.00,,,,
-849,Stenohelia,811,,1.00,,,,
-850,Stenohelia concinna,849,1,1.00,,,,
-851,Stenohelia pauciseptata,849,1,1.00,,,,
-852,Stylantheca,811,,1.00,,,,
-853,Stylantheca petrograpta,852,1,1.00,,,,
-854,Stylaster,811,,0.97,,,,
-855,Stylaster californicus,854,1,1.00,,,,
-856,Stylaster corallium,854,1,1.00,,,,
-857,Stylaster densicaulis,854,1,1.00,,,,
-858,Stylaster duchassaingii,854,1,1.00,,,,
-859,Stylaster erubescens,854,2,1.00,,,,
-860,Stylaster eximius,854,1,1.00,,,,
-861,Stylaster galapagensis,854,1,1.00,,,,
-862,Stylaster laevigatus,854,1,1.00,,,,
-863,Stylaster marenzelleri,854,1,1.00,,,,
-864,Stylaster miniatus,854,1,1.00,,,,
-865,Stylaster roseus,854,1,1.00,,,,
-866,Stylaster sanguineus,854,1,1.00,,,,
-867,Stylaster spp.,854,17,0.94,,,,
-868,Stylaster venustus,854,1,1.00,,,,
-869,Insecta,1,,0.08,,,,
-870,Lepidoptera,869,,0.08,,,,
-871,Nymphalidae,870,,1.00,,,,
-872,Agrias,871,,1.00,,,,
-873,Agrias amydon,872,1,1.00,,,,
-874,Morpho,871,,1.00,,,,
-875,Morpho godartii lachaumei,874,2,1.00,,,,
-876,Papilionidae,870,,0.07,,,,
-877,Atrophaneura,876,,1.00,,,,
-878,Atrophaneura jophon,877,1,1.00,,,,
-879,Ornithoptera,876,,0.04,,,,
-880,Ornithoptera aesacus,879,11,0.00,,,,
-881,Ornithoptera akakeae,879,2,0.00,,,,
-882,Ornithoptera chimaera,879,6,0.00,,,,
-883,Ornithoptera croesus,879,14,0.07,,,,
-884,Ornithoptera goliath,879,15,0.07,,,,
-885,Ornithoptera meridionalis,879,13,0.00,,,,
-886,Ornithoptera paradisea,879,11,0.00,,,,
-887,Ornithoptera priamus,879,25,0.08,,,,
-888,Ornithoptera rothschildi,879,11,0.00,,,,
-889,Ornithoptera tithonus,879,11,0.00,,,,
-890,Ornithoptera victoriae,879,2,0.50,,,,
-891,Parnassius,876,,1.00,,,,
-892,Parnassius apollo,891,1,1.00,,,,
-893,Trogonoptera,876,,0.24,,,,
-894,Trogonoptera brookiana,893,15,0.27,,,,
-895,Trogonoptera trojana,893,2,0.00,,,,
-896,Troides,876,,0.06,,,,
-897,Troides amphrysus,896,7,0.00,,,,
-898,Troides andromache,896,2,1.00,,,,
-899,Troides criton,896,8,0.00,,,,
-900,Troides cuneifera,896,8,0.00,,,,
-901,Troides dohertyi,896,5,0.00,,,,
-902,Troides haliphron,896,10,0.00,,,,
-903,Troides helena,896,14,0.00,,,,
-904,Troides hypolitus,896,11,0.00,,,,
-905,Troides magellanus,896,1,0.00,,,,
-906,Troides miranda,896,5,0.40,,,,
-907,Troides oblongomaculatus,896,3,0.00,,,,
-908,Troides prattorum,896,1,0.00,,,,
-909,Troides rhadamantus,896,16,0.13,,,,
-910,Troides vandepolli,896,11,0.00,,,,
-911,Mammalia,1,,0.90,,,,
-912,Artiodactyla,911,,0.89,,,,
-913,Bovidae,912,,0.82,,,,
-914,Antilope,913,,0.71,,,,
-915,Antilope cervicapra,914,59,0.71,,,,
-916,Boselaphus,913,,0.25,,,,
-917,Boselaphus tragocamelus,916,4,0.25,,,,
-918,Capra,913,,0.98,,,,
-919,Capra hircus aegagrus,918,20,0.95,,,,
-920,Capra sibirica,918,34,1.00,,,,
-921,Capra spp.,918,1,1.00,,,,
-922,Gazella,913,,0.25,,,,
-923,Gazella bennettii,922,2,0.50,,,,
-924,Gazella dorcas,922,2,0.00,,,,
-925,Pseudois,913,,1.00,,,,
-926,Pseudois nayaur,925,8,1.00,,,,
-927,Cervidae,912,,0.75,,,,
-928,Axis,927,,0.71,,,,
-929,Axis porcinus,928,7,0.71,,,,
-930,Mazama,927,,1.00,,,,
-931,Mazama temama cerasina,930,1,1.00,,,,
-932,Moschidae,912,,0.96,,,,
-933,Moschus,932,,0.96,,,,
-934,Moschus moschiferus,933,17,0.94,,,,
-935,Moschus spp.,933,6,1.00,,,,
-936,Tayassuidae,912,,0.97,,,,
-937,Pecari,936,,0.96,,,,
-938,Pecari tajacu,937,89,0.96,,,,
-939,Tayassu,936,,1.00,,,,
-940,Tayassu pecari,939,43,1.00,,,,
-941,Carnivora,911,,0.90,,,,
-942,Canidae,941,,1.00,,,,
-943,Canis,942,,1.00,,,,
-944,Canis aureus,943,10,1.00,,,,
-945,Vulpes,942,,1.00,,,,
-946,Vulpes vulpes,945,1,1.00,,,,
-947,Hyaenidae,941,,0.83,,,,
-948,Hyaena,947,,0.33,,,,
-949,Hyaena hyaena,948,3,0.33,,,,
-950,Proteles,947,,0.93,,,,
-951,Proteles cristata,950,15,0.93,,,,
-952,Mustelidae,941,,0.80,,,,
-953,Aonyx,952,,0.00,,,,
-954,Aonyx cinerea,953,32,0.00,,,,
-955,Eira,952,,0.40,,,,
-956,Eira barbara,955,5,0.40,,,,
-957,Enhydra,952,,1.00,,,,
-958,Enhydra lutris,957,6,1.00,,,,
-959,Galictis,952,,1.00,,,,
-960,Galictis vittata,959,3,1.00,,,,
-961,Hydrictis,952,,0.00,,,,
-962,Hydrictis maculicollis,961,2,0.00,,,,
-963,Lontra,952,,0.97,,,,
-964,Lontra canadensis,963,58,0.97,,,,
-965,Lutra,952,,1.00,,,,
-966,Lutra spp.,965,1,1.00,,,,
-967,Lutrogale,952,,0.33,,,,
-968,Lutrogale perspicillata,967,3,0.33,,,,
-969,Martes,952,,1.00,,,,
-970,Martes flavigula,969,1,1.00,,,,
-971,Mellivora,952,,1.00,,,,
-972,Mellivora capensis,971,23,1.00,,,,
-973,Mustela,952,,1.00,,,,
-974,Mustela altaica,973,1,1.00,,,,
-975,Mustela sibirica,973,69,1.00,,,,
-976,Odobenidae,941,,1.00,,,,
-977,Odobenus,976,,1.00,,,,
-978,Odobenus rosmarus,977,91,1.00,,,,
-979,Otariidae,941,,0.94,,,,
-980,Arctocephalus,979,,0.94,,,,
-981,Arctocephalus australis,980,14,1.00,,,,
-982,Arctocephalus forsteri,980,1,1.00,,,,
-983,Arctocephalus gazella,980,5,1.00,,,,
-984,Arctocephalus pusillus,980,28,0.89,,,,
-985,Arctocephalus tropicalis,980,1,1.00,,,,
-986,Phocidae,941,,1.00,,,,
-987,Mirounga,986,,1.00,,,,
-988,Mirounga leonina,987,4,1.00,,,,
-989,Procyonidae,941,,0.93,,,,
-990,Nasua,989,,1.00,,,,
-991,Nasua narica,990,2,1.00,,,,
-992,Nasua nasua solitaria,990,1,1.00,,,,
-993,Potos,989,,0.88,,,,
-994,Potos flavus,993,8,0.88,,,,
-995,Ursidae,941,,0.93,,,,
-996,Ursus,995,,0.93,,,,
-997,Ursus americanus,996,172,0.99,,,,
-998,Ursus arctos,996,165,0.84,,,,
-999,Ursus maritimus,996,66,0.97,,,,
-1000,Viverridae,941,,0.91,,,,
-1001,Arctictis,1000,,0.00,,,,
-1002,Arctictis binturong,1001,3,0.00,,,,
-1003,Civettictis,1000,,0.98,,,,
-1004,Civettictis civetta,1003,47,0.98,,,,
-1005,Hemigalus,1000,,0.00,,,,
-1006,Hemigalus derbyanus,1005,1,0.00,,,,
-1007,Paradoxurus,1000,,1.00,,,,
-1008,Paradoxurus hermaphroditus,1007,2,1.00,,,,
-1009,Cetacea,911,,0.99,,,,
-1010,Monodontidae,1009,,0.98,,,,
-1011,Delphinapterus,1010,,0.97,,,,
-1012,Delphinapterus leucas,1011,31,0.97,,,,
-1013,Monodon,1010,,1.00,,,,
-1014,Monodon monoceros,1013,24,1.00,,,,
-1015,Phocoenidae,1009,,1.00,,,,
-1016,Phocoena,1015,,1.00,,,,
-1017,Phocoena phocoena,1016,12,1.00,,,,
-1018,Phocoenoides,1015,,1.00,,,,
-1019,Phocoenoides dalli,1018,1,1.00,,,,
-1020,Physeteridae,1009,,1.00,,,,
-1021,Kogia,1020,,1.00,,,,
-1022,Kogia breviceps,1021,1,1.00,,,,
-1023,Ziphiidae,1009,,1.00,,,,
-1024,Indopacetus,1023,,1.00,,,,
-1025,Indopacetus pacificus,1024,1,1.00,,,,
-1026,Mesoplodon,1023,,1.00,,,,
-1027,Mesoplodon bidens,1026,1,1.00,,,,
-1028,Mesoplodon bowdoini,1026,2,1.00,,,,
-1029,Mesoplodon carlhubbsi,1026,2,1.00,,,,
-1030,Mesoplodon densirostris,1026,5,1.00,,,,
-1031,Mesoplodon europaeus,1026,3,1.00,,,,
-1032,Mesoplodon ginkgodens,1026,2,1.00,,,,
-1033,Mesoplodon grayi,1026,6,1.00,,,,
-1034,Mesoplodon hectori,1026,3,1.00,,,,
-1035,Mesoplodon layardii,1026,5,1.00,,,,
-1036,Mesoplodon mirus,1026,7,1.00,,,,
-1037,Mesoplodon perrini,1026,1,1.00,,,,
-1038,Mesoplodon peruvianus,1026,1,1.00,,,,
-1039,Mesoplodon spp.,1026,1,1.00,,,,
-1040,Mesoplodon stejnegeri,1026,4,1.00,,,,
-1041,Mesoplodon traversii,1026,1,1.00,,,,
-1042,Tasmacetus,1023,,1.00,,,,
-1043,Tasmacetus shepherdi,1042,3,1.00,,,,
-1044,Ziphius,1023,,1.00,,,,
-1045,Ziphius cavirostris,1044,10,1.00,,,,
-1046,Chiroptera,911,,0.92,,,,
-1047,Pteropodidae,1046,,0.92,,,,
-1048,Pteropus,1047,,0.92,,,,
-1049,Pteropus alecto,1048,3,1.00,,,,
-1050,Pteropus capistratus,1048,1,1.00,,,,
-1051,Pteropus conspicillatus,1048,1,1.00,,,,
-1052,Pteropus giganteus,1048,1,1.00,,,,
-1053,Pteropus lylei,1048,2,0.00,,,,
-1054,Pteropus ornatus,1048,2,1.00,,,,
-1055,Pteropus poliocephalus,1048,1,1.00,,,,
-1056,Pteropus rayneri,1048,1,1.00,,,,
-1057,Pteropus rufus,1048,4,1.00,,,,
-1058,Pteropus seychellensis,1048,1,1.00,,,,
-1059,Pteropus spp.,1048,2,1.00,,,,
-1060,Pteropus vampyrus,1048,4,1.00,,,,
-1061,Pteropus vetulus,1048,2,1.00,,,,
-1062,Diprotodontia,911,,0.67,,,,
-1063,Phalangeridae,1062,,0.67,,,,
-1064,Phalanger,1063,,1.00,,,,
-1065,Phalanger orientalis,1064,2,1.00,,,,
-1066,Spilocuscus,1063,,0.00,,,,
-1067,Spilocuscus spp.,1066,1,0.00,,,,
-1068,Monotremata,911,,1.00,,,,
-1069,Tachyglossidae,1068,,1.00,,,,
-1070,Zaglossus,1069,,1.00,,,,
-1071,Zaglossus bruijni,1070,1,1.00,,,,
-1072,Perissodactyla,911,,0.74,,,,
-1073,Rhinocerotidae,1072,,0.94,,,,
-1074,Ceratotherium,1073,,0.94,,,,
-1075,Ceratotherium simum,1074,10,0.90,,,,
-1076,Ceratotherium simum simum,1074,37,0.95,,,,
-1077,Tapiridae,1072,,0.07,,,,
-1078,Tapirus,1077,,0.07,,,,
-1079,Tapirus terrestris,1078,14,0.07,,,,
-1080,Pholidota,911,,1.00,,,,
-1081,Manidae,1080,,1.00,,,,
-1082,Manis,1081,,1.00,,,,
-1083,Manis gigantea,1082,5,1.00,,,,
-1084,Manis javanica,1082,1,1.00,,,,
-1085,Manis pentadactyla,1082,1,1.00,,,,
-1086,Manis spp.,1082,2,1.00,,,,
-1087,Manis tricuspis,1082,5,1.00,,,,
-1088,Pilosa,911,,0.50,,,,
-1089,Megalonychidae,1088,,1.00,,,,
-1090,Choloepus,1089,,1.00,,,,
-1091,Choloepus hoffmanni,1090,5,1.00,,,,
-1092,Myrmecophagidae,1088,,0.14,,,,
-1093,Myrmecophaga,1092,,0.14,,,,
-1094,Myrmecophaga tridactyla,1093,7,0.14,,,,
-1095,Primates,911,,0.69,,,,
-1096,Lorisidae,1095,,1.00,,,,
-1097,Perodicticus potto,1096,3,1.00,,,,
-1098,Pitheciidae,1095,,0.57,,,,
-1099,Callicebus,1098,,0.67,,,,
-1100,Callicebus brunneus,1099,2,1.00,,,,
-1101,Callicebus cupreus,1099,1,0.00,,,,
-1102,Pithecia,1098,,0.50,,,,
-1103,Pithecia irrorata,1102,1,1.00,,,,
-1104,Pithecia monachus,1102,1,1.00,,,,
-1105,Pithecia pithecia,1102,2,0.00,,,,
-1106,Tarsiidae,1095,,0.67,,,,
-1107,Tarsius,1106,,0.67,,,,
-1108,Tarsius bancanus,1107,1,1.00,,,,
-1109,Tarsius syrichta,1107,1,1.00,,,,
-1110,Tarsius tarsier,1107,1,0.00,,,,
-1111,Rodentia,911,,0.92,,,,
-1112,Cuniculidae,1111,,1.00,,,,
-1113,Cuniculus,1112,,1.00,,,,
-1114,Cuniculus paca,1113,9,1.00,,,,
-1115,Dasyproctidae,1111,,1.00,,,,
-1116,Dasyprocta,1115,,1.00,,,,
-1117,Dasyprocta punctata,1116,2,1.00,,,,
-1118,Sciuridae,1111,,0.00,,,,
-1119,Ratufa,1118,,0.00,,,,
-1120,Ratufa affinis,1119,1,0.00,,,,
-1121,Scandentia,911,,0.86,,,,
-1122,Tupaiidae,1121,,0.86,,,,
-1123,Tupaia,1122,,0.86,,,,
-1124,Tupaia belangeri,1123,1,0.00,,,,
-1125,Tupaia everetti,1123,2,1.00,,,,
-1126,Tupaia glis,1123,2,1.00,,,,
-1127,Tupaia montana,1123,1,1.00,,,,
-1128,Tupaia tana,1123,1,1.00,,,,
-1129,Reptilia,1,,0.54,,,,
-1130,Sauria,1129,,0.85,,,,
-1131,Gekkonidae,1130,,0.00,,,,
-1132,Dactylocnemis,1131,,0.00,,,,
-1133,Dactylocnemis pacificus,1132,1,0.00,,,,
-1134,Scincidae,1130,,0.40,,,,
-1135,Corucia,1134,,0.40,,,,
-1136,Corucia zebrata,1135,5,0.40,,,,
-1137,Teiidae,1130,,0.85,,,,
-1138,Dracaena,1137,,0.00,,,,
-1139,Dracaena guianensis,1138,16,0.00,,,,
-1140,Salvator,1137,,0.87,,,,
-1141,Salvator merianae,1140,255,0.90,,,,
-1142,Salvator rufescens,1140,125,0.82,,,,
-1143,Tupinambis,1137,,1.00,,,,
-1144,Tupinambis spp.,1143,9,1.00,,,,
-1145,Tupinambis teguixin,1143,29,1.00,,,,
-1146,Varanidae,1130,,0.86,,,,
-1147,Varanus,1146,,0.86,,,,
-1148,Varanus acanthurus,1147,17,0.00,,,,
-1149,Varanus albigularis,1147,14,0.71,,,,
-1150,Varanus beccarii,1147,11,0.00,,,,
-1151,Varanus boehmei,1147,1,0.00,,,,
-1152,Varanus cumingi,1147,5,0.20,,,,
-1153,Varanus dalubhasa,1147,1,1.00,,,,
-1154,Varanus doreanus,1147,20,0.70,,,,
-1155,Varanus dumerilii,1147,15,0.60,,,,
-1156,Varanus exanthematicus,1147,18,0.94,,,,
-1157,Varanus giganteus,1147,1,0.00,,,,
-1158,Varanus gilleni,1147,6,0.00,,,,
-1159,Varanus glauerti,1147,3,0.00,,,,
-1160,Varanus gouldii,1147,1,0.00,,,,
-1161,Varanus indicus,1147,8,0.38,,,,
-1162,Varanus jobiensis,1147,20,0.55,,,,
-1163,Varanus kingorum,1147,1,0.00,,,,
-1164,Varanus kordensis,1147,5,0.00,,,,
-1165,Varanus macraei,1147,19,0.00,,,,
-1166,Varanus melinus,1147,18,0.06,,,,
-1167,Varanus mertensi,1147,5,0.00,,,,
-1168,Varanus niloticus,1147,679,0.98,,,,
-1169,Varanus ornatus,1147,1,1.00,,,,
-1170,Varanus panoptes,1147,8,0.00,,,,
-1171,Varanus pilbarensis,1147,6,0.00,,,,
-1172,Varanus prasinus,1147,16,0.06,,,,
-1173,Varanus primordius,1147,3,0.00,,,,
-1174,Varanus reisingeri,1147,14,0.00,,,,
-1175,Varanus rudicollis,1147,24,0.71,,,,
-1176,Varanus salvadorii,1147,17,0.59,,,,
-1177,Varanus salvator,1147,908,0.96,,,,
-1178,Varanus similis,1147,7,0.00,,,,
-1179,Varanus spenceri,1147,3,0.00,,,,
-1180,Varanus spinulosus,1147,2,1.00,,,,
-1181,Varanus spp.,1147,7,0.86,,,,
-1182,Varanus storri,1147,1,0.00,,,,
-1183,Varanus timorensis,1147,14,0.00,,,,
-1184,Varanus tristis,1147,3,0.00,,,,
-1185,Varanus varius,1147,2,0.00,,,,
-1186,Varanus yuwonoi,1147,6,0.00,,,,
-1187,Xenosauridae,1130,,0.00,,,,
-1188,Shinisaurus,1187,,0.00,,,,
-1189,Shinisaurus crocodilurus,1188,7,0.00,,,,
-1190,Serpentes,1129,,0.42,,,,
-1191,Colubridae,1190,,0.95,,,,
-1192,Cerberus,1191,,0.93,,,,
-1193,Cerberus rynchops,1192,14,0.93,,,,
-1194,Xenochrophis,1191,,1.00,,,,
-1195,Xenochrophis piscator,1194,2,1.00,,,,
-1196,Xenochrophis spp.,1194,4,1.00,,,,
-1197,Loxocemidae,1190,,0.00,,,,
-1198,Loxocemus,1197,,0.00,,,,
-1199,Loxocemus bicolor,1198,3,0.00,,,,
-1200,Pythonidae,1190,,0.43,,,,
-1201,Antaresia,1200,,0.00,,,,
-1202,Antaresia childreni,1201,3,0.00,,,,
-1203,Antaresia maculosa,1201,2,0.00,,,,
-1204,Antaresia perthensis,1201,3,0.00,,,,
-1205,Apodora,1200,,1.00,,,,
-1206,Apodora papuana,1205,12,1.00,,,,
-1207,Aspidites,1200,,0.00,,,,
-1208,Aspidites melanocephalus,1207,7,0.00,,,,
-1209,Aspidites ramsayi,1207,5,0.00,,,,
-1210,Bothrochilus,1200,,0.67,,,,
-1211,Bothrochilus boa,1210,3,0.67,,,,
-1212,Leiopython,1200,,0.48,,,,
-1213,Leiopython albertisii,1212,27,0.48,,,,
-1214,Liasis,1200,,0.47,,,,
-1215,Liasis fuscus,1214,11,0.64,,,,
-1216,Liasis mackloti,1214,17,0.41,,,,
-1217,Liasis olivaceus,1214,2,0.00,,,,
-1218,Morelia,1200,,0.25,,,,
-1219,Morelia amethistina,1218,22,0.36,,,,
-1220,Morelia boeleni,1218,13,0.00,,,,
-1221,Morelia bredli,1218,2,0.00,,,,
-1222,Morelia carinata,1218,2,0.00,,,,
-1223,Morelia clastolepis,1218,3,1.00,,,,
-1224,Morelia nauta,1218,4,1.00,,,,
-1225,Morelia spilota,1218,37,0.32,,,,
-1226,Morelia tracyae,1218,3,1.00,,,,
-1227,Morelia viridis,1218,37,0.03,,,,
-1228,Python,1200,,0.44,,,,
-1229,Python anchietae,1228,7,0.15,,,,
-1230,Python bivittatus,1228,884,0.08,,,,
-1231,Python breitensteini,1228,178,0.84,,,,
-1232,Python brongersmai,1228,409,0.84,,,,
-1233,Python curtus,1228,38,0.74,,,,
-1234,Python hybrid,1228,1,0.00,,,,
-1235,Python molurus,1228,92,0.10,,,,
-1236,Python natalensis,1228,1,0.00,,,,
-1237,Python regius,1228,95,0.03,,,,
-1238,Python reticulatus,1228,2207,0.49,,,,
-1239,Python sebae,1228,55,0.96,,,,
-1240,Python spp.,1228,1,1.00,,,,
-1241,Python timoriensis,1228,6,0.00,,,,
-1242,Tropidophiidae,1190,,0.00,,,,
-1243,Tropidophis,1242,,0.00,,,,
-1244,Tropidophis wrighti,1243,1,0.00,,,,
-1245,Viperidae,1190,,0.13,,,,
-1246,Crotalus,1245,,0.50,,,,
-1247,Crotalus durissus,1246,2,0.50,,,,
-1248,Daboia,1245,,0.13,,,,
-1249,Daboia russelii,1248,214,0.13,,,,
-1250,Trimeresurus,1245,,0.00,,,,
-1251,Trimeresurus mangshanensis,1250,5,0.00,,,,
-1252,Vipera,1245,,0.00,,,,
-1253,Vipera wagneri,1252,1,0.00,,,,
-1254,Testudines,1129,,0.23,,,,
-1255,Chelydridae,1254,,1.00,,,,
-1256,Macrochelys,1255,,1.00,,,,
-1257,Macrochelys temminckii,1256,8,1.00,,,,
-1258,Emydidae,1254,,0.58,,,,
-1259,Graptemys,1258,,0.58,,,,
-1260,Graptemys barbouri,1259,1,0.00,,,,
-1261,Graptemys flavimaculata,1259,3,0.00,,,,
-1262,Graptemys gibbonsi,1259,1,0.00,,,,
-1263,Graptemys hybrid,1259,4,1.00,,,,
-1264,Graptemys nigrinoda,1259,5,0.20,,,,
-1265,Graptemys oculifera,1259,3,0.00,,,,
-1266,Graptemys ouachitensis,1259,9,1.00,,,,
-1267,Graptemys pseudogeographica,1259,19,0.63,,,,
-1268,Geoemydidae,1254,,0.22,,,,
-1269,Mauremys,1268,,0.22,,,,
-1270,Mauremys iversoni,1269,2,0.00,,,,
-1271,Mauremys pritchardi,1269,1,0.00,,,,
-1272,Mauremys reevesii,1269,22,0.27,,,,
-1273,Mauremys sinensis,1269,11,0.18,,,,
-1274,Podocnemididae,1254,,0.12,,,,
-1275,Erymnochelys,1274,,1.00,,,,
-1276,Erymnochelys madagascariensis,1275,2,1.00,,,,
-1277,Podocnemis,1274,,0.00,,,,
-1278,Podocnemis unifilis,1277,13,0.00,,,,
-1279,Podocnemis vogli,1277,2,0.00,,,,
-1280,Testudinidae,1254,,0.16,,,,
-1281,Aldabrachelys,1280,,0.00,,,,
-1282,Aldabrachelys gigantea,1281,38,0.00,,,,
-1283,Centrochelys,1280,,0.03,,,,
-1284,Centrochelys sulcata,1283,72,0.03,,,,
-1285,Chelonoidis,1280,,0.28,,,,
-1286,Chelonoidis carbonarius,1285,87,0.21,,,,
-1287,Chelonoidis chilensis,1285,6,0.33,,,,
-1288,Chelonoidis denticulatus,1285,32,0.47,,,,
-1289,Chersina,1280,,0.00,,,,
-1290,Chersina angulata,1289,13,0.00,,,,
-1291,Geochelone,1280,,0.00,,,,
-1292,Geochelone elegans,1291,19,0.00,,,,
-1293,Gopherus,1280,,0.00,,,,
-1294,Gopherus berlandieri,1293,1,0.00,,,,
-1295,Homopus,1280,,0.00,,,,
-1296,Homopus areolatus,1295,3,0.00,,,,
-1297,Homopus signatus,1295,1,0.00,,,,
-1298,Indotestudo,1280,,0.36,,,,
-1299,Indotestudo elongata,1298,2,0.00,,,,
-1300,Indotestudo forstenii,1298,9,0.44,,,,
-1301,Kinixys,1280,,0.74,,,,
-1302,Kinixys belliana,1301,10,0.50,,,,
-1303,Kinixys erosa,1301,11,1.00,,,,
-1304,Kinixys homeana,1301,3,1.00,,,,
-1305,Kinixys spekii,1301,3,0.33,,,,
-1306,Malacochersus,1280,,0.00,,,,
-1307,Malacochersus tornieri,1306,17,0.00,,,,
-1308,Manouria,1280,,0.26,,,,
-1309,Manouria emys,1308,17,0.29,,,,
-1310,Manouria impressa,1308,2,0.00,,,,
-1311,Stigmochelys,1280,,0.09,,,,
-1312,Stigmochelys pardalis,1311,82,0.09,,,,
-1313,Testudo,1280,,0.13,,,,
-1314,Testudo graeca,1313,38,0.05,,,,
-1315,Testudo hermanni,1313,62,0.00,,,,
-1316,Testudo horsfieldii,1313,45,0.47,,,,
-1317,Testudo marginata,1313,26,0.00,,,,
-1318,Trionychidae,1254,,0.97,,,,
-1319,Amyda,1318,,1.00,,,,
-1320,Amyda cartilaginea,1319,7,1.00,,,,
-1321,Dogania,1318,,1.00,,,,
-1322,Dogania subplana,1321,6,1.00,,,,
-1323,Palea,1318,,0.00,,,,
-1324,Palea steindachneri,1323,1,0.00,,,,
-1325,Pelochelys,1318,,1.00,,,,
-1326,Pelochelys bibroni,1325,7,1.00,,,,
-1327,Pelochelys cantorii,1325,5,1.00,,,,
-1328,Pelochelys signifera,1325,6,1.00,,,,
-1329,Rafetus,1318,,1.00,,,,
-1330,Rafetus swinhoei,1329,1,1.00,,,,
-1331,Nasua nasua,990,4,1.00,,,,
-1332,Amazilia brevirostris,268,1,1.00,,,,
-1333,Psittacus erithacus timneh,644,13,0.31,,,,
-1334,Neoceratodus forsteri,774,3,0.00,,,,
-1335,,,,,,,,
-1336,,,,,,,,
-1337,,,,,,,,
-1338,,,,,,,,
-1339,,,,,,,,
-1340,,,,,,,,
-1341,,,,,,,,
-1342,,,,,,,,
-1343,,,,,,,,
-1344,,,,,,,,
-1345,,,,,,,,
-1346,,,,,,,,
-1347,,,,,,,,
-1348,,,,,,,,
-1349,,,,,,,,
-1350,,,,,,,,
-1351,,,,,,,,
-1352,,,,,,,,
-1353,,,,,,,,
-1354,,,,,,,,
-1355,,,,,,,,
-1356,,,,,,,,
-1357,,,,,,,,
-1358,,,,,,,,
+id,name,parent,size,wild
+1,Animals,,,0.51
+2,Actinopteri,1,,0.49
+3,Acipenseriformes,2,,0.38
+4,Polyodontidae,3,,0.38
+5,polyodon,4,,0.38
+6,Polyodon spathula,5,8,0.38
+7,Syngnathiformes,2,,0.49
+8,Syngnathidae,7,,0.49
+9,Hippocampus,8,,0.49
+10,Hippocampus abdominalis,9,7,0.14
+11,Hippocampus algiricus,9,1,1.00
+12,Hippocampus barbouri,9,7,0.14
+13,Hippocampus breviceps,9,1,1.00
+14,Hippocampus comes,9,8,0.13
+15,Hippocampus erectus,9,5,0.60
+16,Hippocampus histrix,9,2,0.50
+17,Hippocampus kelloggi,9,3,1.00
+18,Hippocampus kuda,9,27,0.74
+19,Hippocampus reidi,9,13,0.15
+20,Hippocampus semispinosus,9,4,0.00
+21,Hippocampus spinosissimus,9,4,0.75
+22,Hippocampus spp.,9,3,0.67
+23,Hippocampus subelongatus,9,3,1.00
+24,Hippocampus trimaculatus,9,2,1.00
+25,Hippocampus whitei,9,2,0.50
+26,Hippocampus zosterae,9,1,1.00
+27,Amphibia,1,,0.84
+28,Anura,27,,0.84
+29,Calyptocephalellidae,28,,0.00
+30,Calyptocephalella,29,,0.00
+31,Calyptocephalella gayi,30,1,0.00
+32,Mantellidae,28,,0.85
+33,Mantella,32,,0.85
+34,Mantella aurantiaca,33,12,0.58
+35,Mantella baroni,33,6,1.00
+36,Mantella betsileo,33,11,0.91
+37,Mantella cowanii,33,1,1.00
+38,Mantella crocea,33,2,1.00
+39,Mantella laevigata,33,4,1.00
+40,Mantella madagascariensis,33,8,0.75
+41,Mantella manery,33,1,1.00
+42,Mantella milotympanum,33,2,1.00
+43,Mantella nigricans,33,9,1.00
+44,Mantella pulchra,33,1,1.00
+45,Mantella spp.,33,2,1.00
+46,Mantella viridis,33,1,0.00
+47,Anthozoa,1,,0.68
+48,Antipatharia,47,,1.00
+49,Myriopathidae,48,,1.00
+50,Cupressopathes,49,,1.00
+51,Cupressopathes spp.,50,1,1.00
+52,Tanacetipathes,49,,1.00
+53,Tanacetipathes barbadensis,52,1,1.00
+54,Tanacetipathes hirta,52,1,1.00
+55,Tanacetipathes tanacetum,52,1,1.00
+56,Tanacetipathes thamnea,52,1,1.00
+57,Schizopathidae,48,,1.00
+58,Parantipathes,57,,1.00
+59,Parantipathes spp.,58,1,1.00
+60,Gorgonacea,47,,0.97
+61,Coralliidae,60,,0.97
+62,Corallium,61,,0.97
+63,Corallium elatius,62,51,0.98
+64,Corallium japonicum,62,13,1.00
+65,Corallium konjoi,62,8,0.88
+66,Corallium secundum,62,24,0.96
+67,Scleractinia,47,,0.66
+68,Meandriniidae,67,,1.00
+69,Dendrogyra,68,,1.00
+70,Dendrogyra cylindrus,69,1,1.00
+71,Dichocoenia,68,,1.00
+72,Dichocoenia stokesii,71,1,1.00
+73,Meandrina,68,,1.00
+74,Meandrina maeandrites,73,2,1.00
+75,Merulinidae,67,,0.62
+76,Hydnophora,75,,0.65
+77,Hydnophora bonsai,76,1,1.00
+78,Hydnophora exesa,76,58,0.97
+79,Hydnophora microconos,76,40,1.00
+80,Hydnophora rigida,76,29,0.66
+81,Hydnophora spp.,76,68,0.16
+82,Merulina,75,,0.58
+83,Merulina ampliata,82,107,0.56
+84,Merulina scabricula,82,5,0.80
+85,Merulina spp.,82,2,1.00
+86,Mussidae,67,,0.71
+87,Acanthastrea,86,,0.70
+88,Acanthastrea amakusensis,87,7,0.86
+89,Acanthastrea bowerbanki,87,14,0.93
+90,Acanthastrea echinata,87,8,0.88
+91,Acanthastrea hemprichii,87,2,0.00
+92,Acanthastrea hillae,87,9,1.00
+93,Acanthastrea lordhowensis,87,22,0.95
+94,Acanthastrea maxima,87,4,0.75
+95,Acanthastrea rotundoflora,87,1,0.00
+96,Acanthastrea spp.,87,124,0.60
+97,Acanthophyllia,86,,0.96
+98,Acanthophyllia deshayesiana,97,44,0.95
+99,Acanthophyllia spp.,97,1,1.00
+100,Australomussa,86,,0.15
+101,Australomussa rowleyensis,100,32,0.13
+102,Australomussa spp.,100,1,1.00
+103,Blastomussa,86,,0.59
+104,Blastomussa merleti,103,30,0.33
+105,Blastomussa spp.,103,12,0.92
+106,Blastomussa wellsi,103,98,0.63
+107,Cynarina,86,,0.95
+108,Cynarina lacrymalis,107,69,0.94
+109,Cynarina spp.,107,4,1.00
+110,Lobophyllia,86,,0.73
+111,Lobophyllia corymbosa,110,55,0.95
+112,Lobophyllia diminuta,110,1,1.00
+113,Lobophyllia hataii,110,1,0.00
+114,Lobophyllia hemprichii,110,18,0.94
+115,Lobophyllia robusta,110,3,1.00
+116,Lobophyllia spp.,110,167,0.63
+117,Micromussa,86,,1.00
+118,Micromussa spp.,117,2,1.00
+119,Mussismilia,86,,1.00
+120,Mussismilia braziliensis,119,1,1.00
+121,Mycetophyllia,86,,1.00
+122,Mycetophyllia aliciae,121,2,1.00
+123,Scolymia,86,,0.81
+124,Scolymia australis,123,34,0.97
+125,Scolymia cubensis,123,1,1.00
+126,Scolymia lacera,123,1,1.00
+127,Scolymia spp.,123,49,0.57
+128,Scolymia vitiensis,123,40,0.95
+129,Symphyllia,86,,0.67
+130,Symphyllia agaricia,129,5,1.00
+131,Symphyllia radians,129,2,1.00
+132,Symphyllia recta,129,2,0.50
+133,Symphyllia spp.,129,117,0.63
+134,Symphyllia valenciennesii,129,2,1.00
+135,Symphyllia wilsoni,129,7,1.00
+136,Oculinidae,67,,0.68
+137,Acrhelia,136,,1.00
+138,Acrhelia horrescens,137,3,1.00
+139,Galaxea,136,,0.68
+140,Galaxea acrhelia,139,1,1.00
+141,Galaxea astreata,139,48,1.00
+142,Galaxea fascicularis,139,67,0.94
+143,Galaxea spp.,139,63,0.14
+144,Madrepora,136,,1.00
+145,Madrepora oculata,144,1,1.00
+146,Madrepora spp.,144,1,1.00
+147,Pectiniidae,67,,0.53
+148,Echinophyllia,147,,0.60
+149,Echinophyllia aspera,148,11,0.82
+150,Echinophyllia echinata,148,3,1.00
+151,Echinophyllia echinoporoides,148,1,1.00
+152,Echinophyllia nishihirai,148,3,1.00
+153,Echinophyllia spp.,148,133,0.56
+154,Mycedium,147,,0.40
+155,Mycedium elephantotus,154,55,0.44
+156,Mycedium robokaki,154,26,0.04
+157,Mycedium spina,154,1,0.00
+158,Mycedium spp.,154,56,0.54
+159,Oxypora,147,,0.55
+160,Oxypora convoluta,159,1,1.00
+161,Oxypora glabra,159,1,1.00
+162,Oxypora spp.,159,60,0.53
+163,Pectinia,147,,0.61
+164,Pectinia africanus,163,1,1.00
+165,Pectinia alcicornis,163,1,1.00
+166,Pectinia lactuca,163,3,1.00
+167,Pectinia paeonia,163,2,1.00
+168,Pectinia spp.,163,93,0.58
+169,Pocilloporidae,67,,0.51
+170,Madracis,169,,1.00
+171,Madracis asanoi,170,1,1.00
+172,Madracis decactis,170,2,1.00
+173,Madracis myriaster,170,1,1.00
+174,Madracis pharensis,170,1,1.00
+175,Madracis spp.,170,1,1.00
+176,Pocillopora,169,,0.56
+177,Pocillopora damicornis,176,17,0.71
+178,Pocillopora eydouxi,176,8,1.00
+179,Pocillopora meandrina,176,13,1.00
+180,Pocillopora spp.,176,106,0.43
+181,Pocillopora verrucosa,176,7,0.86
+182,Seriatopora,169,,0.46
+183,Seriatopora aculeata,182,1,1.00
+184,Seriatopora caliendrum,182,5,0.60
+185,Seriatopora hystrix,182,46,0.93
+186,Seriatopora spp.,182,73,0.15
+187,Stylophora,169,,0.45
+188,Stylophora pistillata,187,26,0.81
+189,Stylophora spp.,187,94,0.36
+190,Stylophora subseriata,187,1,0.00
+191,Poritidae,67,,0.74
+192,Alveopora,191,,0.57
+193,Alveopora gigas,192,11,0.91
+194,Alveopora spongiosa,192,7,0.86
+195,Alveopora spp.,192,81,0.49
+196,Goniopora,191,,0.80
+197,Goniopora albiconus,196,2,1.00
+198,Goniopora columna,196,1,1.00
+199,Goniopora lobata,196,68,0.96
+200,Goniopora minor,196,3,0.33
+201,Goniopora norfolkensis,196,1,1.00
+202,Goniopora somaliensis,196,1,1.00
+203,Goniopora spp.,196,189,0.68
+204,Goniopora stokesi,196,73,0.97
+205,Goniopora stutchburyi,196,2,1.00
+206,Goniopora tenuidens,196,3,1.00
+207,Porites,191,,0.71
+208,Porites annae,207,1,1.00
+209,Porites astreoides,207,9,0.78
+210,Porites branneri,207,1,0.00
+211,Porites cylindrica,207,6,0.50
+212,Porites lobata,207,10,1.00
+213,Porites lutea,207,7,1.00
+214,Porites porites,207,5,1.00
+215,Porites rus,207,2,1.00
+216,Porites spp.,207,145,0.67
+217,Rhizangiidae,67,,1.00
+218,Astrangia,217,,1.00
+219,Astrangia poculata,218,2,1.00
+220,Siderastreidae,67,,1.00
+221,Coscinaraea,220,,1.00
+222,Coscinaraea spp.,221,1,1.00
+223,Psammocora,220,,1.00
+224,Psammocora spp.,223,3,1.00
+225,Psammocora superficialis,223,1,1.00
+226,Siderastrea,220,,1.00
+227,Siderastrea radians,226,1,1.00
+228,Siderastrea siderea,226,3,1.00
+229,Siderastrea spp.,226,1,1.00
+230,Trachyphylliidae,67,,0.91
+231,Trachyphyllia,230,,0.91
+232,Trachyphyllia geoffroyi,231,107,0.91
+233,Trachyphyllia spp.,231,3,1.00
+234,Stolonifera,47,,0.76
+235,Tubiporidae,234,,0.76
+236,Tubipora,235,,0.76
+237,Tubipora musica,236,116,0.75
+238,Tubipora spp.,236,3,1.00
+239,Arachnida,1,,0.02
+240,Araneae,239,,0.00
+241,Theraphosidae,240,,0.00
+242,Aphonopelma,241,,0.00
+243,Aphonopelma albiceps,242,2,0.00
+244,Brachypelma,241,,0.00
+245,Brachypelma albopilosum,244,13,0.00
+246,Brachypelma annitha,244,4,0.00
+247,Brachypelma auratum,244,4,0.00
+248,Brachypelma baumgarteni,244,2,0.00
+249,Brachypelma boehmei,244,7,0.00
+250,Brachypelma emilia,244,7,0.00
+251,Brachypelma kahlenbergi,244,2,0.00
+252,Brachypelma klaasi,244,1,0.00
+253,Brachypelma smithi,244,15,0.00
+254,Brachypelma spp.,244,1,0.00
+255,Brachypelma vagans,244,4,0.00
+256,Brachypelma verdezi,244,1,0.00
+257,Scorpiones,239,,1.00
+258,Scorpionidae,257,,1.00
+259,Pandinus,258,,1.00
+260,Pandinus dictator,259,1,1.00
+261,Aves,1,,0.16
+262,Anseriformes,261,,0.00
+263,Anatidae,262,,0.00
+264,Cairina,263,,0.00
+265,Cairina moschata,264,22,0.00
+266,Apodiformes,261,,0.97
+267,Trochilidae,266,,0.97
+268,Amazilia,267,,1.00
+269,Amazilia cyanocephala,268,2,1.00
+270,Amazilia fimbriata,268,1,1.00
+271,Amazilia viridigaster,268,1,1.00
+272,Amazilia yucatanensis,268,1,1.00
+273,Anthracothorax,267,,1.00
+274,Anthracothorax veraguensis,273,1,1.00
+275,Archilochus,267,,1.00
+276,Archilochus colubris,275,2,1.00
+277,Basilinna,267,,1.00
+278,Basilinna leucotis,277,1,1.00
+279,Calliphlox,267,,1.00
+280,Calliphlox bryantae,279,1,1.00
+281,Campylopterus,267,,1.00
+282,Campylopterus hemileucurus,281,1,1.00
+283,Campylopterus largipennis,281,1,1.00
+284,Chlorostilbon,267,,1.00
+285,Chlorostilbon lucidus,284,1,1.00
+286,Colibri,267,,0.75
+287,Colibri coruscans,286,1,0.00
+288,Colibri thalassinus,286,3,1.00
+289,Eugenes,267,,1.00
+290,Eugenes fulgens,289,2,1.00
+291,Florisuga,267,,1.00
+292,Florisuga fusca,291,1,1.00
+293,Florisuga mellivora,291,1,1.00
+294,Heliothryx,267,,1.00
+295,Heliothryx auritus,295,1,1.00
+296,Hylocharis,267,,1.00
+297,Hylocharis cyanus,296,1,1.00
+298,Lampornis,267,,1.00
+299,Lampornis amethystinus,298,1,1.00
+300,Lampornis sybillae,298,1,1.00
+301,Lampornis viridipallens,298,1,1.00
+302,Lophornis,267,,1.00
+303,Lophornis ornatus,302,1,1.00
+304,Lophornis pavoninus,302,1,1.00
+305,Phaethornis,267,,1.00
+306,Phaethornis augusti,305,1,1.00
+307,Phaethornis bourcieri,305,1,1.00
+308,Phaethornis longirostris,305,1,1.00
+309,Phaethornis superciliosus,305,1,1.00
+310,Thalurania,267,,1.00
+311,Thalurania furcata,310,1,1.00
+312,Charadriiformes,261,,1.00
+313,Burhinidae,312,,1.00
+314,Burhinus,313,,1.00
+315,Burhinus bistriatus,314,1,1.00
+316,Ciconiiformes,261,,0.19
+317,Phoenicopteridae,316,,0.33
+318,Phoeniconaias,317,,1.00
+319,Phoeniconaias minor,318,3,1.00
+320,Phoenicopterus,317,,0.20
+321,Phoenicopterus chilensis,320,2,0.00
+322,Phoenicopterus ruber,320,13,0.23
+323,Threskiornithidae,316,,0.05
+324,Eudocimus,323,,0.00
+325,Eudocimus ruber,324,17,0.00
+326,Platalea,323,,0.50
+327,Platalea leucorodia,326,2,0.50
+328,Columbiformes,261,,0.00
+329,Columbidae,328,,0.00
+330,Nesoenas,329,,0.00
+331,Nesoenas mayeri,330,1,0.00
+332,Cuculiformes,261,,0.12
+333,Musophagidae,332,,0.12
+334,Tauraco,333,,0.12
+335,Tauraco corythaix,334,2,0.00
+336,Tauraco erythrolophus,334,14,0.00
+337,Tauraco fischeri,334,5,0.00
+338,Tauraco hartlaubi,334,4,0.00
+339,Tauraco leucolophus,334,18,0.06
+340,Tauraco leucotis,334,9,0.00
+341,Tauraco livingstonii,334,3,0.00
+342,Tauraco persa,334,7,0.57
+343,Tauraco porphyreolophus,334,9,0.00
+344,Tauraco schalowi,334,1,0.00
+345,Tauraco schuettii,334,2,1.00
+346,Tauraco spp.,334,2,1.00
+347,Falconiformes,261,,0.78
+348,Cathartidae,347,,0.67
+349,Sarcoramphus,348,,0.67
+350,Sarcoramphus papa,349,3,0.67
+351,Pandionidae,347,,1.00
+352,Pandion,351,,1.00
+353,Pandion haliaetus,352,5,1.00
+354,Sagittariidae,347,,0.00
+355,Sagittarius,354,,0.00
+356,Sagittarius serpentarius,355,1,0.00
+357,Galliformes,261,,0.17
+358,Cracidae,357,,0.20
+359,Crax,358,,0.25
+360,Crax rubra,359,4,0.25
+361,Ortalis,358,,1.00
+362,Ortalis vetula,361,1,1.00
+363,Pauxi,358,,0.00
+364,Pauxi pauxi,363,9,0.00
+365,Penelope,358,,1.00
+366,Penelope purpurascens,365,1,1.00
+367,Phasianidae,357,,0.16
+368,Argusianus,367,,0.00
+369,Argusianus argus,368,1,0.00
+370,Gallus,367,,0.00
+371,Gallus sonneratii,370,3,0.00
+372,Lophura,367,,0.00
+373,Lophura leucomelanos,372,2,0.00
+374,Meleagris,367,,0.67
+375,Meleagris ocellata,374,6,0.67
+376,Pavo,367,,0.16
+377,Pavo cristatus,376,119,0.17
+378,Pavo muticus,376,12,0.08
+379,Polyplectron,367,,0.00
+380,Polyplectron bicalcaratum,379,6,0.00
+381,Polyplectron germaini,379,1,0.00
+382,Polyplectron malacense,379,1,0.00
+383,Tragopan,367,,0.00
+384,Tragopan satyra,383,3,0.00
+385,Gruiformes,261,,0.83
+386,Otididae,385,,0.83
+387,Ardeotis,386,,0.00
+388,Ardeotis kori,387,1,0.00
+389,Lissotis,386,,1.00
+390,Lissotis melanogaster,389,1,1.00
+391,Lophotis,386,,1.00
+392,Lophotis ruficrista,391,1,1.00
+393,Otis,386,,1.00
+394,Otis tarda,393,3,1.00
+395,Passeriformes,261,,0.35
+396,Cotingidae,395,,1.00
+397,Cephalopterus,396,,1.00
+398,Cephalopterus ornatus,397,1,1.00
+399,Muscicapidae,395,,0.38
+400,Leiothrix,399,,0.43
+401,Leiothrix argentauris,400,3,1.00
+402,Leiothrix lutea,400,4,0.00
+403,Liocichla,399,,0.33
+404,Liocichla omeiensis,403,6,0.33
+405,Paradisaeidae,395,,0.27
+406,Cicinnurus,405,,0.00
+407,Cicinnurus regius,406,2,0.00
+408,Lophorina,405,,1.00
+409,Lophorina superba,408,2,1.00
+410,Paradisaea,405,,0.00
+411,Paradisaea apoda,410,2,0.00
+412,Paradisaea minor,410,1,0.00
+413,Paradisaea raggiana,410,1,0.00
+414,Paradisaea rubra,410,3,0.00
+415,Paradisaea spp.,410,1,0.00
+416,Parotia,405,,1.00
+417,Parotia lawesii,416,1,1.00
+418,Pteridophora,405,,1.00
+419,Pteridophora alberti,418,1,1.00
+420,Seleucidis,405,,0.00
+421,Seleucidis melanoleucus,420,1,0.00
+422,Pycnonotidae,395,,1.00
+423,Pycnonotus,422,,1.00
+424,Pycnonotus zeylanicus,423,3,1.00
+425,Sturnidae,395,,0.21
+426,Gracula,425,,0.21
+427,Gracula religiosa,426,14,0.21
+428,Piciformes,261,,0.78
+429,Ramphastidae,428,,0.78
+430,Baillonius,429,,0.00
+431,Baillonius bailloni,430,1,0.00
+432,Pteroglossus,429,,0.89
+433,Pteroglossus aracari,432,9,0.89
+434,Pteroglossus viridis,432,9,0.89
+435,Ramphastos,429,,0.77
+436,Ramphastos dicolorus,435,2,0.00
+437,Ramphastos sulfuratus,435,2,0.00
+438,Ramphastos toco,435,24,0.54
+439,Ramphastos tucanus,435,25,0.96
+440,Ramphastos vitellinus,435,28,0.89
+441,Psittaciformes,261,,0.12
+442,Loriidae,441,,0.06
+443,Chalcopsitta,442,,0.09
+444,Chalcopsitta atra,443,16,0.00
+445,Chalcopsitta cardinalis,443,10,0.40
+446,Chalcopsitta duivenbodei,443,12,0.00
+447,Chalcopsitta sintillata,443,7,0.00
+448,Charmosyna,442,,0.13
+449,Charmosyna papou,448,5,0.20
+450,Charmosyna placentis,448,3,0.00
+451,Eos,442,,0.00
+452,Eos cyanogenia,451,2,0.00
+453,Eos reticulata,451,3,0.00
+454,Eos rubra,451,20,0.00
+455,Eos semilarvata,451,1,0.00
+456,Eos squamata,451,3,0.00
+457,Eos squamata riciniata,451,2,0.00
+458,Glossopsitta,442,,0.00
+459,Glossopsitta concinna,458,6,0.00
+460,Lorius,442,,0.08
+461,Lorius chlorocercus,460,7,0.57
+462,Lorius domicella,460,3,0.00
+463,Lorius garrulus,460,28,0.04
+464,Lorius hypoinochrous,460,1,0.00
+465,Lorius lory,460,22,0.00
+466,Phigys,442,,0.00
+467,Phigys solitarius,466,1,0.00
+468,Pseudeos,442,,0.00
+469,Pseudeos fuscata,468,13,0.00
+470,Psitteuteles,442,,0.00
+471,Psitteuteles goldiei,470,2,0.00
+472,Trichoglossus,442,,0.04
+473,Trichoglossus chlorolepidotus,472,4,0.25
+474,Trichoglossus flavoviridis,472,1,0.00
+475,Trichoglossus haematodus,472,56,0.04
+476,Trichoglossus johnstoniae,472,2,0.00
+477,Trichoglossus ornatus,472,4,0.00
+478,Trichoglossus spp.,472,1,0.00
+479,Vini,442,,1.00
+480,Vini kuhlii,479,1,1.00
+481,Psittacidae,441,,0.13
+482,Agapornis,481,,0.01
+483,Agapornis canus,482,12,0.00
+484,Agapornis fischeri,482,76,0.00
+485,Agapornis hybrid,482,1,0.00
+486,Agapornis lilianae,482,10,0.00
+487,Agapornis nigrigenis,482,7,0.00
+488,Agapornis personatus,482,59,0.00
+489,Agapornis pullarius,482,2,1.00
+490,Agapornis taranta,482,15,0.00
+491,Alisterus,481,,0.00
+492,Alisterus amboinensis,491,1,0.00
+493,Alisterus chloropterus,491,3,0.00
+494,Alisterus scapularis,491,35,0.00
+495,Amazona,481,,0.25
+496,Amazona aestiva,495,102,0.05
+497,Amazona albifrons,495,18,0.00
+498,Amazona amazonica,495,59,0.53
+499,Amazona autumnalis,495,36,0.06
+500,Amazona barbadensis,495,2,0.00
+501,Amazona collaria,495,1,0.00
+502,Amazona dufresniana,495,11,0.91
+503,Amazona farinosa,495,39,0.36
+504,Amazona festiva,495,16,0.31
+505,Amazona ochrocephala,495,97,0.31
+506,Amazona ventralis,495,5,0.00
+507,Amazona xantholora,495,1,0.00
+508,Amazona xanthops,495,4,0.00
+509,Aprosmictus,481,,0.00
+510,Aprosmictus erythropterus,509,30,0.00
+511,Ara,481,,0.25
+512,Ara ararauna,511,182,0.22
+513,Ara chloropterus,511,127,0.35
+514,Ara hybrid,511,33,0.03
+515,Ara severus,511,22,0.23
+516,Aratinga,481,,0.11
+517,Aratinga acuticaudata,516,6,0.00
+518,Aratinga aurea,516,6,0.33
+519,Aratinga auricapillus,516,6,0.00
+520,Aratinga cactorum,516,1,0.00
+521,Aratinga canicularis,516,2,0.00
+522,Aratinga chloroptera,516,1,1.00
+523,Aratinga erythrogenys,516,3,0.00
+524,Aratinga holochlora,516,2,0.00
+525,Aratinga jandaya,516,14,0.00
+526,Aratinga leucophthalma,516,4,0.50
+527,Aratinga mitrata,516,2,0.00
+528,Aratinga pertinax,516,10,0.50
+529,Aratinga solstitialis,516,58,0.03
+530,Aratinga wagleri,516,1,1.00
+531,Aratinga weddellii,516,6,0.00
+532,Barnardius,481,,0.00
+533,Barnardius zonarius,532,35,0.00
+534,Bolborhynchus,481,,0.00
+535,Bolborhynchus lineola,534,17,0.00
+536,Brotogeris,481,,0.00
+537,Brotogeris cyanoptera,536,2,0.00
+538,Brotogeris pyrrhoptera,536,1,0.00
+539,Brotogeris tirica,536,1,0.00
+540,Coracopsis,481,,0.00
+541,Coracopsis nigra,540,3,0.00
+542,Cyanoliseus,481,,0.00
+543,Cyanoliseus patagonus,542,18,0.00
+544,Cyanoramphus,481,,0.00
+545,Cyanoramphus auriceps,544,38,0.00
+546,Cyanoramphus malherbi,544,3,0.00
+547,Cyanoramphus unicolor,544,1,0.00
+548,Deroptyus,481,,0.72
+549,Deroptyus accipitrinus,548,29,0.72
+550,Diopsittaca,481,,0.40
+551,Diopsittaca nobilis,550,40,0.40
+552,Eclectus,481,,0.03
+553,Eclectus roratus,552,101,0.03
+554,Eclectus spp.,552,1,0.00
+555,Enicognathus,481,,0.00
+556,Enicognathus leptorhynchus,555,1,0.00
+557,Forpus,481,,0.02
+558,Forpus coelestis,557,32,0.00
+559,Forpus modestus,557,1,0.00
+560,Forpus passerinus,557,5,0.20
+561,Forpus xanthops,557,5,0.00
+562,Forpus xanthopterygius,557,1,0.00
+563,Lathamus,481,,0.00
+564,Lathamus discolor,563,9,0.00
+565,Loriculus,481,,0.13
+566,Loriculus galgulus,565,5,0.00
+567,Loriculus philippensis,565,1,1.00
+568,Loriculus pusillus,565,2,0.00
+569,Myiopsitta,481,,0.04
+570,Myiopsitta monachus,569,54,0.04
+571,Nandayus,481,,0.00
+572,Nandayus nenday,571,6,0.00
+573,Neophema,481,,0.00
+574,Neophema chrysostoma,573,3,0.00
+575,Neophema elegans,573,6,0.00
+576,Neophema petrophila,573,1,0.00
+577,Neophema pulchella,573,21,0.00
+578,Neophema splendida,573,13,0.00
+579,Neopsephotus,481,,0.00
+580,Neopsephotus bourkii,579,25,0.00
+581,Nestor,481,,0.00
+582,Nestor notabilis,581,8,0.00
+583,Northiella,481,,0.00
+584,Northiella haematogaster,583,8,0.00
+585,Orthopsittaca,481,,0.88
+586,Orthopsittaca manilata,585,17,0.88
+587,Pionites,481,,0.19
+588,Pionites leucogaster,587,54,0.00
+589,Pionites melanocephalus,587,58,0.38
+590,Pionites spp.,587,1,0.00
+591,Pionus,481,,0.43
+592,Pionus chalcopterus,591,7,0.00
+593,Pionus fuscus,591,13,0.77
+594,Pionus maximiliani,591,9,0.11
+595,Pionus menstruus,591,35,0.57
+596,Pionus senilis,591,8,0.00
+597,Platycercus,481,,0.00
+598,Platycercus adscitus,597,28,0.00
+599,Platycercus caledonicus,597,8,0.00
+600,Platycercus elegans,597,60,0.00
+601,Platycercus eximius,597,80,0.00
+602,Platycercus icterotis,597,19,0.00
+603,Platycercus spp.,597,1,0.00
+604,Platycercus venustus,597,9,0.00
+605,Poicephalus,481,,0.16
+606,Poicephalus cryptoxanthus,605,2,0.00
+607,Poicephalus flavifrons,605,2,0.00
+608,Poicephalus fuscicollis,605,1,0.00
+609,Poicephalus gulielmi,605,21,0.38
+610,Poicephalus meyeri,605,13,0.00
+611,Poicephalus robustus,605,10,0.00
+612,Poicephalus rueppellii,605,4,0.00
+613,Poicephalus rufiventris,605,4,0.00
+614,Poicephalus senegalus,605,37,0.19
+615,Poicephalus spp.,605,1,0.00
+616,Polytelis,481,,0.00
+617,Polytelis alexandrae,616,26,0.00
+618,Polytelis anthopeplus,616,33,0.00
+619,Polytelis swainsonii,616,39,0.00
+620,Primolius,481,,0.00
+621,Primolius auricollis,620,19,0.00
+622,Prioniturus,481,,0.33
+623,Prioniturus discurus,622,1,1.00
+624,Prioniturus platurus,622,2,0.00
+625,Prosopeia,481,,0.00
+626,Prosopeia personata,625,1,0.00
+627,Psephotus,481,,0.00
+628,Psephotus haematonotus,627,69,0.00
+629,Psephotus varius,627,14,0.00
+630,Psilopsiagon,481,,0.00
+631,Psilopsiagon aurifrons,630,2,0.00
+632,Psilopsiagon aymara,630,7,0.00
+633,Psittacula,481,,0.00
+634,Psittacula alexandri,633,12,0.00
+635,Psittacula columboides,633,2,0.00
+636,Psittacula cyanocephala,633,20,0.00
+637,Psittacula derbiana,633,24,0.00
+638,Psittacula eupatria,633,32,0.00
+639,Psittacula himalayana,633,1,0.00
+640,Psittacula longicauda,633,4,0.00
+641,Psittaculirostris,481,,0.00
+642,Psittaculirostris desmarestii,641,4,0.00
+643,Psittaculirostris salvadorii,641,1,0.00
+644,Psittacus,481,,0.13
+645,Psittacus erithacus,644,355,0.12
+646,Psittinus,481,,0.00
+647,Psittinus cyanurus,646,4,0.00
+648,Psittrichas,481,,0.00
+649,Psittrichas fulgidus,648,7,0.00
+650,Purpureicephalus,481,,0.00
+651,Purpureicephalus spurius,650,11,0.00
+652,Pyrrhura,481,,0.05
+653,Pyrrhura egregia,652,1,1.00
+654,Pyrrhura frontalis,652,8,0.00
+655,Pyrrhura griseipectus,652,3,0.00
+656,Pyrrhura hoffmanni,652,1,0.00
+657,Pyrrhura lepida,652,4,0.00
+658,Pyrrhura leucotis,652,2,0.00
+659,Pyrrhura molinae,652,68,0.00
+660,Pyrrhura perlata,652,20,0.00
+661,Pyrrhura picta,652,11,0.55
+662,Pyrrhura rhodocephala,652,4,0.00
+663,Pyrrhura rupicola,652,6,0.00
+664,Tanygnathus,481,,0.00
+665,Tanygnathus lucionensis,664,6,0.00
+666,Tanygnathus megalorynchos,664,3,0.00
+667,Tanygnathus sumatranus,664,1,0.00
+668,Triclaria,481,,0.00
+669,Triclaria malachitacea,668,1,0.00
+670,Rheiformes,261,,0.05
+671,Rheidae,670,,0.05
+672,Pterocnemia,671,,0.00
+673,Pterocnemia pennata pennata,672,2,0.00
+674,Rhea,671,,0.06
+675,Rhea americana,674,17,0.06
+676,Rhea americana albescens,674,1,0.00
+677,Sphenisciformes,261,,0.00
+678,Spheniscidae,677,,0.00
+679,Spheniscus,678,,0.00
+680,Spheniscus demersus,679,4,0.00
+681,Strigiformes,261,,0.15
+682,Strigidae,681,,0.12
+683,Aegolius,682,,0.00
+684,Aegolius funereus,683,5,0.00
+685,Asio,682,,0.57
+686,Asio capensis,685,1,1.00
+687,Asio flammeus,685,2,1.00
+688,Asio otus,685,4,0.25
+689,Athene,682,,0.21
+690,Athene brama,689,2,0.50
+691,Athene cunicularia,689,5,0.20
+692,Athene noctua,689,12,0.17
+693,Bubo,682,,0.11
+694,Bubo africanus,693,9,0.11
+695,Bubo ascalaphus,693,1,0.00
+696,Bubo bubo,693,32,0.09
+697,Bubo bubo bengalensis,693,4,0.00
+698,Bubo capensis,693,2,0.00
+699,Bubo cinerascens,693,3,0.00
+700,Bubo lacteus,693,3,0.33
+701,Bubo spp.,693,1,1.00
+702,Bubo virginianus,693,9,0.11
+703,Ciccaba,682,,0.00
+704,Ciccaba huhula,703,1,0.00
+705,Glaucidium,682,,0.25
+706,Glaucidium brasilianum,705,5,0.00
+707,Glaucidium gnoma,705,2,1.00
+708,Glaucidium passerinum,705,1,0.00
+709,Ninox,682,,0.22
+710,Ninox boobook,709,4,0.00
+711,Ninox novaeseelandiae,709,3,0.00
+712,Ninox odiosa,709,1,1.00
+713,Ninox philippensis,709,1,1.00
+714,Nyctea,682,,0.03
+715,Nyctea scandiaca,714,34,0.03
+716,Otus,682,,0.15
+717,Otus asio,716,1,0.00
+718,Otus bakkamoena,716,4,0.00
+719,Otus choliba,716,5,0.00
+720,Otus kennicottii,716,4,0.00
+721,Otus mindorensis,716,1,1.00
+722,Otus rutilus,716,2,1.00
+723,Otus scops,716,3,0.00
+724,Pseudoscops,682,,0.00
+725,Pseudoscops clamator,724,2,0.00
+726,Ptilopsis,682,,0.00
+727,Ptilopsis granti,726,1,0.00
+728,Ptilopsis leucotis,726,6,0.00
+729,Pulsatrix,682,,0.06
+730,Pulsatrix koeniswaldiana,729,1,1.00
+731,Pulsatrix melanota,729,1,0.00
+732,Pulsatrix perspicillata,729,16,0.00
+733,Scotopelia,682,,1.00
+734,Scotopelia peli,733,1,1.00
+735,Strix,682,,0.10
+736,Strix aluco,735,7,0.00
+737,Strix chacoensis,735,2,0.00
+738,Strix leptogrammica,735,6,0.00
+739,Strix nebulosa,735,15,0.13
+740,Strix rufipes,735,3,0.00
+741,Strix seloputo,735,1,0.00
+742,Strix uralensis,735,7,0.00
+743,Strix varia,735,2,1.00
+744,Strix virgata,735,3,0.00
+745,Strix woodfordii,735,6,0.17
+746,Surnia,682,,0.00
+747,Surnia ulula,746,5,0.00
+748,Tytonidae,681,,0.44
+749,Phodilus,748,,0.50
+750,Phodilus badius,749,2,0.50
+751,Tyto,748,,0.44
+752,Tyto alba,751,20,0.40
+753,Tyto capensis,751,1,1.00
+754,Tyto glaucops,751,2,0.00
+755,Tyto rosenbergii,751,1,1.00
+756,Tyto sororcula,751,1,1.00
+757,Bivalvia,1,,0.43
+758,Veneroida,757,,0.43
+759,Tridacnidae,758,,0.43
+760,Hippopus,759,,0.00
+761,Hippopus hippopus,760,14,0.00
+762,Tridacna,759,,0.46
+763,Tridacna crocea,762,24,0.13
+764,Tridacna derasa,762,20,0.10
+765,Tridacna gigas,762,4,1.00
+766,Tridacna maxima,762,105,0.59
+767,Tridacna spp.,762,1,1.00
+768,Tridacna squamosa,762,31,0.45
+769,Tridacna hybrid,759,,0.00
+770,Tridacna hybrid spp.,769,1,0.00
+771,Dipneusti,1,,0.00
+772,Ceratodontiformes,771,,0.00
+773,Neoceratodontidae,772,,0.00
+774,Neoceratodus,773,,0.00
+775,Elasmobranchii,1,,1.00
+776,Carcharhiniformes,775,,1.00
+777,Sphyrnidae,776,,1.00
+778,Sphyrna,777,,1.00
+779,Sphyrna lewini,778,21,1.00
+780,Sphyrna mokarran,778,16,1.00
+781,Sphyrna zygaena,778,4,1.00
+782,Myliobatiformes,775,,1.00
+783,Myliobatidae,782,,1.00
+784,Manta,783,,1.00
+785,Manta alfredi,784,5,1.00
+786,Manta birostris,784,7,1.00
+787,Orectolobiformes,775,,1.00
+788,Rhincodontidae,787,,1.00
+789,Rhincodon,788,,1.00
+790,Rhincodon typus,789,2,1.00
+791,Gastropoda,1,,0.98
+792,Mesogastropoda,791,,0.98
+793,Strombidae,792,,0.98
+794,Strombus,793,,0.98
+795,Strombus gigas,794,128,0.98
+796,Holothuroidea,1,,1.00
+797,Aspidochirotida,796,,1.00
+798,Stichopodidae,797,,1.00
+799,Isostichopus,798,,1.00
+800,Isostichopus fuscus,799,4,1.00
+801,Hydrozoa,1,,0.94
+802,Milleporina,801,,0.87
+803,Milleporidae,802,,0.87
+804,Millepora,803,,0.87
+805,Millepora alcicornis,804,2,0.50
+806,Millepora complanata,804,1,1.00
+807,Millepora platyphylla,804,4,1.00
+808,Millepora spp.,804,63,0.87
+809,Millepora tenera,804,1,1.00
+810,Stylasterina,801,,0.99
+811,Stylasteridae,810,,0.99
+812,Calyptopora,811,,1.00
+813,Calyptopora reticulata,812,1,1.00
+814,Conopora,811,,1.00
+815,Conopora verrucosa,814,1,1.00
+816,Crypthelia,811,,1.00
+817,Crypthelia cymas,816,1,1.00
+818,Crypthelia glebulenta,816,1,1.00
+819,Crypthelia pudica,816,1,1.00
+820,Crypthelia trophostega,816,1,1.00
+821,Cyclohelia,811,,1.00
+822,Cyclohelia lamellata,821,1,1.00
+823,Distichopora,811,,1.00
+824,Distichopora anceps,823,1,1.00
+825,Distichopora borealis,823,1,1.00
+826,Distichopora gracilis,823,1,1.00
+827,Distichopora laevigranulosa,823,1,1.00
+828,Distichopora serpens,823,1,1.00
+829,Distichopora spp.,823,45,1.00
+830,Errina,811,,1.00
+831,Errina antarctica,830,2,1.00
+832,Errina cheilopora,830,1,1.00
+833,Errina cochleata,830,1,1.00
+834,Errina gracilis,830,1,1.00
+835,Errina kerguelensis,830,1,1.00
+836,Errina reticulata,830,1,1.00
+837,Errina spp.,830,2,1.00
+838,Errinopora,811,,1.00
+839,Errinopora nanneca,838,1,1.00
+840,Errinopsis,811,,1.00
+841,Errinopsis fenestrata,840,1,1.00
+842,Errinopsis reticulum,840,1,1.00
+843,Lepidopora,811,,1.00
+844,Lepidopora glabra,843,1,1.00
+845,Lepidotheca,811,,1.00
+846,Lepidotheca macropora,845,1,1.00
+847,Sporadopora,811,,1.00
+848,Sporadopora dichotoma,847,1,1.00
+849,Stenohelia,811,,1.00
+850,Stenohelia concinna,849,1,1.00
+851,Stenohelia pauciseptata,849,1,1.00
+852,Stylantheca,811,,1.00
+853,Stylantheca petrograpta,852,1,1.00
+854,Stylaster,811,,0.97
+855,Stylaster californicus,854,1,1.00
+856,Stylaster corallium,854,1,1.00
+857,Stylaster densicaulis,854,1,1.00
+858,Stylaster duchassaingii,854,1,1.00
+859,Stylaster erubescens,854,2,1.00
+860,Stylaster eximius,854,1,1.00
+861,Stylaster galapagensis,854,1,1.00
+862,Stylaster laevigatus,854,1,1.00
+863,Stylaster marenzelleri,854,1,1.00
+864,Stylaster miniatus,854,1,1.00
+865,Stylaster roseus,854,1,1.00
+866,Stylaster sanguineus,854,1,1.00
+867,Stylaster spp.,854,17,0.94
+868,Stylaster venustus,854,1,1.00
+869,Insecta,1,,0.08
+870,Lepidoptera,869,,0.08
+871,Nymphalidae,870,,1.00
+872,Agrias,871,,1.00
+873,Agrias amydon,872,1,1.00
+874,Morpho,871,,1.00
+875,Morpho godartii lachaumei,874,2,1.00
+876,Papilionidae,870,,0.07
+877,Atrophaneura,876,,1.00
+878,Atrophaneura jophon,877,1,1.00
+879,Ornithoptera,876,,0.04
+880,Ornithoptera aesacus,879,11,0.00
+881,Ornithoptera akakeae,879,2,0.00
+882,Ornithoptera chimaera,879,6,0.00
+883,Ornithoptera croesus,879,14,0.07
+884,Ornithoptera goliath,879,15,0.07
+885,Ornithoptera meridionalis,879,13,0.00
+886,Ornithoptera paradisea,879,11,0.00
+887,Ornithoptera priamus,879,25,0.08
+888,Ornithoptera rothschildi,879,11,0.00
+889,Ornithoptera tithonus,879,11,0.00
+890,Ornithoptera victoriae,879,2,0.50
+891,Parnassius,876,,1.00
+892,Parnassius apollo,891,1,1.00
+893,Trogonoptera,876,,0.24
+894,Trogonoptera brookiana,893,15,0.27
+895,Trogonoptera trojana,893,2,0.00
+896,Troides,876,,0.06
+897,Troides amphrysus,896,7,0.00
+898,Troides andromache,896,2,1.00
+899,Troides criton,896,8,0.00
+900,Troides cuneifera,896,8,0.00
+901,Troides dohertyi,896,5,0.00
+902,Troides haliphron,896,10,0.00
+903,Troides helena,896,14,0.00
+904,Troides hypolitus,896,11,0.00
+905,Troides magellanus,896,1,0.00
+906,Troides miranda,896,5,0.40
+907,Troides oblongomaculatus,896,3,0.00
+908,Troides prattorum,896,1,0.00
+909,Troides rhadamantus,896,16,0.13
+910,Troides vandepolli,896,11,0.00
+911,Mammalia,1,,0.90
+912,Artiodactyla,911,,0.89
+913,Bovidae,912,,0.82
+914,Antilope,913,,0.71
+915,Antilope cervicapra,914,59,0.71
+916,Boselaphus,913,,0.25
+917,Boselaphus tragocamelus,916,4,0.25
+918,Capra,913,,0.98
+919,Capra hircus aegagrus,918,20,0.95
+920,Capra sibirica,918,34,1.00
+921,Capra spp.,918,1,1.00
+922,Gazella,913,,0.25
+923,Gazella bennettii,922,2,0.50
+924,Gazella dorcas,922,2,0.00
+925,Pseudois,913,,1.00
+926,Pseudois nayaur,925,8,1.00
+927,Cervidae,912,,0.75
+928,Axis,927,,0.71
+929,Axis porcinus,928,7,0.71
+930,Mazama,927,,1.00
+931,Mazama temama cerasina,930,1,1.00
+932,Moschidae,912,,0.96
+933,Moschus,932,,0.96
+934,Moschus moschiferus,933,17,0.94
+935,Moschus spp.,933,6,1.00
+936,Tayassuidae,912,,0.97
+937,Pecari,936,,0.96
+938,Pecari tajacu,937,89,0.96
+939,Tayassu,936,,1.00
+940,Tayassu pecari,939,43,1.00
+941,Carnivora,911,,0.90
+942,Canidae,941,,1.00
+943,Canis,942,,1.00
+944,Canis aureus,943,10,1.00
+945,Vulpes,942,,1.00
+946,Vulpes vulpes,945,1,1.00
+947,Hyaenidae,941,,0.83
+948,Hyaena,947,,0.33
+949,Hyaena hyaena,948,3,0.33
+950,Proteles,947,,0.93
+951,Proteles cristata,950,15,0.93
+952,Mustelidae,941,,0.80
+953,Aonyx,952,,0.00
+954,Aonyx cinerea,953,32,0.00
+955,Eira,952,,0.40
+956,Eira barbara,955,5,0.40
+957,Enhydra,952,,1.00
+958,Enhydra lutris,957,6,1.00
+959,Galictis,952,,1.00
+960,Galictis vittata,959,3,1.00
+961,Hydrictis,952,,0.00
+962,Hydrictis maculicollis,961,2,0.00
+963,Lontra,952,,0.97
+964,Lontra canadensis,963,58,0.97
+965,Lutra,952,,1.00
+966,Lutra spp.,965,1,1.00
+967,Lutrogale,952,,0.33
+968,Lutrogale perspicillata,967,3,0.33
+969,Martes,952,,1.00
+970,Martes flavigula,969,1,1.00
+971,Mellivora,952,,1.00
+972,Mellivora capensis,971,23,1.00
+973,Mustela,952,,1.00
+974,Mustela altaica,973,1,1.00
+975,Mustela sibirica,973,69,1.00
+976,Odobenidae,941,,1.00
+977,Odobenus,976,,1.00
+978,Odobenus rosmarus,977,91,1.00
+979,Otariidae,941,,0.94
+980,Arctocephalus,979,,0.94
+981,Arctocephalus australis,980,14,1.00
+982,Arctocephalus forsteri,980,1,1.00
+983,Arctocephalus gazella,980,5,1.00
+984,Arctocephalus pusillus,980,28,0.89
+985,Arctocephalus tropicalis,980,1,1.00
+986,Phocidae,941,,1.00
+987,Mirounga,986,,1.00
+988,Mirounga leonina,987,4,1.00
+989,Procyonidae,941,,0.93
+990,Nasua,989,,1.00
+991,Nasua narica,990,2,1.00
+992,Nasua nasua solitaria,990,1,1.00
+993,Potos,989,,0.88
+994,Potos flavus,993,8,0.88
+995,Ursidae,941,,0.93
+996,Ursus,995,,0.93
+997,Ursus americanus,996,172,0.99
+998,Ursus arctos,996,165,0.84
+999,Ursus maritimus,996,66,0.97
+1000,Viverridae,941,,0.91
+1001,Arctictis,1000,,0.00
+1002,Arctictis binturong,1001,3,0.00
+1003,Civettictis,1000,,0.98
+1004,Civettictis civetta,1003,47,0.98
+1005,Hemigalus,1000,,0.00
+1006,Hemigalus derbyanus,1005,1,0.00
+1007,Paradoxurus,1000,,1.00
+1008,Paradoxurus hermaphroditus,1007,2,1.00
+1009,Cetacea,911,,0.99
+1010,Monodontidae,1009,,0.98
+1011,Delphinapterus,1010,,0.97
+1012,Delphinapterus leucas,1011,31,0.97
+1013,Monodon,1010,,1.00
+1014,Monodon monoceros,1013,24,1.00
+1015,Phocoenidae,1009,,1.00
+1016,Phocoena,1015,,1.00
+1017,Phocoena phocoena,1016,12,1.00
+1018,Phocoenoides,1015,,1.00
+1019,Phocoenoides dalli,1018,1,1.00
+1020,Physeteridae,1009,,1.00
+1021,Kogia,1020,,1.00
+1022,Kogia breviceps,1021,1,1.00
+1023,Ziphiidae,1009,,1.00
+1024,Indopacetus,1023,,1.00
+1025,Indopacetus pacificus,1024,1,1.00
+1026,Mesoplodon,1023,,1.00
+1027,Mesoplodon bidens,1026,1,1.00
+1028,Mesoplodon bowdoini,1026,2,1.00
+1029,Mesoplodon carlhubbsi,1026,2,1.00
+1030,Mesoplodon densirostris,1026,5,1.00
+1031,Mesoplodon europaeus,1026,3,1.00
+1032,Mesoplodon ginkgodens,1026,2,1.00
+1033,Mesoplodon grayi,1026,6,1.00
+1034,Mesoplodon hectori,1026,3,1.00
+1035,Mesoplodon layardii,1026,5,1.00
+1036,Mesoplodon mirus,1026,7,1.00
+1037,Mesoplodon perrini,1026,1,1.00
+1038,Mesoplodon peruvianus,1026,1,1.00
+1039,Mesoplodon spp.,1026,1,1.00
+1040,Mesoplodon stejnegeri,1026,4,1.00
+1041,Mesoplodon traversii,1026,1,1.00
+1042,Tasmacetus,1023,,1.00
+1043,Tasmacetus shepherdi,1042,3,1.00
+1044,Ziphius,1023,,1.00
+1045,Ziphius cavirostris,1044,10,1.00
+1046,Chiroptera,911,,0.92
+1047,Pteropodidae,1046,,0.92
+1048,Pteropus,1047,,0.92
+1049,Pteropus alecto,1048,3,1.00
+1050,Pteropus capistratus,1048,1,1.00
+1051,Pteropus conspicillatus,1048,1,1.00
+1052,Pteropus giganteus,1048,1,1.00
+1053,Pteropus lylei,1048,2,0.00
+1054,Pteropus ornatus,1048,2,1.00
+1055,Pteropus poliocephalus,1048,1,1.00
+1056,Pteropus rayneri,1048,1,1.00
+1057,Pteropus rufus,1048,4,1.00
+1058,Pteropus seychellensis,1048,1,1.00
+1059,Pteropus spp.,1048,2,1.00
+1060,Pteropus vampyrus,1048,4,1.00
+1061,Pteropus vetulus,1048,2,1.00
+1062,Diprotodontia,911,,0.67
+1063,Phalangeridae,1062,,0.67
+1064,Phalanger,1063,,1.00
+1065,Phalanger orientalis,1064,2,1.00
+1066,Spilocuscus,1063,,0.00
+1067,Spilocuscus spp.,1066,1,0.00
+1068,Monotremata,911,,1.00
+1069,Tachyglossidae,1068,,1.00
+1070,Zaglossus,1069,,1.00
+1071,Zaglossus bruijni,1070,1,1.00
+1072,Perissodactyla,911,,0.74
+1073,Rhinocerotidae,1072,,0.94
+1074,Ceratotherium,1073,,0.94
+1075,Ceratotherium simum,1074,10,0.90
+1076,Ceratotherium simum simum,1074,37,0.95
+1077,Tapiridae,1072,,0.07
+1078,Tapirus,1077,,0.07
+1079,Tapirus terrestris,1078,14,0.07
+1080,Pholidota,911,,1.00
+1081,Manidae,1080,,1.00
+1082,Manis,1081,,1.00
+1083,Manis gigantea,1082,5,1.00
+1084,Manis javanica,1082,1,1.00
+1085,Manis pentadactyla,1082,1,1.00
+1086,Manis spp.,1082,2,1.00
+1087,Manis tricuspis,1082,5,1.00
+1088,Pilosa,911,,0.50
+1089,Megalonychidae,1088,,1.00
+1090,Choloepus,1089,,1.00
+1091,Choloepus hoffmanni,1090,5,1.00
+1092,Myrmecophagidae,1088,,0.14
+1093,Myrmecophaga,1092,,0.14
+1094,Myrmecophaga tridactyla,1093,7,0.14
+1095,Primates,911,,0.69
+1096,Lorisidae,1095,,1.00
+1097,Perodicticus potto,1096,3,1.00
+1098,Pitheciidae,1095,,0.57
+1099,Callicebus,1098,,0.67
+1100,Callicebus brunneus,1099,2,1.00
+1101,Callicebus cupreus,1099,1,0.00
+1102,Pithecia,1098,,0.50
+1103,Pithecia irrorata,1102,1,1.00
+1104,Pithecia monachus,1102,1,1.00
+1105,Pithecia pithecia,1102,2,0.00
+1106,Tarsiidae,1095,,0.67
+1107,Tarsius,1106,,0.67
+1108,Tarsius bancanus,1107,1,1.00
+1109,Tarsius syrichta,1107,1,1.00
+1110,Tarsius tarsier,1107,1,0.00
+1111,Rodentia,911,,0.92
+1112,Cuniculidae,1111,,1.00
+1113,Cuniculus,1112,,1.00
+1114,Cuniculus paca,1113,9,1.00
+1115,Dasyproctidae,1111,,1.00
+1116,Dasyprocta,1115,,1.00
+1117,Dasyprocta punctata,1116,2,1.00
+1118,Sciuridae,1111,,0.00
+1119,Ratufa,1118,,0.00
+1120,Ratufa affinis,1119,1,0.00
+1121,Scandentia,911,,0.86
+1122,Tupaiidae,1121,,0.86
+1123,Tupaia,1122,,0.86
+1124,Tupaia belangeri,1123,1,0.00
+1125,Tupaia everetti,1123,2,1.00
+1126,Tupaia glis,1123,2,1.00
+1127,Tupaia montana,1123,1,1.00
+1128,Tupaia tana,1123,1,1.00
+1129,Reptilia,1,,0.54
+1130,Sauria,1129,,0.85
+1131,Gekkonidae,1130,,0.00
+1132,Dactylocnemis,1131,,0.00
+1133,Dactylocnemis pacificus,1132,1,0.00
+1134,Scincidae,1130,,0.40
+1135,Corucia,1134,,0.40
+1136,Corucia zebrata,1135,5,0.40
+1137,Teiidae,1130,,0.85
+1138,Dracaena,1137,,0.00
+1139,Dracaena guianensis,1138,16,0.00
+1140,Salvator,1137,,0.87
+1141,Salvator merianae,1140,255,0.90
+1142,Salvator rufescens,1140,125,0.82
+1143,Tupinambis,1137,,1.00
+1144,Tupinambis spp.,1143,9,1.00
+1145,Tupinambis teguixin,1143,29,1.00
+1146,Varanidae,1130,,0.86
+1147,Varanus,1146,,0.86
+1148,Varanus acanthurus,1147,17,0.00
+1149,Varanus albigularis,1147,14,0.71
+1150,Varanus beccarii,1147,11,0.00
+1151,Varanus boehmei,1147,1,0.00
+1152,Varanus cumingi,1147,5,0.20
+1153,Varanus dalubhasa,1147,1,1.00
+1154,Varanus doreanus,1147,20,0.70
+1155,Varanus dumerilii,1147,15,0.60
+1156,Varanus exanthematicus,1147,18,0.94
+1157,Varanus giganteus,1147,1,0.00
+1158,Varanus gilleni,1147,6,0.00
+1159,Varanus glauerti,1147,3,0.00
+1160,Varanus gouldii,1147,1,0.00
+1161,Varanus indicus,1147,8,0.38
+1162,Varanus jobiensis,1147,20,0.55
+1163,Varanus kingorum,1147,1,0.00
+1164,Varanus kordensis,1147,5,0.00
+1165,Varanus macraei,1147,19,0.00
+1166,Varanus melinus,1147,18,0.06
+1167,Varanus mertensi,1147,5,0.00
+1168,Varanus niloticus,1147,679,0.98
+1169,Varanus ornatus,1147,1,1.00
+1170,Varanus panoptes,1147,8,0.00
+1171,Varanus pilbarensis,1147,6,0.00
+1172,Varanus prasinus,1147,16,0.06
+1173,Varanus primordius,1147,3,0.00
+1174,Varanus reisingeri,1147,14,0.00
+1175,Varanus rudicollis,1147,24,0.71
+1176,Varanus salvadorii,1147,17,0.59
+1177,Varanus salvator,1147,908,0.96
+1178,Varanus similis,1147,7,0.00
+1179,Varanus spenceri,1147,3,0.00
+1180,Varanus spinulosus,1147,2,1.00
+1181,Varanus spp.,1147,7,0.86
+1182,Varanus storri,1147,1,0.00
+1183,Varanus timorensis,1147,14,0.00
+1184,Varanus tristis,1147,3,0.00
+1185,Varanus varius,1147,2,0.00
+1186,Varanus yuwonoi,1147,6,0.00
+1187,Xenosauridae,1130,,0.00
+1188,Shinisaurus,1187,,0.00
+1189,Shinisaurus crocodilurus,1188,7,0.00
+1190,Serpentes,1129,,0.42
+1191,Colubridae,1190,,0.95
+1192,Cerberus,1191,,0.93
+1193,Cerberus rynchops,1192,14,0.93
+1194,Xenochrophis,1191,,1.00
+1195,Xenochrophis piscator,1194,2,1.00
+1196,Xenochrophis spp.,1194,4,1.00
+1197,Loxocemidae,1190,,0.00
+1198,Loxocemus,1197,,0.00
+1199,Loxocemus bicolor,1198,3,0.00
+1200,Pythonidae,1190,,0.43
+1201,Antaresia,1200,,0.00
+1202,Antaresia childreni,1201,3,0.00
+1203,Antaresia maculosa,1201,2,0.00
+1204,Antaresia perthensis,1201,3,0.00
+1205,Apodora,1200,,1.00
+1206,Apodora papuana,1205,12,1.00
+1207,Aspidites,1200,,0.00
+1208,Aspidites melanocephalus,1207,7,0.00
+1209,Aspidites ramsayi,1207,5,0.00
+1210,Bothrochilus,1200,,0.67
+1211,Bothrochilus boa,1210,3,0.67
+1212,Leiopython,1200,,0.48
+1213,Leiopython albertisii,1212,27,0.48
+1214,Liasis,1200,,0.47
+1215,Liasis fuscus,1214,11,0.64
+1216,Liasis mackloti,1214,17,0.41
+1217,Liasis olivaceus,1214,2,0.00
+1218,Morelia,1200,,0.25
+1219,Morelia amethistina,1218,22,0.36
+1220,Morelia boeleni,1218,13,0.00
+1221,Morelia bredli,1218,2,0.00
+1222,Morelia carinata,1218,2,0.00
+1223,Morelia clastolepis,1218,3,1.00
+1224,Morelia nauta,1218,4,1.00
+1225,Morelia spilota,1218,37,0.32
+1226,Morelia tracyae,1218,3,1.00
+1227,Morelia viridis,1218,37,0.03
+1228,Python,1200,,0.44
+1229,Python anchietae,1228,7,0.15
+1230,Python bivittatus,1228,884,0.08
+1231,Python breitensteini,1228,178,0.84
+1232,Python brongersmai,1228,409,0.84
+1233,Python curtus,1228,38,0.74
+1234,Python hybrid,1228,1,0.00
+1235,Python molurus,1228,92,0.10
+1236,Python natalensis,1228,1,0.00
+1237,Python regius,1228,95,0.03
+1238,Python reticulatus,1228,2207,0.49
+1239,Python sebae,1228,55,0.96
+1240,Python spp.,1228,1,1.00
+1241,Python timoriensis,1228,6,0.00
+1242,Tropidophiidae,1190,,0.00
+1243,Tropidophis,1242,,0.00
+1244,Tropidophis wrighti,1243,1,0.00
+1245,Viperidae,1190,,0.13
+1246,Crotalus,1245,,0.50
+1247,Crotalus durissus,1246,2,0.50
+1248,Daboia,1245,,0.13
+1249,Daboia russelii,1248,214,0.13
+1250,Trimeresurus,1245,,0.00
+1251,Trimeresurus mangshanensis,1250,5,0.00
+1252,Vipera,1245,,0.00
+1253,Vipera wagneri,1252,1,0.00
+1254,Testudines,1129,,0.23
+1255,Chelydridae,1254,,1.00
+1256,Macrochelys,1255,,1.00
+1257,Macrochelys temminckii,1256,8,1.00
+1258,Emydidae,1254,,0.58
+1259,Graptemys,1258,,0.58
+1260,Graptemys barbouri,1259,1,0.00
+1261,Graptemys flavimaculata,1259,3,0.00
+1262,Graptemys gibbonsi,1259,1,0.00
+1263,Graptemys hybrid,1259,4,1.00
+1264,Graptemys nigrinoda,1259,5,0.20
+1265,Graptemys oculifera,1259,3,0.00
+1266,Graptemys ouachitensis,1259,9,1.00
+1267,Graptemys pseudogeographica,1259,19,0.63
+1268,Geoemydidae,1254,,0.22
+1269,Mauremys,1268,,0.22
+1270,Mauremys iversoni,1269,2,0.00
+1271,Mauremys pritchardi,1269,1,0.00
+1272,Mauremys reevesii,1269,22,0.27
+1273,Mauremys sinensis,1269,11,0.18
+1274,Podocnemididae,1254,,0.12
+1275,Erymnochelys,1274,,1.00
+1276,Erymnochelys madagascariensis,1275,2,1.00
+1277,Podocnemis,1274,,0.00
+1278,Podocnemis unifilis,1277,13,0.00
+1279,Podocnemis vogli,1277,2,0.00
+1280,Testudinidae,1254,,0.16
+1281,Aldabrachelys,1280,,0.00
+1282,Aldabrachelys gigantea,1281,38,0.00
+1283,Centrochelys,1280,,0.03
+1284,Centrochelys sulcata,1283,72,0.03
+1285,Chelonoidis,1280,,0.28
+1286,Chelonoidis carbonarius,1285,87,0.21
+1287,Chelonoidis chilensis,1285,6,0.33
+1288,Chelonoidis denticulatus,1285,32,0.47
+1289,Chersina,1280,,0.00
+1290,Chersina angulata,1289,13,0.00
+1291,Geochelone,1280,,0.00
+1292,Geochelone elegans,1291,19,0.00
+1293,Gopherus,1280,,0.00
+1294,Gopherus berlandieri,1293,1,0.00
+1295,Homopus,1280,,0.00
+1296,Homopus areolatus,1295,3,0.00
+1297,Homopus signatus,1295,1,0.00
+1298,Indotestudo,1280,,0.36
+1299,Indotestudo elongata,1298,2,0.00
+1300,Indotestudo forstenii,1298,9,0.44
+1301,Kinixys,1280,,0.74
+1302,Kinixys belliana,1301,10,0.50
+1303,Kinixys erosa,1301,11,1.00
+1304,Kinixys homeana,1301,3,1.00
+1305,Kinixys spekii,1301,3,0.33
+1306,Malacochersus,1280,,0.00
+1307,Malacochersus tornieri,1306,17,0.00
+1308,Manouria,1280,,0.26
+1309,Manouria emys,1308,17,0.29
+1310,Manouria impressa,1308,2,0.00
+1311,Stigmochelys,1280,,0.09
+1312,Stigmochelys pardalis,1311,82,0.09
+1313,Testudo,1280,,0.13
+1314,Testudo graeca,1313,38,0.05
+1315,Testudo hermanni,1313,62,0.00
+1316,Testudo horsfieldii,1313,45,0.47
+1317,Testudo marginata,1313,26,0.00
+1318,Trionychidae,1254,,0.97
+1319,Amyda,1318,,1.00
+1320,Amyda cartilaginea,1319,7,1.00
+1321,Dogania,1318,,1.00
+1322,Dogania subplana,1321,6,1.00
+1323,Palea,1318,,0.00
+1324,Palea steindachneri,1323,1,0.00
+1325,Pelochelys,1318,,1.00
+1326,Pelochelys bibroni,1325,7,1.00
+1327,Pelochelys cantorii,1325,5,1.00
+1328,Pelochelys signifera,1325,6,1.00
+1329,Rafetus,1318,,1.00
+1330,Rafetus swinhoei,1329,1,1.00
+1331,Nasua nasua,990,4,1.00
+1332,Amazilia brevirostris,268,1,1.00
+1333,Psittacus erithacus timneh,644,13,0.31
+1334,Neoceratodus forsteri,774,3,0.00
+,,,,
