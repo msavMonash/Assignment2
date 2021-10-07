@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "description": "An example of a space-fulling radial layout for hierarchical data.",
     "width": 600,
     "height": 600,
     "padding": 5,
@@ -31,8 +32,8 @@
       {
         "name": "color",
         "type": "ordinal",
-        "domain": {"data": "tree", "field": "wild"},
-        "range": ["#08b3e5","#84dffb","#badede","#80ff86","#00ab08"]
+        "domain": {"data": "tree", "field": "depth"},
+        "range": {"scheme": "tableau20"}
       }
     ],
   
@@ -45,7 +46,7 @@
             "x": {"signal": "width / 2"},
             "y": {"signal": "height / 2"},
             "fill": {"scale": "color", "field": "depth"},
-            "tooltip": {"signal": "datum.name + (datum.size ? ', ' + datum.size + ' number' : '')"}
+            "tooltip": {"signal": "datum.name + (datum.size ? ', ' + datum.size + ' bytes' : '')"}
           },
           "update": {
             "startAngle": {"field": "a0"},
