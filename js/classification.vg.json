@@ -31,8 +31,8 @@
       {
         "name": "color",
         "type": "ordinal",
-        "domain": {"data": "tree", "field": "depth"},
-        "range": {"scheme": "tableau20"}
+        "domain": {"data": "tree", "field": "wild"},
+        "range": ["#08b3e5","#84dffb","#badede","#80ff86","#00ab08"]
       }
     ],
   
