@@ -498,3 +498,204 @@ id,name,parent,size
 497,Amazona albifrons,495,18
 498,Amazona amazonica,495,59
 499,Amazona autumnalis,495,36
+500,Amazona barbadensis,495,2
+501,Amazona collaria,495,1
+502,Amazona dufresniana,495,11
+503,Amazona farinosa,495,39
+504,Amazona festiva,495,16
+505,Amazona ochrocephala,495,97
+506,Amazona ventralis,495,5
+507,Amazona xantholora,495,1
+508,Amazona xanthops,495,4
+509,Aprosmictus,481,
+510,Aprosmictus erythropterus,509,30
+511,Ara,481,
+512,Ara ararauna,511,182
+513,Ara chloropterus,511,127
+514,Ara hybrid,511,33
+515,Ara severus,511,22
+516,Aratinga,481,
+517,Aratinga acuticaudata,516,6
+518,Aratinga aurea,516,6
+519,Aratinga auricapillus,516,6
+520,Aratinga cactorum,516,1
+521,Aratinga canicularis,516,2
+522,Aratinga chloroptera,516,1
+523,Aratinga erythrogenys,516,3
+524,Aratinga holochlora,516,2
+525,Aratinga jandaya,516,14
+526,Aratinga leucophthalma,516,4
+527,Aratinga mitrata,516,2
+528,Aratinga pertinax,516,10
+529,Aratinga solstitialis,516,58
+530,Aratinga wagleri,516,1
+531,Aratinga weddellii,516,6
+532,Barnardius,481,
+533,Barnardius zonarius,532,35
+534,Bolborhynchus,481,
+535,Bolborhynchus lineola,534,17
+536,Brotogeris,481,
+537,Brotogeris cyanoptera,536,2
+538,Brotogeris pyrrhoptera,536,1
+539,Brotogeris tirica,536,1
+540,Coracopsis,481,
+541,Coracopsis nigra,540,3
+542,Cyanoliseus,481,
+543,Cyanoliseus patagonus,542,18
+544,Cyanoramphus,481,
+545,Cyanoramphus auriceps,544,38
+546,Cyanoramphus malherbi,544,3
+547,Cyanoramphus unicolor,544,1
+548,Deroptyus,481,
+549,Deroptyus accipitrinus,548,29
+550,Diopsittaca,481,
+551,Diopsittaca nobilis,550,40
+552,Eclectus,481,
+553,Eclectus roratus,552,101
+554,Eclectus spp.,552,1
+555,Enicognathus,481,
+556,Enicognathus leptorhynchus,555,1
+557,Forpus,481,
+558,Forpus coelestis,557,32
+559,Forpus modestus,557,1
+560,Forpus passerinus,557,5
+561,Forpus xanthops,557,5
+562,Forpus xanthopterygius,557,1
+563,Lathamus,481,
+564,Lathamus discolor,563,9
+565,Loriculus,481,
+566,Loriculus galgulus,565,5
+567,Loriculus philippensis,565,1
+568,Loriculus pusillus,565,2
+569,Myiopsitta,481,
+570,Myiopsitta monachus,569,54
+571,Nandayus,481,
+572,Nandayus nenday,571,6
+573,Neophema,481,
+574,Neophema chrysostoma,573,3
+575,Neophema elegans,573,6
+576,Neophema petrophila,573,1
+577,Neophema pulchella,573,21
+578,Neophema splendida,573,13
+579,Neopsephotus,481,
+580,Neopsephotus bourkii,579,25
+581,Nestor,481,
+582,Nestor notabilis,581,8
+583,Northiella,481,
+584,Northiella haematogaster,583,8
+585,Orthopsittaca,481,
+586,Orthopsittaca manilata,585,17
+587,Pionites,481,
+588,Pionites leucogaster,587,54
+589,Pionites melanocephalus,587,58
+590,Pionites spp.,587,1
+591,Pionus,481,
+592,Pionus chalcopterus,591,7
+593,Pionus fuscus,591,13
+594,Pionus maximiliani,591,9
+595,Pionus menstruus,591,35
+596,Pionus senilis,591,8
+597,Platycercus,481,
+598,Platycercus adscitus,597,28
+599,Platycercus caledonicus,597,8
+600,Platycercus elegans,597,60
+601,Platycercus eximius,597,80
+602,Platycercus icterotis,597,19
+603,Platycercus spp.,597,1
+604,Platycercus venustus,597,9
+605,Poicephalus,481,
+606,Poicephalus cryptoxanthus,605,2
+607,Poicephalus flavifrons,605,2
+608,Poicephalus fuscicollis,605,1
+609,Poicephalus gulielmi,605,21
+610,Poicephalus meyeri,605,13
+611,Poicephalus robustus,605,10
+612,Poicephalus rueppellii,605,4
+613,Poicephalus rufiventris,605,4
+614,Poicephalus senegalus,605,37
+615,Poicephalus spp.,605,1
+616,Polytelis,481,
+617,Polytelis alexandrae,616,26
+618,Polytelis anthopeplus,616,33
+619,Polytelis swainsonii,616,39
+620,Primolius,481,
+621,Primolius auricollis,620,19
+622,Prioniturus,481,
+623,Prioniturus discurus,622,1
+624,Prioniturus platurus,622,2
+625,Prosopeia,481,
+626,Prosopeia personata,625,1
+627,Psephotus,481,
+628,Psephotus haematonotus,627,69
+629,Psephotus varius,627,14
+630,Psilopsiagon,481,
+631,Psilopsiagon aurifrons,630,2
+632,Psilopsiagon aymara,630,7
+633,Psittacula,481,
+634,Psittacula alexandri,633,12
+635,Psittacula columboides,633,2
+636,Psittacula cyanocephala,633,20
+637,Psittacula derbiana,633,24
+638,Psittacula eupatria,633,32
+639,Psittacula himalayana,633,1
+640,Psittacula longicauda,633,4
+641,Psittaculirostris,481,
+642,Psittaculirostris desmarestii,641,4
+643,Psittaculirostris salvadorii,641,1
+644,Psittacus,481,
+645,Psittacus erithacus,644,355
+646,Psittinus,481,
+647,Psittinus cyanurus,646,4
+648,Psittrichas,481,
+649,Psittrichas fulgidus,648,7
+650,Purpureicephalus,481,
+651,Purpureicephalus spurius,650,11
+652,Pyrrhura,481,
+653,Pyrrhura egregia,652,1
+654,Pyrrhura frontalis,652,8
+655,Pyrrhura griseipectus,652,3
+656,Pyrrhura hoffmanni,652,1
+657,Pyrrhura lepida,652,4
+658,Pyrrhura leucotis,652,2
+659,Pyrrhura molinae,652,68
+660,Pyrrhura perlata,652,20
+661,Pyrrhura picta,652,11
+662,Pyrrhura rhodocephala,652,4
+663,Pyrrhura rupicola,652,6
+664,Tanygnathus,481,
+665,Tanygnathus lucionensis,664,6
+666,Tanygnathus megalorynchos,664,3
+667,Tanygnathus sumatranus,664,1
+668,Triclaria,481,
+669,Triclaria malachitacea,668,1
+670,Rheiformes,261,
+671,Rheidae,670,
+672,Pterocnemia,671,
+673,Pterocnemia pennata pennata,672,2
+674,Rhea,671,
+675,Rhea americana,674,17
+676,Rhea americana albescens,674,1
+677,Sphenisciformes,261,
+678,Spheniscidae,677,
+679,Spheniscus,678,
+680,Spheniscus demersus,679,4
+681,Strigiformes,261,
+682,Strigidae,681,
+683,Aegolius,682,
+684,Aegolius funereus,683,5
+685,Asio,682,
+686,Asio capensis,685,1
+687,Asio flammeus,685,2
+688,Asio otus,685,4
+689,Athene,682,
+690,Athene brama,689,2
+691,Athene cunicularia,689,5
+692,Athene noctua,689,12
+693,Bubo,682,
+694,Bubo africanus,693,9
+695,Bubo ascalaphus,693,1
+696,Bubo bubo,693,32
+697,Bubo bubo bengalensis,693,4
+698,Bubo capensis,693,2
+699,Bubo cinerascens,693,3
+700,Bubo lacteus,693,3
