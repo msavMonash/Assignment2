@@ -699,3 +699,302 @@ id,name,parent,size
 698,Bubo capensis,693,2
 699,Bubo cinerascens,693,3
 700,Bubo lacteus,693,3
+701,Bubo spp.,693,1
+702,Bubo virginianus,693,9
+703,Ciccaba,682,
+704,Ciccaba huhula,703,1
+705,Glaucidium,682,
+706,Glaucidium brasilianum,705,5
+707,Glaucidium gnoma,705,2
+708,Glaucidium passerinum,705,1
+709,Ninox,682,
+710,Ninox boobook,709,4
+711,Ninox novaeseelandiae,709,3
+712,Ninox odiosa,709,1
+713,Ninox philippensis,709,1
+714,Nyctea,682,
+715,Nyctea scandiaca,714,34
+716,Otus,682,
+717,Otus asio,716,1
+718,Otus bakkamoena,716,4
+719,Otus choliba,716,5
+720,Otus kennicottii,716,4
+721,Otus mindorensis,716,1
+722,Otus rutilus,716,2
+723,Otus scops,716,3
+724,Pseudoscops,682,
+725,Pseudoscops clamator,724,2
+726,Ptilopsis,682,
+727,Ptilopsis granti,726,1
+728,Ptilopsis leucotis,726,6
+729,Pulsatrix,682,
+730,Pulsatrix koeniswaldiana,729,1
+731,Pulsatrix melanota,729,1
+732,Pulsatrix perspicillata,729,16
+733,Scotopelia,682,
+734,Scotopelia peli,733,1
+735,Strix,682,
+736,Strix aluco,735,7
+737,Strix chacoensis,735,2
+738,Strix leptogrammica,735,6
+739,Strix nebulosa,735,15
+740,Strix rufipes,735,3
+741,Strix seloputo,735,1
+742,Strix uralensis,735,7
+743,Strix varia,735,2
+744,Strix virgata,735,3
+745,Strix woodfordii,735,6
+746,Surnia,682,
+747,Surnia ulula,746,5
+748,Tytonidae,681,
+749,Phodilus,748,
+750,Phodilus badius,749,2
+751,Tyto,748,
+752,Tyto alba,751,20
+753,Tyto capensis,751,1
+754,Tyto glaucops,751,2
+755,Tyto rosenbergii,751,1
+756,Tyto sororcula,751,1
+757,Bivalvia,1,
+758,Veneroida,757,
+759,Tridacnidae,758,
+760,Hippopus,759,
+761,Hippopus hippopus,760,14
+762,Tridacna,759,
+763,Tridacna crocea,762,24
+764,Tridacna derasa,762,20
+765,Tridacna gigas,762,4
+766,Tridacna maxima,762,105
+767,Tridacna spp.,762,1
+768,Tridacna squamosa,762,31
+769,Tridacna hybrid,759,
+770,Tridacna hybrid spp.,769,1
+771,Dipneusti,1,
+772,Ceratodontiformes,771,
+773,Neoceratodontidae,772,
+774,Neoceratodus,773,
+775,Elasmobranchii,1,
+776,Carcharhiniformes,775,
+777,Sphyrnidae,776,
+778,Sphyrna,777,
+779,Sphyrna lewini,778,21
+780,Sphyrna mokarran,778,16
+781,Sphyrna zygaena,778,4
+782,Myliobatiformes,775,
+783,Myliobatidae,782,
+784,Manta,783,
+785,Manta alfredi,784,5
+786,Manta birostris,784,7
+787,Orectolobiformes,775,
+788,Rhincodontidae,787,
+789,Rhincodon,788,
+790,Rhincodon typus,789,2
+791,Gastropoda,1,
+792,Mesogastropoda,791,
+793,Strombidae,792,
+794,Strombus,793,
+795,Strombus gigas,794,128
+796,Holothuroidea,1,
+797,Aspidochirotida,796,
+798,Stichopodidae,797,
+799,Isostichopus,798,
+800,Isostichopus fuscus,799,4
+801,Hydrozoa,1,
+802,Milleporina,801,
+803,Milleporidae,802,
+804,Millepora,803,
+805,Millepora alcicornis,804,2
+806,Millepora complanata,804,1
+807,Millepora platyphylla,804,4
+808,Millepora spp.,804,63
+809,Millepora tenera,804,1
+810,Stylasterina,801,
+811,Stylasteridae,810,
+812,Calyptopora,811,
+813,Calyptopora reticulata,812,1
+814,Conopora,811,
+815,Conopora verrucosa,814,1
+816,Crypthelia,811,
+817,Crypthelia cymas,816,1
+818,Crypthelia glebulenta,816,1
+819,Crypthelia pudica,816,1
+820,Crypthelia trophostega,816,1
+821,Cyclohelia,811,
+822,Cyclohelia lamellata,821,1
+823,Distichopora,811,
+824,Distichopora anceps,823,1
+825,Distichopora borealis,823,1
+826,Distichopora gracilis,823,1
+827,Distichopora laevigranulosa,823,1
+828,Distichopora serpens,823,1
+829,Distichopora spp.,823,45
+830,Errina,811,
+831,Errina antarctica,830,2
+832,Errina cheilopora,830,1
+833,Errina cochleata,830,1
+834,Errina gracilis,830,1
+835,Errina kerguelensis,830,1
+836,Errina reticulata,830,1
+837,Errina spp.,830,2
+838,Errinopora,811,
+839,Errinopora nanneca,838,1
+840,Errinopsis,811,
+841,Errinopsis fenestrata,840,1
+842,Errinopsis reticulum,840,1
+843,Lepidopora,811,
+844,Lepidopora glabra,843,1
+845,Lepidotheca,811,
+846,Lepidotheca macropora,845,1
+847,Sporadopora,811,
+848,Sporadopora dichotoma,847,1
+849,Stenohelia,811,
+850,Stenohelia concinna,849,1
+851,Stenohelia pauciseptata,849,1
+852,Stylantheca,811,
+853,Stylantheca petrograpta,852,1
+854,Stylaster,811,
+855,Stylaster californicus,854,1
+856,Stylaster corallium,854,1
+857,Stylaster densicaulis,854,1
+858,Stylaster duchassaingii,854,1
+859,Stylaster erubescens,854,2
+860,Stylaster eximius,854,1
+861,Stylaster galapagensis,854,1
+862,Stylaster laevigatus,854,1
+863,Stylaster marenzelleri,854,1
+864,Stylaster miniatus,854,1
+865,Stylaster roseus,854,1
+866,Stylaster sanguineus,854,1
+867,Stylaster spp.,854,17
+868,Stylaster venustus,854,1
+869,Insecta,1,
+870,Lepidoptera,869,
+871,Nymphalidae,870,
+872,Agrias,871,
+873,Agrias amydon,872,1
+874,Morpho,871,
+875,Morpho godartii lachaumei,874,2
+876,Papilionidae,870,
+877,Atrophaneura,876,
+878,Atrophaneura jophon,877,1
+879,Ornithoptera,876,
+880,Ornithoptera aesacus,879,11
+881,Ornithoptera akakeae,879,2
+882,Ornithoptera chimaera,879,6
+883,Ornithoptera croesus,879,14
+884,Ornithoptera goliath,879,15
+885,Ornithoptera meridionalis,879,13
+886,Ornithoptera paradisea,879,11
+887,Ornithoptera priamus,879,25
+888,Ornithoptera rothschildi,879,11
+889,Ornithoptera tithonus,879,11
+890,Ornithoptera victoriae,879,2
+891,Parnassius,876,
+892,Parnassius apollo,891,1
+893,Trogonoptera,876,
+894,Trogonoptera brookiana,893,15
+895,Trogonoptera trojana,893,2
+896,Troides,876,
+897,Troides amphrysus,896,7
+898,Troides andromache,896,2
+899,Troides criton,896,8
+900,Troides cuneifera,896,8
+901,Troides dohertyi,896,5
+902,Troides haliphron,896,10
+903,Troides helena,896,14
+904,Troides hypolitus,896,11
+905,Troides magellanus,896,1
+906,Troides miranda,896,5
+907,Troides oblongomaculatus,896,3
+908,Troides prattorum,896,1
+909,Troides rhadamantus,896,16
+910,Troides vandepolli,896,11
+911,Mammalia,1,
+912,Artiodactyla,911,
+913,Bovidae,912,
+914,Antilope,913,
+915,Antilope cervicapra,914,59
+916,Boselaphus,913,
+917,Boselaphus tragocamelus,916,4
+918,Capra,913,
+919,Capra hircus aegagrus,918,20
+920,Capra sibirica,918,34
+921,Capra spp.,918,1
+922,Gazella,913,
+923,Gazella bennettii,922,2
+924,Gazella dorcas,922,2
+925,Pseudois,913,
+926,Pseudois nayaur,925,8
+927,Cervidae,912,
+928,Axis,927,
+929,Axis porcinus,928,7
+930,Mazama,927,
+931,Mazama temama cerasina,930,1
+932,Moschidae,912,
+933,Moschus,932,
+934,Moschus moschiferus,933,17
+935,Moschus spp.,933,6
+936,Tayassuidae,912,
+937,Pecari,936,
+938,Pecari tajacu,937,89
+939,Tayassu,936,
+940,Tayassu pecari,939,43
+941,Carnivora,911,
+942,Canidae,941,
+943,Canis,942,
+944,Canis aureus,943,10
+945,Vulpes,942,
+946,Vulpes vulpes,945,1
+947,Hyaenidae,941,
+948,Hyaena,947,
+949,Hyaena hyaena,948,3
+950,Proteles,947,
+951,Proteles cristata,950,15
+952,Mustelidae,941,
+953,Aonyx,952,
+954,Aonyx cinerea,953,32
+955,Eira,952,
+956,Eira barbara,955,5
+957,Enhydra,952,
+958,Enhydra lutris,957,6
+959,Galictis,952,
+960,Galictis vittata,959,3
+961,Hydrictis,952,
+962,Hydrictis maculicollis,961,2
+963,Lontra,952,
+964,Lontra canadensis,963,58
+965,Lutra,952,
+966,Lutra spp.,965,1
+967,Lutrogale,952,
+968,Lutrogale perspicillata,967,3
+969,Martes,952,
+970,Martes flavigula,969,1
+971,Mellivora,952,
+972,Mellivora capensis,971,23
+973,Mustela,952,
+974,Mustela altaica,973,1
+975,Mustela sibirica,973,69
+976,Odobenidae,941,
+977,Odobenus,976,
+978,Odobenus rosmarus,977,91
+979,Otariidae,941,
+980,Arctocephalus,979,
+981,Arctocephalus australis,980,14
+982,Arctocephalus forsteri,980,1
+983,Arctocephalus gazella,980,5
+984,Arctocephalus pusillus,980,28
+985,Arctocephalus tropicalis,980,1
+986,Phocidae,941,
+987,Mirounga,986,
+988,Mirounga leonina,987,4
+989,Procyonidae,941,
+990,Nasua,989,
+991,Nasua narica,990,2
+992,Nasua nasua solitaria,990,1
+993,Potos,989,
+994,Potos flavus,993,8
+995,Ursidae,941,
+996,Ursus,995,
+997,Ursus americanus,996,172
+998,Ursus arctos,996,165
+999,Ursus maritimus,996,66
