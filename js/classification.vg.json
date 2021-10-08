@@ -9,7 +9,7 @@
     "data": [
       {
         "name": "tree",
-        "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/ConvertedAnimalClassification.csv",
+        "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/ClassificationTest.csv",
         "format": {"type": "csv"},
         "transform": [
           {
