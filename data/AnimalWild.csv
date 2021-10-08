@@ -1,0 +1,1335 @@
+name,wild
+Animals,0.51
+Actinopteri,0.49
+Acipenseriformes,0.38
+Polyodontidae,0.38
+polyodon,0.38
+Polyodon spathula,0.38
+Syngnathiformes,0.49
+Syngnathidae,0.49
+Hippocampus,0.49
+Hippocampus abdominalis,0.14
+Hippocampus algiricus,1
+Hippocampus barbouri,0.14
+Hippocampus breviceps,1
+Hippocampus comes,0.13
+Hippocampus erectus,0.6
+Hippocampus histrix,0.5
+Hippocampus kelloggi,1
+Hippocampus kuda,0.74
+Hippocampus reidi,0.15
+Hippocampus semispinosus,0
+Hippocampus spinosissimus,0.75
+Hippocampus spp.,0.67
+Hippocampus subelongatus,1
+Hippocampus trimaculatus,1
+Hippocampus whitei,0.5
+Hippocampus zosterae,1
+Amphibia,0.84
+Anura,0.84
+Calyptocephalellidae,0
+Calyptocephalella,0
+Calyptocephalella gayi,0
+Mantellidae,0.85
+Mantella,0.85
+Mantella aurantiaca,0.58
+Mantella baroni,1
+Mantella betsileo,0.91
+Mantella cowanii,1
+Mantella crocea,1
+Mantella laevigata,1
+Mantella madagascariensis,0.75
+Mantella manery,1
+Mantella milotympanum,1
+Mantella nigricans,1
+Mantella pulchra,1
+Mantella spp.,1
+Mantella viridis,0
+Anthozoa,0.68
+Antipatharia,1
+Myriopathidae,1
+Cupressopathes,1
+Cupressopathes spp.,1
+Tanacetipathes,1
+Tanacetipathes barbadensis,1
+Tanacetipathes hirta,1
+Tanacetipathes tanacetum,1
+Tanacetipathes thamnea,1
+Schizopathidae,1
+Parantipathes,1
+Parantipathes spp.,1
+Gorgonacea,0.97
+Coralliidae,0.97
+Corallium,0.97
+Corallium elatius,0.98
+Corallium japonicum,1
+Corallium konjoi,0.88
+Corallium secundum,0.96
+Scleractinia,0.66
+Meandriniidae,1
+Dendrogyra,1
+Dendrogyra cylindrus,1
+Dichocoenia,1
+Dichocoenia stokesii,1
+Meandrina,1
+Meandrina maeandrites,1
+Merulinidae,0.62
+Hydnophora,0.65
+Hydnophora bonsai,1
+Hydnophora exesa,0.97
+Hydnophora microconos,1
+Hydnophora rigida,0.66
+Hydnophora spp.,0.16
+Merulina,0.58
+Merulina ampliata,0.56
+Merulina scabricula,0.8
+Merulina spp.,1
+Mussidae,0.71
+Acanthastrea,0.7
+Acanthastrea amakusensis,0.86
+Acanthastrea bowerbanki,0.93
+Acanthastrea echinata,0.88
+Acanthastrea hemprichii,0
+Acanthastrea hillae,1
+Acanthastrea lordhowensis,0.95
+Acanthastrea maxima,0.75
+Acanthastrea rotundoflora,0
+Acanthastrea spp.,0.6
+Acanthophyllia,0.96
+Acanthophyllia deshayesiana,0.95
+Acanthophyllia spp.,1
+Australomussa,0.15
+Australomussa rowleyensis,0.13
+Australomussa spp.,1
+Blastomussa,0.59
+Blastomussa merleti,0.33
+Blastomussa spp.,0.92
+Blastomussa wellsi,0.63
+Cynarina,0.95
+Cynarina lacrymalis,0.94
+Cynarina spp.,1
+Lobophyllia,0.73
+Lobophyllia corymbosa,0.95
+Lobophyllia diminuta,1
+Lobophyllia hataii,0
+Lobophyllia hemprichii,0.94
+Lobophyllia robusta,1
+Lobophyllia spp.,0.63
+Micromussa,1
+Micromussa spp.,1
+Mussismilia,1
+Mussismilia braziliensis,1
+Mycetophyllia,1
+Mycetophyllia aliciae,1
+Scolymia,0.81
+Scolymia australis,0.97
+Scolymia cubensis,1
+Scolymia lacera,1
+Scolymia spp.,0.57
+Scolymia vitiensis,0.95
+Symphyllia,0.67
+Symphyllia agaricia,1
+Symphyllia radians,1
+Symphyllia recta,0.5
+Symphyllia spp.,0.63
+Symphyllia valenciennesii,1
+Symphyllia wilsoni,1
+Oculinidae,0.68
+Acrhelia,1
+Acrhelia horrescens,1
+Galaxea,0.68
+Galaxea acrhelia,1
+Galaxea astreata,1
+Galaxea fascicularis,0.94
+Galaxea spp.,0.14
+Madrepora,1
+Madrepora oculata,1
+Madrepora spp.,1
+Pectiniidae,0.53
+Echinophyllia,0.6
+Echinophyllia aspera,0.82
+Echinophyllia echinata,1
+Echinophyllia echinoporoides,1
+Echinophyllia nishihirai,1
+Echinophyllia spp.,0.56
+Mycedium,0.4
+Mycedium elephantotus,0.44
+Mycedium robokaki,0.04
+Mycedium spina,0
+Mycedium spp.,0.54
+Oxypora,0.55
+Oxypora convoluta,1
+Oxypora glabra,1
+Oxypora spp.,0.53
+Pectinia,0.61
+Pectinia africanus,1
+Pectinia alcicornis,1
+Pectinia lactuca,1
+Pectinia paeonia,1
+Pectinia spp.,0.58
+Pocilloporidae,0.51
+Madracis,1
+Madracis asanoi,1
+Madracis decactis,1
+Madracis myriaster,1
+Madracis pharensis,1
+Madracis spp.,1
+Pocillopora,0.56
+Pocillopora damicornis,0.71
+Pocillopora eydouxi,1
+Pocillopora meandrina,1
+Pocillopora spp.,0.43
+Pocillopora verrucosa,0.86
+Seriatopora,0.46
+Seriatopora aculeata,1
+Seriatopora caliendrum,0.6
+Seriatopora hystrix,0.93
+Seriatopora spp.,0.15
+Stylophora,0.45
+Stylophora pistillata,0.81
+Stylophora spp.,0.36
+Stylophora subseriata,0
+Poritidae,0.74
+Alveopora,0.57
+Alveopora gigas,0.91
+Alveopora spongiosa,0.86
+Alveopora spp.,0.49
+Goniopora,0.8
+Goniopora albiconus,1
+Goniopora columna,1
+Goniopora lobata,0.96
+Goniopora minor,0.33
+Goniopora norfolkensis,1
+Goniopora somaliensis,1
+Goniopora spp.,0.68
+Goniopora stokesi,0.97
+Goniopora stutchburyi,1
+Goniopora tenuidens,1
+Porites,0.71
+Porites annae,1
+Porites astreoides,0.78
+Porites branneri,0
+Porites cylindrica,0.5
+Porites lobata,1
+Porites lutea,1
+Porites porites,1
+Porites rus,1
+Porites spp.,0.67
+Rhizangiidae,1
+Astrangia,1
+Astrangia poculata,1
+Siderastreidae,1
+Coscinaraea,1
+Coscinaraea spp.,1
+Psammocora,1
+Psammocora spp.,1
+Psammocora superficialis,1
+Siderastrea,1
+Siderastrea radians,1
+Siderastrea siderea,1
+Siderastrea spp.,1
+Trachyphylliidae,0.91
+Trachyphyllia,0.91
+Trachyphyllia geoffroyi,0.91
+Trachyphyllia spp.,1
+Stolonifera,0.76
+Tubiporidae,0.76
+Tubipora,0.76
+Tubipora musica,0.75
+Tubipora spp.,1
+Arachnida,0.02
+Araneae,0
+Theraphosidae,0
+Aphonopelma,0
+Aphonopelma albiceps,0
+Brachypelma,0
+Brachypelma albopilosum,0
+Brachypelma annitha,0
+Brachypelma auratum,0
+Brachypelma baumgarteni,0
+Brachypelma boehmei,0
+Brachypelma emilia,0
+Brachypelma kahlenbergi,0
+Brachypelma klaasi,0
+Brachypelma smithi,0
+Brachypelma spp.,0
+Brachypelma vagans,0
+Brachypelma verdezi,0
+Scorpiones,1
+Scorpionidae,1
+Pandinus,1
+Pandinus dictator,1
+Aves,0.16
+Anseriformes,0
+Anatidae,0
+Cairina,0
+Cairina moschata,0
+Apodiformes,0.97
+Trochilidae,0.97
+Amazilia,1
+Amazilia cyanocephala,1
+Amazilia fimbriata,1
+Amazilia viridigaster,1
+Amazilia yucatanensis,1
+Anthracothorax,1
+Anthracothorax veraguensis,1
+Archilochus,1
+Archilochus colubris,1
+Basilinna,1
+Basilinna leucotis,1
+Calliphlox,1
+Calliphlox bryantae,1
+Campylopterus,1
+Campylopterus hemileucurus,1
+Campylopterus largipennis,1
+Chlorostilbon,1
+Chlorostilbon lucidus,1
+Colibri,0.75
+Colibri coruscans,0
+Colibri thalassinus,1
+Eugenes,1
+Eugenes fulgens,1
+Florisuga,1
+Florisuga fusca,1
+Florisuga mellivora,1
+Heliothryx,1
+Heliothryx auritus,1
+Hylocharis,1
+Hylocharis cyanus,1
+Lampornis,1
+Lampornis amethystinus,1
+Lampornis sybillae,1
+Lampornis viridipallens,1
+Lophornis,1
+Lophornis ornatus,1
+Lophornis pavoninus,1
+Phaethornis,1
+Phaethornis augusti,1
+Phaethornis bourcieri,1
+Phaethornis longirostris,1
+Phaethornis superciliosus,1
+Thalurania,1
+Thalurania furcata,1
+Charadriiformes,1
+Burhinidae,1
+Burhinus,1
+Burhinus bistriatus,1
+Ciconiiformes,0.19
+Phoenicopteridae,0.33
+Phoeniconaias,1
+Phoeniconaias minor,1
+Phoenicopterus,0.2
+Phoenicopterus chilensis,0
+Phoenicopterus ruber,0.23
+Threskiornithidae,0.05
+Eudocimus,0
+Eudocimus ruber,0
+Platalea,0.5
+Platalea leucorodia,0.5
+Columbiformes,0
+Columbidae,0
+Nesoenas,0
+Nesoenas mayeri,0
+Cuculiformes,0.12
+Musophagidae,0.12
+Tauraco,0.12
+Tauraco corythaix,0
+Tauraco erythrolophus,0
+Tauraco fischeri,0
+Tauraco hartlaubi,0
+Tauraco leucolophus,0.06
+Tauraco leucotis,0
+Tauraco livingstonii,0
+Tauraco persa,0.57
+Tauraco porphyreolophus,0
+Tauraco schalowi,0
+Tauraco schuettii,1
+Tauraco spp.,1
+Falconiformes,0.78
+Cathartidae,0.67
+Sarcoramphus,0.67
+Sarcoramphus papa,0.67
+Pandionidae,1
+Pandion,1
+Pandion haliaetus,1
+Sagittariidae,0
+Sagittarius,0
+Sagittarius serpentarius,0
+Galliformes,0.17
+Cracidae,0.2
+Crax,0.25
+Crax rubra,0.25
+Ortalis,1
+Ortalis vetula,1
+Pauxi,0
+Pauxi pauxi,0
+Penelope,1
+Penelope purpurascens,1
+Phasianidae,0.16
+Argusianus,0
+Argusianus argus,0
+Gallus,0
+Gallus sonneratii,0
+Lophura,0
+Lophura leucomelanos,0
+Meleagris,0.67
+Meleagris ocellata,0.67
+Pavo,0.16
+Pavo cristatus,0.17
+Pavo muticus,0.08
+Polyplectron,0
+Polyplectron bicalcaratum,0
+Polyplectron germaini,0
+Polyplectron malacense,0
+Tragopan,0
+Tragopan satyra,0
+Gruiformes,0.83
+Otididae,0.83
+Ardeotis,0
+Ardeotis kori,0
+Lissotis,1
+Lissotis melanogaster,1
+Lophotis,1
+Lophotis ruficrista,1
+Otis,1
+Otis tarda,1
+Passeriformes,0.35
+Cotingidae,1
+Cephalopterus,1
+Cephalopterus ornatus,1
+Muscicapidae,0.38
+Leiothrix,0.43
+Leiothrix argentauris,1
+Leiothrix lutea,0
+Liocichla,0.33
+Liocichla omeiensis,0.33
+Paradisaeidae,0.27
+Cicinnurus,0
+Cicinnurus regius,0
+Lophorina,1
+Lophorina superba,1
+Paradisaea,0
+Paradisaea apoda,0
+Paradisaea minor,0
+Paradisaea raggiana,0
+Paradisaea rubra,0
+Paradisaea spp.,0
+Parotia,1
+Parotia lawesii,1
+Pteridophora,1
+Pteridophora alberti,1
+Seleucidis,0
+Seleucidis melanoleucus,0
+Pycnonotidae,1
+Pycnonotus,1
+Pycnonotus zeylanicus,1
+Sturnidae,0.21
+Gracula,0.21
+Gracula religiosa,0.21
+Piciformes,0.78
+Ramphastidae,0.78
+Baillonius,0
+Baillonius bailloni,0
+Pteroglossus,0.89
+Pteroglossus aracari,0.89
+Pteroglossus viridis,0.89
+Ramphastos,0.77
+Ramphastos dicolorus,0
+Ramphastos sulfuratus,0
+Ramphastos toco,0.54
+Ramphastos tucanus,0.96
+Ramphastos vitellinus,0.89
+Psittaciformes,0.12
+Loriidae,0.06
+Chalcopsitta,0.09
+Chalcopsitta atra,0
+Chalcopsitta cardinalis,0.4
+Chalcopsitta duivenbodei,0
+Chalcopsitta sintillata,0
+Charmosyna,0.13
+Charmosyna papou,0.2
+Charmosyna placentis,0
+Eos,0
+Eos cyanogenia,0
+Eos reticulata,0
+Eos rubra,0
+Eos semilarvata,0
+Eos squamata,0
+Eos squamata riciniata,0
+Glossopsitta,0
+Glossopsitta concinna,0
+Lorius,0.08
+Lorius chlorocercus,0.57
+Lorius domicella,0
+Lorius garrulus,0.04
+Lorius hypoinochrous,0
+Lorius lory,0
+Phigys,0
+Phigys solitarius,0
+Pseudeos,0
+Pseudeos fuscata,0
+Psitteuteles,0
+Psitteuteles goldiei,0
+Trichoglossus,0.04
+Trichoglossus chlorolepidotus,0.25
+Trichoglossus flavoviridis,0
+Trichoglossus haematodus,0.04
+Trichoglossus johnstoniae,0
+Trichoglossus ornatus,0
+Trichoglossus spp.,0
+Vini,1
+Vini kuhlii,1
+Psittacidae,0.13
+Agapornis,0.01
+Agapornis canus,0
+Agapornis fischeri,0
+Agapornis hybrid,0
+Agapornis lilianae,0
+Agapornis nigrigenis,0
+Agapornis personatus,0
+Agapornis pullarius,1
+Agapornis taranta,0
+Alisterus,0
+Alisterus amboinensis,0
+Alisterus chloropterus,0
+Alisterus scapularis,0
+Amazona,0.25
+Amazona aestiva,0.05
+Amazona albifrons,0
+Amazona amazonica,0.53
+Amazona autumnalis,0.06
+Amazona barbadensis,0
+Amazona collaria,0
+Amazona dufresniana,0.91
+Amazona farinosa,0.36
+Amazona festiva,0.31
+Amazona ochrocephala,0.31
+Amazona ventralis,0
+Amazona xantholora,0
+Amazona xanthops,0
+Aprosmictus,0
+Aprosmictus erythropterus,0
+Ara,0.25
+Ara ararauna,0.22
+Ara chloropterus,0.35
+Ara hybrid,0.03
+Ara severus,0.23
+Aratinga,0.11
+Aratinga acuticaudata,0
+Aratinga aurea,0.33
+Aratinga auricapillus,0
+Aratinga cactorum,0
+Aratinga canicularis,0
+Aratinga chloroptera,1
+Aratinga erythrogenys,0
+Aratinga holochlora,0
+Aratinga jandaya,0
+Aratinga leucophthalma,0.5
+Aratinga mitrata,0
+Aratinga pertinax,0.5
+Aratinga solstitialis,0.03
+Aratinga wagleri,1
+Aratinga weddellii,0
+Barnardius,0
+Barnardius zonarius,0
+Bolborhynchus,0
+Bolborhynchus lineola,0
+Brotogeris,0
+Brotogeris cyanoptera,0
+Brotogeris pyrrhoptera,0
+Brotogeris tirica,0
+Coracopsis,0
+Coracopsis nigra,0
+Cyanoliseus,0
+Cyanoliseus patagonus,0
+Cyanoramphus,0
+Cyanoramphus auriceps,0
+Cyanoramphus malherbi,0
+Cyanoramphus unicolor,0
+Deroptyus,0.72
+Deroptyus accipitrinus,0.72
+Diopsittaca,0.4
+Diopsittaca nobilis,0.4
+Eclectus,0.03
+Eclectus roratus,0.03
+Eclectus spp.,0
+Enicognathus,0
+Enicognathus leptorhynchus,0
+Forpus,0.02
+Forpus coelestis,0
+Forpus modestus,0
+Forpus passerinus,0.2
+Forpus xanthops,0
+Forpus xanthopterygius,0
+Lathamus,0
+Lathamus discolor,0
+Loriculus,0.13
+Loriculus galgulus,0
+Loriculus philippensis,1
+Loriculus pusillus,0
+Myiopsitta,0.04
+Myiopsitta monachus,0.04
+Nandayus,0
+Nandayus nenday,0
+Neophema,0
+Neophema chrysostoma,0
+Neophema elegans,0
+Neophema petrophila,0
+Neophema pulchella,0
+Neophema splendida,0
+Neopsephotus,0
+Neopsephotus bourkii,0
+Nestor,0
+Nestor notabilis,0
+Northiella,0
+Northiella haematogaster,0
+Orthopsittaca,0.88
+Orthopsittaca manilata,0.88
+Pionites,0.19
+Pionites leucogaster,0
+Pionites melanocephalus,0.38
+Pionites spp.,0
+Pionus,0.43
+Pionus chalcopterus,0
+Pionus fuscus,0.77
+Pionus maximiliani,0.11
+Pionus menstruus,0.57
+Pionus senilis,0
+Platycercus,0
+Platycercus adscitus,0
+Platycercus caledonicus,0
+Platycercus elegans,0
+Platycercus eximius,0
+Platycercus icterotis,0
+Platycercus spp.,0
+Platycercus venustus,0
+Poicephalus,0.16
+Poicephalus cryptoxanthus,0
+Poicephalus flavifrons,0
+Poicephalus fuscicollis,0
+Poicephalus gulielmi,0.38
+Poicephalus meyeri,0
+Poicephalus robustus,0
+Poicephalus rueppellii,0
+Poicephalus rufiventris,0
+Poicephalus senegalus,0.19
+Poicephalus spp.,0
+Polytelis,0
+Polytelis alexandrae,0
+Polytelis anthopeplus,0
+Polytelis swainsonii,0
+Primolius,0
+Primolius auricollis,0
+Prioniturus,0.33
+Prioniturus discurus,1
+Prioniturus platurus,0
+Prosopeia,0
+Prosopeia personata,0
+Psephotus,0
+Psephotus haematonotus,0
+Psephotus varius,0
+Psilopsiagon,0
+Psilopsiagon aurifrons,0
+Psilopsiagon aymara,0
+Psittacula,0
+Psittacula alexandri,0
+Psittacula columboides,0
+Psittacula cyanocephala,0
+Psittacula derbiana,0
+Psittacula eupatria,0
+Psittacula himalayana,0
+Psittacula longicauda,0
+Psittaculirostris,0
+Psittaculirostris desmarestii,0
+Psittaculirostris salvadorii,0
+Psittacus,0.13
+Psittacus erithacus,0.12
+Psittinus,0
+Psittinus cyanurus,0
+Psittrichas,0
+Psittrichas fulgidus,0
+Purpureicephalus,0
+Purpureicephalus spurius,0
+Pyrrhura,0.05
+Pyrrhura egregia,1
+Pyrrhura frontalis,0
+Pyrrhura griseipectus,0
+Pyrrhura hoffmanni,0
+Pyrrhura lepida,0
+Pyrrhura leucotis,0
+Pyrrhura molinae,0
+Pyrrhura perlata,0
+Pyrrhura picta,0.55
+Pyrrhura rhodocephala,0
+Pyrrhura rupicola,0
+Tanygnathus,0
+Tanygnathus lucionensis,0
+Tanygnathus megalorynchos,0
+Tanygnathus sumatranus,0
+Triclaria,0
+Triclaria malachitacea,0
+Rheiformes,0.05
+Rheidae,0.05
+Pterocnemia,0
+Pterocnemia pennata pennata,0
+Rhea,0.06
+Rhea americana,0.06
+Rhea americana albescens,0
+Sphenisciformes,0
+Spheniscidae,0
+Spheniscus,0
+Spheniscus demersus,0
+Strigiformes,0.15
+Strigidae,0.12
+Aegolius,0
+Aegolius funereus,0
+Asio,0.57
+Asio capensis,1
+Asio flammeus,1
+Asio otus,0.25
+Athene,0.21
+Athene brama,0.5
+Athene cunicularia,0.2
+Athene noctua,0.17
+Bubo,0.11
+Bubo africanus,0.11
+Bubo ascalaphus,0
+Bubo bubo,0.09
+Bubo bubo bengalensis,0
+Bubo capensis,0
+Bubo cinerascens,0
+Bubo lacteus,0.33
+Bubo spp.,1
+Bubo virginianus,0.11
+Ciccaba,0
+Ciccaba huhula,0
+Glaucidium,0.25
+Glaucidium brasilianum,0
+Glaucidium gnoma,1
+Glaucidium passerinum,0
+Ninox,0.22
+Ninox boobook,0
+Ninox novaeseelandiae,0
+Ninox odiosa,1
+Ninox philippensis,1
+Nyctea,0.03
+Nyctea scandiaca,0.03
+Otus,0.15
+Otus asio,0
+Otus bakkamoena,0
+Otus choliba,0
+Otus kennicottii,0
+Otus mindorensis,1
+Otus rutilus,1
+Otus scops,0
+Pseudoscops,0
+Pseudoscops clamator,0
+Ptilopsis,0
+Ptilopsis granti,0
+Ptilopsis leucotis,0
+Pulsatrix,0.06
+Pulsatrix koeniswaldiana,1
+Pulsatrix melanota,0
+Pulsatrix perspicillata,0
+Scotopelia,1
+Scotopelia peli,1
+Strix,0.1
+Strix aluco,0
+Strix chacoensis,0
+Strix leptogrammica,0
+Strix nebulosa,0.13
+Strix rufipes,0
+Strix seloputo,0
+Strix uralensis,0
+Strix varia,1
+Strix virgata,0
+Strix woodfordii,0.17
+Surnia,0
+Surnia ulula,0
+Tytonidae,0.44
+Phodilus,0.5
+Phodilus badius,0.5
+Tyto,0.44
+Tyto alba,0.4
+Tyto capensis,1
+Tyto glaucops,0
+Tyto rosenbergii,1
+Tyto sororcula,1
+Bivalvia,0.43
+Veneroida,0.43
+Tridacnidae,0.43
+Hippopus,0
+Hippopus hippopus,0
+Tridacna,0.46
+Tridacna crocea,0.13
+Tridacna derasa,0.1
+Tridacna gigas,1
+Tridacna maxima,0.59
+Tridacna spp.,1
+Tridacna squamosa,0.45
+Tridacna hybrid,0
+Tridacna hybrid spp.,0
+Dipneusti,0
+Ceratodontiformes,0
+Neoceratodontidae,0
+Neoceratodus,0
+Elasmobranchii,1
+Carcharhiniformes,1
+Sphyrnidae,1
+Sphyrna,1
+Sphyrna lewini,1
+Sphyrna mokarran,1
+Sphyrna zygaena,1
+Myliobatiformes,1
+Myliobatidae,1
+Manta,1
+Manta alfredi,1
+Manta birostris,1
+Orectolobiformes,1
+Rhincodontidae,1
+Rhincodon,1
+Rhincodon typus,1
+Gastropoda,0.98
+Mesogastropoda,0.98
+Strombidae,0.98
+Strombus,0.98
+Strombus gigas,0.98
+Holothuroidea,1
+Aspidochirotida,1
+Stichopodidae,1
+Isostichopus,1
+Isostichopus fuscus,1
+Hydrozoa,0.94
+Milleporina,0.87
+Milleporidae,0.87
+Millepora,0.87
+Millepora alcicornis,0.5
+Millepora complanata,1
+Millepora platyphylla,1
+Millepora spp.,0.87
+Millepora tenera,1
+Stylasterina,0.99
+Stylasteridae,0.99
+Calyptopora,1
+Calyptopora reticulata,1
+Conopora,1
+Conopora verrucosa,1
+Crypthelia,1
+Crypthelia cymas,1
+Crypthelia glebulenta,1
+Crypthelia pudica,1
+Crypthelia trophostega,1
+Cyclohelia,1
+Cyclohelia lamellata,1
+Distichopora,1
+Distichopora anceps,1
+Distichopora borealis,1
+Distichopora gracilis,1
+Distichopora laevigranulosa,1
+Distichopora serpens,1
+Distichopora spp.,1
+Errina,1
+Errina antarctica,1
+Errina cheilopora,1
+Errina cochleata,1
+Errina gracilis,1
+Errina kerguelensis,1
+Errina reticulata,1
+Errina spp.,1
+Errinopora,1
+Errinopora nanneca,1
+Errinopsis,1
+Errinopsis fenestrata,1
+Errinopsis reticulum,1
+Lepidopora,1
+Lepidopora glabra,1
+Lepidotheca,1
+Lepidotheca macropora,1
+Sporadopora,1
+Sporadopora dichotoma,1
+Stenohelia,1
+Stenohelia concinna,1
+Stenohelia pauciseptata,1
+Stylantheca,1
+Stylantheca petrograpta,1
+Stylaster,0.97
+Stylaster californicus,1
+Stylaster corallium,1
+Stylaster densicaulis,1
+Stylaster duchassaingii,1
+Stylaster erubescens,1
+Stylaster eximius,1
+Stylaster galapagensis,1
+Stylaster laevigatus,1
+Stylaster marenzelleri,1
+Stylaster miniatus,1
+Stylaster roseus,1
+Stylaster sanguineus,1
+Stylaster spp.,0.94
+Stylaster venustus,1
+Insecta,0.08
+Lepidoptera,0.08
+Nymphalidae,1
+Agrias,1
+Agrias amydon,1
+Morpho,1
+Morpho godartii lachaumei,1
+Papilionidae,0.07
+Atrophaneura,1
+Atrophaneura jophon,1
+Ornithoptera,0.04
+Ornithoptera aesacus,0
+Ornithoptera akakeae,0
+Ornithoptera chimaera,0
+Ornithoptera croesus,0.07
+Ornithoptera goliath,0.07
+Ornithoptera meridionalis,0
+Ornithoptera paradisea,0
+Ornithoptera priamus,0.08
+Ornithoptera rothschildi,0
+Ornithoptera tithonus,0
+Ornithoptera victoriae,0.5
+Parnassius,1
+Parnassius apollo,1
+Trogonoptera,0.24
+Trogonoptera brookiana,0.27
+Trogonoptera trojana,0
+Troides,0.06
+Troides amphrysus,0
+Troides andromache,1
+Troides criton,0
+Troides cuneifera,0
+Troides dohertyi,0
+Troides haliphron,0
+Troides helena,0
+Troides hypolitus,0
+Troides magellanus,0
+Troides miranda,0.4
+Troides oblongomaculatus,0
+Troides prattorum,0
+Troides rhadamantus,0.13
+Troides vandepolli,0
+Mammalia,0.9
+Artiodactyla,0.89
+Bovidae,0.82
+Antilope,0.71
+Antilope cervicapra,0.71
+Boselaphus,0.25
+Boselaphus tragocamelus,0.25
+Capra,0.98
+Capra hircus aegagrus,0.95
+Capra sibirica,1
+Capra spp.,1
+Gazella,0.25
+Gazella bennettii,0.5
+Gazella dorcas,0
+Pseudois,1
+Pseudois nayaur,1
+Cervidae,0.75
+Axis,0.71
+Axis porcinus,0.71
+Mazama,1
+Mazama temama cerasina,1
+Moschidae,0.96
+Moschus,0.96
+Moschus moschiferus,0.94
+Moschus spp.,1
+Tayassuidae,0.97
+Pecari,0.96
+Pecari tajacu,0.96
+Tayassu,1
+Tayassu pecari,1
+Carnivora,0.9
+Canidae,1
+Canis,1
+Canis aureus,1
+Vulpes,1
+Vulpes vulpes,1
+Hyaenidae,0.83
+Hyaena,0.33
+Hyaena hyaena,0.33
+Proteles,0.93
+Proteles cristata,0.93
+Mustelidae,0.8
+Aonyx,0
+Aonyx cinerea,0
+Eira,0.4
+Eira barbara,0.4
+Enhydra,1
+Enhydra lutris,1
+Galictis,1
+Galictis vittata,1
+Hydrictis,0
+Hydrictis maculicollis,0
+Lontra,0.97
+Lontra canadensis,0.97
+Lutra,1
+Lutra spp.,1
+Lutrogale,0.33
+Lutrogale perspicillata,0.33
+Martes,1
+Martes flavigula,1
+Mellivora,1
+Mellivora capensis,1
+Mustela,1
+Mustela altaica,1
+Mustela sibirica,1
+Odobenidae,1
+Odobenus,1
+Odobenus rosmarus,1
+Otariidae,0.94
+Arctocephalus,0.94
+Arctocephalus australis,1
+Arctocephalus forsteri,1
+Arctocephalus gazella,1
+Arctocephalus pusillus,0.89
+Arctocephalus tropicalis,1
+Phocidae,1
+Mirounga,1
+Mirounga leonina,1
+Procyonidae,0.93
+Nasua,1
+Nasua narica,1
+Nasua nasua solitaria,1
+Potos,0.88
+Potos flavus,0.88
+Ursidae,0.93
+Ursus,0.93
+Ursus americanus,0.99
+Ursus arctos,0.84
+Ursus maritimus,0.97
+Viverridae,0.91
+Arctictis,0
+Arctictis binturong,0
+Civettictis,0.98
+Civettictis civetta,0.98
+Hemigalus,0
+Hemigalus derbyanus,0
+Paradoxurus,1
+Paradoxurus hermaphroditus,1
+Cetacea,0.99
+Monodontidae,0.98
+Delphinapterus,0.97
+Delphinapterus leucas,0.97
+Monodon,1
+Monodon monoceros,1
+Phocoenidae,1
+Phocoena,1
+Phocoena phocoena,1
+Phocoenoides,1
+Phocoenoides dalli,1
+Physeteridae,1
+Kogia,1
+Kogia breviceps,1
+Ziphiidae,1
+Indopacetus,1
+Indopacetus pacificus,1
+Mesoplodon,1
+Mesoplodon bidens,1
+Mesoplodon bowdoini,1
+Mesoplodon carlhubbsi,1
+Mesoplodon densirostris,1
+Mesoplodon europaeus,1
+Mesoplodon ginkgodens,1
+Mesoplodon grayi,1
+Mesoplodon hectori,1
+Mesoplodon layardii,1
+Mesoplodon mirus,1
+Mesoplodon perrini,1
+Mesoplodon peruvianus,1
+Mesoplodon spp.,1
+Mesoplodon stejnegeri,1
+Mesoplodon traversii,1
+Tasmacetus,1
+Tasmacetus shepherdi,1
+Ziphius,1
+Ziphius cavirostris,1
+Chiroptera,0.92
+Pteropodidae,0.92
+Pteropus,0.92
+Pteropus alecto,1
+Pteropus capistratus,1
+Pteropus conspicillatus,1
+Pteropus giganteus,1
+Pteropus lylei,0
+Pteropus ornatus,1
+Pteropus poliocephalus,1
+Pteropus rayneri,1
+Pteropus rufus,1
+Pteropus seychellensis,1
+Pteropus spp.,1
+Pteropus vampyrus,1
+Pteropus vetulus,1
+Diprotodontia,0.67
+Phalangeridae,0.67
+Phalanger,1
+Phalanger orientalis,1
+Spilocuscus,0
+Spilocuscus spp.,0
+Monotremata,1
+Tachyglossidae,1
+Zaglossus,1
+Zaglossus bruijni,1
+Perissodactyla,0.74
+Rhinocerotidae,0.94
+Ceratotherium,0.94
+Ceratotherium simum,0.9
+Ceratotherium simum simum,0.95
+Tapiridae,0.07
+Tapirus,0.07
+Tapirus terrestris,0.07
+Pholidota,1
+Manidae,1
+Manis,1
+Manis gigantea,1
+Manis javanica,1
+Manis pentadactyla,1
+Manis spp.,1
+Manis tricuspis,1
+Pilosa,0.5
+Megalonychidae,1
+Choloepus,1
+Choloepus hoffmanni,1
+Myrmecophagidae,0.14
+Myrmecophaga,0.14
+Myrmecophaga tridactyla,0.14
+Primates,0.69
+Lorisidae,1
+Perodicticus potto,1
+Pitheciidae,0.57
+Callicebus,0.67
+Callicebus brunneus,1
+Callicebus cupreus,0
+Pithecia,0.5
+Pithecia irrorata,1
+Pithecia monachus,1
+Pithecia pithecia,0
+Tarsiidae,0.67
+Tarsius,0.67
+Tarsius bancanus,1
+Tarsius syrichta,1
+Tarsius tarsier,0
+Rodentia,0.92
+Cuniculidae,1
+Cuniculus,1
+Cuniculus paca,1
+Dasyproctidae,1
+Dasyprocta,1
+Dasyprocta punctata,1
+Sciuridae,0
+Ratufa,0
+Ratufa affinis,0
+Scandentia,0.86
+Tupaiidae,0.86
+Tupaia,0.86
+Tupaia belangeri,0
+Tupaia everetti,1
+Tupaia glis,1
+Tupaia montana,1
+Tupaia tana,1
+Reptilia,0.54
+Sauria,0.85
+Gekkonidae,0
+Dactylocnemis,0
+Dactylocnemis pacificus,0
+Scincidae,0.4
+Corucia,0.4
+Corucia zebrata,0.4
+Teiidae,0.85
+Dracaena,0
+Dracaena guianensis,0
+Salvator,0.87
+Salvator merianae,0.9
+Salvator rufescens,0.82
+Tupinambis,1
+Tupinambis spp.,1
+Tupinambis teguixin,1
+Varanidae,0.86
+Varanus,0.86
+Varanus acanthurus,0
+Varanus albigularis,0.71
+Varanus beccarii,0
+Varanus boehmei,0
+Varanus cumingi,0.2
+Varanus dalubhasa,1
+Varanus doreanus,0.7
+Varanus dumerilii,0.6
+Varanus exanthematicus,0.94
+Varanus giganteus,0
+Varanus gilleni,0
+Varanus glauerti,0
+Varanus gouldii,0
+Varanus indicus,0.38
+Varanus jobiensis,0.55
+Varanus kingorum,0
+Varanus kordensis,0
+Varanus macraei,0
+Varanus melinus,0.06
+Varanus mertensi,0
+Varanus niloticus,0.98
+Varanus ornatus,1
+Varanus panoptes,0
+Varanus pilbarensis,0
+Varanus prasinus,0.06
+Varanus primordius,0
+Varanus reisingeri,0
+Varanus rudicollis,0.71
+Varanus salvadorii,0.59
+Varanus salvator,0.96
+Varanus similis,0
+Varanus spenceri,0
+Varanus spinulosus,1
+Varanus spp.,0.86
+Varanus storri,0
+Varanus timorensis,0
+Varanus tristis,0
+Varanus varius,0
+Varanus yuwonoi,0
+Xenosauridae,0
+Shinisaurus,0
+Shinisaurus crocodilurus,0
+Serpentes,0.42
+Colubridae,0.95
+Cerberus,0.93
+Cerberus rynchops,0.93
+Xenochrophis,1
+Xenochrophis piscator,1
+Xenochrophis spp.,1
+Loxocemidae,0
+Loxocemus,0
+Loxocemus bicolor,0
+Pythonidae,0.43
+Antaresia,0
+Antaresia childreni,0
+Antaresia maculosa,0
+Antaresia perthensis,0
+Apodora,1
+Apodora papuana,1
+Aspidites,0
+Aspidites melanocephalus,0
+Aspidites ramsayi,0
+Bothrochilus,0.67
+Bothrochilus boa,0.67
+Leiopython,0.48
+Leiopython albertisii,0.48
+Liasis,0.47
+Liasis fuscus,0.64
+Liasis mackloti,0.41
+Liasis olivaceus,0
+Morelia,0.25
+Morelia amethistina,0.36
+Morelia boeleni,0
+Morelia bredli,0
+Morelia carinata,0
+Morelia clastolepis,1
+Morelia nauta,1
+Morelia spilota,0.32
+Morelia tracyae,1
+Morelia viridis,0.03
+Python,0.44
+Python anchietae,0.15
+Python bivittatus,0.08
+Python breitensteini,0.84
+Python brongersmai,0.84
+Python curtus,0.74
+Python hybrid,0
+Python molurus,0.1
+Python natalensis,0
+Python regius,0.03
+Python reticulatus,0.49
+Python sebae,0.96
+Python spp.,1
+Python timoriensis,0
+Tropidophiidae,0
+Tropidophis,0
+Tropidophis wrighti,0
+Viperidae,0.13
+Crotalus,0.5
+Crotalus durissus,0.5
+Daboia,0.13
+Daboia russelii,0.13
+Trimeresurus,0
+Trimeresurus mangshanensis,0
+Vipera,0
+Vipera wagneri,0
+Testudines,0.23
+Chelydridae,1
+Macrochelys,1
+Macrochelys temminckii,1
+Emydidae,0.58
+Graptemys,0.58
+Graptemys barbouri,0
+Graptemys flavimaculata,0
+Graptemys gibbonsi,0
+Graptemys hybrid,1
+Graptemys nigrinoda,0.2
+Graptemys oculifera,0
+Graptemys ouachitensis,1
+Graptemys pseudogeographica,0.63
+Geoemydidae,0.22
+Mauremys,0.22
+Mauremys iversoni,0
+Mauremys pritchardi,0
+Mauremys reevesii,0.27
+Mauremys sinensis,0.18
+Podocnemididae,0.12
+Erymnochelys,1
+Erymnochelys madagascariensis,1
+Podocnemis,0
+Podocnemis unifilis,0
+Podocnemis vogli,0
+Testudinidae,0.16
+Aldabrachelys,0
+Aldabrachelys gigantea,0
+Centrochelys,0.03
+Centrochelys sulcata,0.03
+Chelonoidis,0.28
+Chelonoidis carbonarius,0.21
+Chelonoidis chilensis,0.33
+Chelonoidis denticulatus,0.47
+Chersina,0
+Chersina angulata,0
+Geochelone,0
+Geochelone elegans,0
+Gopherus,0
+Gopherus berlandieri,0
+Homopus,0
+Homopus areolatus,0
+Homopus signatus,0
+Indotestudo,0.36
+Indotestudo elongata,0
+Indotestudo forstenii,0.44
+Kinixys,0.74
+Kinixys belliana,0.5
+Kinixys erosa,1
+Kinixys homeana,1
+Kinixys spekii,0.33
+Malacochersus,0
+Malacochersus tornieri,0
+Manouria,0.26
+Manouria emys,0.29
+Manouria impressa,0
+Stigmochelys,0.09
+Stigmochelys pardalis,0.09
+Testudo,0.13
+Testudo graeca,0.05
+Testudo hermanni,0
+Testudo horsfieldii,0.47
+Testudo marginata,0
+Trionychidae,0.97
+Amyda,1
+Amyda cartilaginea,1
+Dogania,1
+Dogania subplana,1
+Palea,0
+Palea steindachneri,0
+Pelochelys,1
+Pelochelys bibroni,1
+Pelochelys cantorii,1
+Pelochelys signifera,1
+Rafetus,1
+Rafetus swinhoei,1
+Nasua nasua,1
+Amazilia brevirostris,1
+Psittacus erithacus timneh,0.31
+Neoceratodus forsteri,0
