@@ -1,0 +1,500 @@
+id,name,parent,size
+1,Animals,,
+2,Actinopteri,1,
+3,Acipenseriformes,2,
+4,Polyodontidae,3,
+5,polyodon,4,
+6,Polyodon spathula,5,8
+7,Syngnathiformes,2,
+8,Syngnathidae,7,
+9,Hippocampus,8,
+10,Hippocampus abdominalis,9,7
+11,Hippocampus algiricus,9,1
+12,Hippocampus barbouri,9,7
+13,Hippocampus breviceps,9,1
+14,Hippocampus comes,9,8
+15,Hippocampus erectus,9,5
+16,Hippocampus histrix,9,2
+17,Hippocampus kelloggi,9,3
+18,Hippocampus kuda,9,27
+19,Hippocampus reidi,9,13
+20,Hippocampus semispinosus,9,4
+21,Hippocampus spinosissimus,9,4
+22,Hippocampus spp.,9,3
+23,Hippocampus subelongatus,9,3
+24,Hippocampus trimaculatus,9,2
+25,Hippocampus whitei,9,2
+26,Hippocampus zosterae,9,1
+27,Amphibia,1,
+28,Anura,27,
+29,Calyptocephalellidae,28,
+30,Calyptocephalella,29,
+31,Calyptocephalella gayi,30,1
+32,Mantellidae,28,
+33,Mantella,32,
+34,Mantella aurantiaca,33,12
+35,Mantella baroni,33,6
+36,Mantella betsileo,33,11
+37,Mantella cowanii,33,1
+38,Mantella crocea,33,2
+39,Mantella laevigata,33,4
+40,Mantella madagascariensis,33,8
+41,Mantella manery,33,1
+42,Mantella milotympanum,33,2
+43,Mantella nigricans,33,9
+44,Mantella pulchra,33,1
+45,Mantella spp.,33,2
+46,Mantella viridis,33,1
+47,Anthozoa,1,
+48,Antipatharia,47,
+49,Myriopathidae,48,
+50,Cupressopathes,49,
+51,Cupressopathes spp.,50,1
+52,Tanacetipathes,49,
+53,Tanacetipathes barbadensis,52,1
+54,Tanacetipathes hirta,52,1
+55,Tanacetipathes tanacetum,52,1
+56,Tanacetipathes thamnea,52,1
+57,Schizopathidae,48,
+58,Parantipathes,57,
+59,Parantipathes spp.,58,1
+60,Gorgonacea,47,
+61,Coralliidae,60,
+62,Corallium,61,
+63,Corallium elatius,62,51
+64,Corallium japonicum,62,13
+65,Corallium konjoi,62,8
+66,Corallium secundum,62,24
+67,Scleractinia,47,
+68,Meandriniidae,67,
+69,Dendrogyra,68,
+70,Dendrogyra cylindrus,69,1
+71,Dichocoenia,68,
+72,Dichocoenia stokesii,71,1
+73,Meandrina,68,
+74,Meandrina maeandrites,73,2
+75,Merulinidae,67,
+76,Hydnophora,75,
+77,Hydnophora bonsai,76,1
+78,Hydnophora exesa,76,58
+79,Hydnophora microconos,76,40
+80,Hydnophora rigida,76,29
+81,Hydnophora spp.,76,68
+82,Merulina,75,
+83,Merulina ampliata,82,107
+84,Merulina scabricula,82,5
+85,Merulina spp.,82,2
+86,Mussidae,67,
+87,Acanthastrea,86,
+88,Acanthastrea amakusensis,87,7
+89,Acanthastrea bowerbanki,87,14
+90,Acanthastrea echinata,87,8
+91,Acanthastrea hemprichii,87,2
+92,Acanthastrea hillae,87,9
+93,Acanthastrea lordhowensis,87,22
+94,Acanthastrea maxima,87,4
+95,Acanthastrea rotundoflora,87,1
+96,Acanthastrea spp.,87,124
+97,Acanthophyllia,86,
+98,Acanthophyllia deshayesiana,97,44
+99,Acanthophyllia spp.,97,1
+100,Australomussa,86,
+101,Australomussa rowleyensis,100,32
+102,Australomussa spp.,100,1
+103,Blastomussa,86,
+104,Blastomussa merleti,103,30
+105,Blastomussa spp.,103,12
+106,Blastomussa wellsi,103,98
+107,Cynarina,86,
+108,Cynarina lacrymalis,107,69
+109,Cynarina spp.,107,4
+110,Lobophyllia,86,
+111,Lobophyllia corymbosa,110,55
+112,Lobophyllia diminuta,110,1
+113,Lobophyllia hataii,110,1
+114,Lobophyllia hemprichii,110,18
+115,Lobophyllia robusta,110,3
+116,Lobophyllia spp.,110,167
+117,Micromussa,86,
+118,Micromussa spp.,117,2
+119,Mussismilia,86,
+120,Mussismilia braziliensis,119,1
+121,Mycetophyllia,86,
+122,Mycetophyllia aliciae,121,2
+123,Scolymia,86,
+124,Scolymia australis,123,34
+125,Scolymia cubensis,123,1
+126,Scolymia lacera,123,1
+127,Scolymia spp.,123,49
+128,Scolymia vitiensis,123,40
+129,Symphyllia,86,
+130,Symphyllia agaricia,129,5
+131,Symphyllia radians,129,2
+132,Symphyllia recta,129,2
+133,Symphyllia spp.,129,117
+134,Symphyllia valenciennesii,129,2
+135,Symphyllia wilsoni,129,7
+136,Oculinidae,67,
+137,Acrhelia,136,
+138,Acrhelia horrescens,137,3
+139,Galaxea,136,
+140,Galaxea acrhelia,139,1
+141,Galaxea astreata,139,48
+142,Galaxea fascicularis,139,67
+143,Galaxea spp.,139,63
+144,Madrepora,136,
+145,Madrepora oculata,144,1
+146,Madrepora spp.,144,1
+147,Pectiniidae,67,
+148,Echinophyllia,147,
+149,Echinophyllia aspera,148,11
+150,Echinophyllia echinata,148,3
+151,Echinophyllia echinoporoides,148,1
+152,Echinophyllia nishihirai,148,3
+153,Echinophyllia spp.,148,133
+154,Mycedium,147,
+155,Mycedium elephantotus,154,55
+156,Mycedium robokaki,154,26
+157,Mycedium spina,154,1
+158,Mycedium spp.,154,56
+159,Oxypora,147,
+160,Oxypora convoluta,159,1
+161,Oxypora glabra,159,1
+162,Oxypora spp.,159,60
+163,Pectinia,147,
+164,Pectinia africanus,163,1
+165,Pectinia alcicornis,163,1
+166,Pectinia lactuca,163,3
+167,Pectinia paeonia,163,2
+168,Pectinia spp.,163,93
+169,Pocilloporidae,67,
+170,Madracis,169,
+171,Madracis asanoi,170,1
+172,Madracis decactis,170,2
+173,Madracis myriaster,170,1
+174,Madracis pharensis,170,1
+175,Madracis spp.,170,1
+176,Pocillopora,169,
+177,Pocillopora damicornis,176,17
+178,Pocillopora eydouxi,176,8
+179,Pocillopora meandrina,176,13
+180,Pocillopora spp.,176,106
+181,Pocillopora verrucosa,176,7
+182,Seriatopora,169,
+183,Seriatopora aculeata,182,1
+184,Seriatopora caliendrum,182,5
+185,Seriatopora hystrix,182,46
+186,Seriatopora spp.,182,73
+187,Stylophora,169,
+188,Stylophora pistillata,187,26
+189,Stylophora spp.,187,94
+190,Stylophora subseriata,187,1
+191,Poritidae,67,
+192,Alveopora,191,
+193,Alveopora gigas,192,11
+194,Alveopora spongiosa,192,7
+195,Alveopora spp.,192,81
+196,Goniopora,191,
+197,Goniopora albiconus,196,2
+198,Goniopora columna,196,1
+199,Goniopora lobata,196,68
+200,Goniopora minor,196,3
+201,Goniopora norfolkensis,196,1
+202,Goniopora somaliensis,196,1
+203,Goniopora spp.,196,189
+204,Goniopora stokesi,196,73
+205,Goniopora stutchburyi,196,2
+206,Goniopora tenuidens,196,3
+207,Porites,191,
+208,Porites annae,207,1
+209,Porites astreoides,207,9
+210,Porites branneri,207,1
+211,Porites cylindrica,207,6
+212,Porites lobata,207,10
+213,Porites lutea,207,7
+214,Porites porites,207,5
+215,Porites rus,207,2
+216,Porites spp.,207,145
+217,Rhizangiidae,67,
+218,Astrangia,217,
+219,Astrangia poculata,218,2
+220,Siderastreidae,67,
+221,Coscinaraea,220,
+222,Coscinaraea spp.,221,1
+223,Psammocora,220,
+224,Psammocora spp.,223,3
+225,Psammocora superficialis,223,1
+226,Siderastrea,220,
+227,Siderastrea radians,226,1
+228,Siderastrea siderea,226,3
+229,Siderastrea spp.,226,1
+230,Trachyphylliidae,67,
+231,Trachyphyllia,230,
+232,Trachyphyllia geoffroyi,231,107
+233,Trachyphyllia spp.,231,3
+234,Stolonifera,47,
+235,Tubiporidae,234,
+236,Tubipora,235,
+237,Tubipora musica,236,116
+238,Tubipora spp.,236,3
+239,Arachnida,1,
+240,Araneae,239,
+241,Theraphosidae,240,
+242,Aphonopelma,241,
+243,Aphonopelma albiceps,242,2
+244,Brachypelma,241,
+245,Brachypelma albopilosum,244,13
+246,Brachypelma annitha,244,4
+247,Brachypelma auratum,244,4
+248,Brachypelma baumgarteni,244,2
+249,Brachypelma boehmei,244,7
+250,Brachypelma emilia,244,7
+251,Brachypelma kahlenbergi,244,2
+252,Brachypelma klaasi,244,1
+253,Brachypelma smithi,244,15
+254,Brachypelma spp.,244,1
+255,Brachypelma vagans,244,4
+256,Brachypelma verdezi,244,1
+257,Scorpiones,239,
+258,Scorpionidae,257,
+259,Pandinus,258,
+260,Pandinus dictator,259,1
+261,Aves,1,
+262,Anseriformes,261,
+263,Anatidae,262,
+264,Cairina,263,
+265,Cairina moschata,264,22
+266,Apodiformes,261,
+267,Trochilidae,266,
+268,Amazilia,267,
+269,Amazilia cyanocephala,268,2
+270,Amazilia fimbriata,268,1
+271,Amazilia viridigaster,268,1
+272,Amazilia yucatanensis,268,1
+273,Anthracothorax,267,
+274,Anthracothorax veraguensis,273,1
+275,Archilochus,267,
+276,Archilochus colubris,275,2
+277,Basilinna,267,
+278,Basilinna leucotis,277,1
+279,Calliphlox,267,
+280,Calliphlox bryantae,279,1
+281,Campylopterus,267,
+282,Campylopterus hemileucurus,281,1
+283,Campylopterus largipennis,281,1
+284,Chlorostilbon,267,
+285,Chlorostilbon lucidus,284,1
+286,Colibri,267,
+287,Colibri coruscans,286,1
+288,Colibri thalassinus,286,3
+289,Eugenes,267,
+290,Eugenes fulgens,289,2
+291,Florisuga,267,
+292,Florisuga fusca,291,1
+293,Florisuga mellivora,291,1
+294,Heliothryx,267,
+295,Heliothryx auritus,294,1
+296,Hylocharis,267,
+297,Hylocharis cyanus,296,1
+298,Lampornis,267,
+299,Lampornis amethystinus,298,1
+300,Lampornis sybillae,298,1
+301,Lampornis viridipallens,298,1
+302,Lophornis,267,
+303,Lophornis ornatus,302,1
+304,Lophornis pavoninus,302,1
+305,Phaethornis,267,
+306,Phaethornis augusti,305,1
+307,Phaethornis bourcieri,305,1
+308,Phaethornis longirostris,305,1
+309,Phaethornis superciliosus,305,1
+310,Thalurania,267,
+311,Thalurania furcata,310,1
+312,Charadriiformes,261,
+313,Burhinidae,312,
+314,Burhinus,313,
+315,Burhinus bistriatus,314,1
+316,Ciconiiformes,261,
+317,Phoenicopteridae,316,
+318,Phoeniconaias,317,
+319,Phoeniconaias minor,318,3
+320,Phoenicopterus,317,
+321,Phoenicopterus chilensis,320,2
+322,Phoenicopterus ruber,320,13
+323,Threskiornithidae,316,
+324,Eudocimus,323,
+325,Eudocimus ruber,324,17
+326,Platalea,323,
+327,Platalea leucorodia,326,2
+328,Columbiformes,261,
+329,Columbidae,328,
+330,Nesoenas,329,
+331,Nesoenas mayeri,330,1
+332,Cuculiformes,261,
+333,Musophagidae,332,
+334,Tauraco,333,
+335,Tauraco corythaix,334,2
+336,Tauraco erythrolophus,334,14
+337,Tauraco fischeri,334,5
+338,Tauraco hartlaubi,334,4
+339,Tauraco leucolophus,334,18
+340,Tauraco leucotis,334,9
+341,Tauraco livingstonii,334,3
+342,Tauraco persa,334,7
+343,Tauraco porphyreolophus,334,9
+344,Tauraco schalowi,334,1
+345,Tauraco schuettii,334,2
+346,Tauraco spp.,334,2
+347,Falconiformes,261,
+348,Cathartidae,347,
+349,Sarcoramphus,348,
+350,Sarcoramphus papa,349,3
+351,Pandionidae,347,
+352,Pandion,351,
+353,Pandion haliaetus,352,5
+354,Sagittariidae,347,
+355,Sagittarius,354,
+356,Sagittarius serpentarius,355,1
+357,Galliformes,261,
+358,Cracidae,357,
+359,Crax,358,
+360,Crax rubra,359,4
+361,Ortalis,358,
+362,Ortalis vetula,361,1
+363,Pauxi,358,
+364,Pauxi pauxi,363,9
+365,Penelope,358,
+366,Penelope purpurascens,365,1
+367,Phasianidae,357,
+368,Argusianus,367,
+369,Argusianus argus,368,1
+370,Gallus,367,
+371,Gallus sonneratii,370,3
+372,Lophura,367,
+373,Lophura leucomelanos,372,2
+374,Meleagris,367,
+375,Meleagris ocellata,374,6
+376,Pavo,367,
+377,Pavo cristatus,376,119
+378,Pavo muticus,376,12
+379,Polyplectron,367,
+380,Polyplectron bicalcaratum,379,6
+381,Polyplectron germaini,379,1
+382,Polyplectron malacense,379,1
+383,Tragopan,367,
+384,Tragopan satyra,383,3
+385,Gruiformes,261,
+386,Otididae,385,
+387,Ardeotis,386,
+388,Ardeotis kori,387,1
+389,Lissotis,386,
+390,Lissotis melanogaster,389,1
+391,Lophotis,386,
+392,Lophotis ruficrista,391,1
+393,Otis,386,
+394,Otis tarda,393,3
+395,Passeriformes,261,
+396,Cotingidae,395,
+397,Cephalopterus,396,
+398,Cephalopterus ornatus,397,1
+399,Muscicapidae,395,
+400,Leiothrix,399,
+401,Leiothrix argentauris,400,3
+402,Leiothrix lutea,400,4
+403,Liocichla,399,
+404,Liocichla omeiensis,403,6
+405,Paradisaeidae,395,
+406,Cicinnurus,405,
+407,Cicinnurus regius,406,2
+408,Lophorina,405,
+409,Lophorina superba,408,2
+410,Paradisaea,405,
+411,Paradisaea apoda,410,2
+412,Paradisaea minor,410,1
+413,Paradisaea raggiana,410,1
+414,Paradisaea rubra,410,3
+415,Paradisaea spp.,410,1
+416,Parotia,405,
+417,Parotia lawesii,416,1
+418,Pteridophora,405,
+419,Pteridophora alberti,418,1
+420,Seleucidis,405,
+421,Seleucidis melanoleucus,420,1
+422,Pycnonotidae,395,
+423,Pycnonotus,422,
+424,Pycnonotus zeylanicus,423,3
+425,Sturnidae,395,
+426,Gracula,425,
+427,Gracula religiosa,426,14
+428,Piciformes,261,
+429,Ramphastidae,428,
+430,Baillonius,429,
+431,Baillonius bailloni,430,1
+432,Pteroglossus,429,
+433,Pteroglossus aracari,432,9
+434,Pteroglossus viridis,432,9
+435,Ramphastos,429,
+436,Ramphastos dicolorus,435,2
+437,Ramphastos sulfuratus,435,2
+438,Ramphastos toco,435,24
+439,Ramphastos tucanus,435,25
+440,Ramphastos vitellinus,435,28
+441,Psittaciformes,261,
+442,Loriidae,441,
+443,Chalcopsitta,442,
+444,Chalcopsitta atra,443,16
+445,Chalcopsitta cardinalis,443,10
+446,Chalcopsitta duivenbodei,443,12
+447,Chalcopsitta sintillata,443,7
+448,Charmosyna,442,
+449,Charmosyna papou,448,5
+450,Charmosyna placentis,448,3
+451,Eos,442,
+452,Eos cyanogenia,451,2
+453,Eos reticulata,451,3
+454,Eos rubra,451,20
+455,Eos semilarvata,451,1
+456,Eos squamata,451,3
+457,Eos squamata riciniata,451,2
+458,Glossopsitta,442,
+459,Glossopsitta concinna,458,6
+460,Lorius,442,
+461,Lorius chlorocercus,460,7
+462,Lorius domicella,460,3
+463,Lorius garrulus,460,28
+464,Lorius hypoinochrous,460,1
+465,Lorius lory,460,22
+466,Phigys,442,
+467,Phigys solitarius,466,1
+468,Pseudeos,442,
+469,Pseudeos fuscata,468,13
+470,Psitteuteles,442,
+471,Psitteuteles goldiei,470,2
+472,Trichoglossus,442,
+473,Trichoglossus chlorolepidotus,472,4
+474,Trichoglossus flavoviridis,472,1
+475,Trichoglossus haematodus,472,56
+476,Trichoglossus johnstoniae,472,2
+477,Trichoglossus ornatus,472,4
+478,Trichoglossus spp.,472,1
+479,Vini,442,
+480,Vini kuhlii,479,1
+481,Psittacidae,441,
+482,Agapornis,481,
+483,Agapornis canus,482,12
+484,Agapornis fischeri,482,76
+485,Agapornis hybrid,482,1
+486,Agapornis lilianae,482,10
+487,Agapornis nigrigenis,482,7
+488,Agapornis personatus,482,59
+489,Agapornis pullarius,482,2
+490,Agapornis taranta,482,15
+491,Alisterus,481,
+492,Alisterus amboinensis,491,1
+493,Alisterus chloropterus,491,3
+494,Alisterus scapularis,491,35
+495,Amazona,481,
+496,Amazona aestiva,495,102
+497,Amazona albifrons,495,18
+498,Amazona amazonica,495,59
+499,Amazona autumnalis,495,36
