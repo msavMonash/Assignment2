@@ -6,8 +6,8 @@
     "config":{"background":"#ffffff"},
     "projection": {"type": "equirectangular"},
     "data": {
-        "url": "https://raw.githubusercontent.com/msavMonash/Week9Homework/master/js/worldMap.geo.json" ,
-        "format": {"type": "topojson", "feature": "importHigh.topojson"}
+        "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/js/lowResTopo.geo.json" ,
+        "format": {"type": "topojson", "feature": "lowResTopo.geo"}
         },
     "layer":[{
         "transform":[{"calculate":"'Data is unavailable in ' + datum.properties.name", "as": "note"}],
