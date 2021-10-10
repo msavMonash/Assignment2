@@ -8,6 +8,10 @@
   
     "data": [
       {
+        "name":"wild",
+        "url":"https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/AnimalWild.csv",
+        "format":{"type":"csv"}},
+      {
         "name": "tree",
         "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/ConvertedAnimalClassification.csv",
         "format": {"type": "csv"},
@@ -27,6 +31,12 @@
         ]
       }
     ],
+    "transform": [
+      {
+        "lookup": "name",
+        "from": {"data": {"name":"wild"}, "key": "name", "fields": ["wild"]}
+      }
+    ],
   
     "scales": [
       {
@@ -35,6 +45,7 @@
         "domain": {"data": "tree", "field": "depth"},
         "range": {"scheme": "tableau20"}
       }
+
     ],
   
     "marks": [
