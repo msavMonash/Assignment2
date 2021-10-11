@@ -43,7 +43,12 @@
       {
         "name": "color",
         "type": "threshold",
-        "domain":{"data":"tree","field":"wild%"},
+        "domain": {
+          "fields": [
+            {"data": "tree", "field": "wild%"},
+            [0.2,0.4,0.6,0.8]
+          ]
+        },
         "range":["#08b3e5","#84dffb","#badede","#80ff86","#00ab08"]
       }
       
