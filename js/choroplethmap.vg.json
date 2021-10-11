@@ -24,7 +24,7 @@
         "lookup": "properties.name",
         "from": {
             "data": {
-                "url": "https://raw.githubusercontent.com/msavMonash/Week9Homework/master/data/ImportCaptiveWild.csv"
+                "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/ImportCaptiveWild.csv"
                     },
         "key": "Country",
         "fields": ["Country","Captive","Wild","Total"]

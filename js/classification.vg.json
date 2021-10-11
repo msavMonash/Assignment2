@@ -27,24 +27,26 @@
             "sort": {"field": "value"},
             "size": [{"signal": "2 * PI"}, {"signal": "width / 2"}],
             "as": ["a0", "r0", "a1", "r1", "depth", "children"]
+          },
+          {
+            "type": "lookup",
+            "from":"wild",
+            "key":"name",
+            "fields":["wild"],
+            "as":["wild%"]
           }
         ]
-      }
-    ],
-    "transform": [
-      {
-        "lookup": "name",
-        "from": {"data": {"name":"wild"}, "key": "name", "fields": ["wild"]}
       }
     ],
   
     "scales": [
       {
         "name": "color",
-        "type": "ordinal",
-        "domain": {"data": "tree", "field": "depth"},
-        "range": {"scheme": "tableau20"}
+        "type": "threshold",
+        "domain":{"data":"tree","field":"wild%"},
+        "range":["#08b3e5","#84dffb","#badede","#80ff86","#00ab08"]
       }
+      
 
     ],
   
@@ -57,7 +59,7 @@
             "x": {"signal": "width / 2"},
             "y": {"signal": "height / 2"},
             "fill": {"scale": "color", "field": "depth"},
-            "tooltip": {"signal": "datum.name + (datum.size ? ', ' + datum.size + ' bytes' : '')"}
+            "tooltip": {"signal": "datum.name + (datum.size ? ', ' + 'Count: ' + datum.size : '')"}
           },
           "update": {
             "startAngle": {"field": "a0"},
