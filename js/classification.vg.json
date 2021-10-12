@@ -1,86 +1,91 @@
 {
-    "$schema": "https://vega.github.io/schema/vega/v5.json",
-    "description": "An example of a space-fulling radial layout for hierarchical data.",
-    "width": 600,
-    "height": 600,
-    "padding": 5,
-    "autosize": "none",
-  
-    "data": [
-      {
-        "name":"wild",
-        "url":"https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/AnimalWild.csv",
-        "format":{"type":"csv"}},
-      {
-        "name": "tree",
-        "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/ConvertedAnimalClassification.csv",
-        "format": {"type": "csv"},
-        "transform": [
-          {
-            "type": "stratify",
-            "key": "id",
-            "parentKey": "parent"
-          },
-          {
-            "type": "partition",
-            "field": "size",
-            "sort": {"field": "value"},
-            "size": [{"signal": "2 * PI"}, {"signal": "width / 2"}],
-            "as": ["a0", "r0", "a1", "r1", "depth", "children"]
-          },
-          {
-            "type": "lookup",
-            "from":"wild",
-            "key":"name",
-            "fields":["wild"],
-            "as":["wild%"]
-          }
-        ]
-      }
-    ],
-  
-    "scales": [
-      {
-        "name": "color",
-        "type": "threshold",
-        "domain": {
-          "fields": [
-            {"data": "tree", "field": "wild%"},
-            [0.2,0.4,0.6,0.8]
-          ]
-        },
-        "range":["#08b3e5","#84dffb","#badede","#80ff86","#00ab08"]
-      }
-      
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "Sunburst chart showing classification of animals imported and exported globally in 2016",
+  "width": 600,
+  "height": 600,
+  "padding": 5,
+  "autosize": "none",
 
-    ],
-  
-    "marks": [
-      {
-        "type": "arc",
-        "from": {"data": "tree"},
-        "encode": {
-          "enter": {
-            "x": {"signal": "width / 2"},
-            "y": {"signal": "height / 2"},
-            "fill": {"scale": "color", "field": "depth"},
-            "tooltip": {"signal": "datum.name + (datum.size ? ', ' + 'Count: ' + datum.size : '')"}
-          },
-          "update": {
-            "startAngle": {"field": "a0"},
-            "endAngle": {"field": "a1"},
-            "innerRadius": {"field": "r0"},
-            "outerRadius": {"field": "r1"},
-            "stroke": {"value": "white"},
-            "strokeWidth": {"value": 0.5},
-            "zindex": {"value": 0}
-          },
-          "hover": {
-            "stroke": {"value": "red"},
-            "strokeWidth": {"value": 2},
-            "zindex": {"value": 1}
-          }
+  "data": [
+    {
+      "name":"wild",
+      "url":"https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/AnimalWild.csv",
+      "format":{"type":"csv"}},
+    {
+      "name": "tree",
+      "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/ConvertedAnimalClassification.csv",
+      "format": {"type": "csv"},
+      "transform": [
+        {
+          "type": "stratify",
+          "key": "id",
+          "parentKey": "parent"
+        },
+        {
+          "type": "partition",
+          "field": "size",
+          "sort": {"field": "value"},
+          "size": [{"signal": "2 * PI"}, {"signal": "width / 2"}],
+          "as": ["a0", "r0", "a1", "r1", "depth", "children"]
+        },
+        {
+          "type": "lookup",
+          "from": "wild",
+          "key": "name",
+          "fields": ["name"],
+          "values": ["wild"],
+          "as":["wildPercent"]
+        },
+        {
+          "type":"formula", "as": "wildFloat", "expr":"parseFloat(datum.wildPercent)"
+        }
+        
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "color",
+      "type": "threshold",
+      "domain": {
+        "fields": [
+          {"data": "tree", "field": "wildFloat"},
+          [0.2,0.4,0.6,0.8]
+        ]
+      },
+      "range":["#08b3e5","#84dffb","#badede","#80ff86","#00ab08"]
+    }
+    
+
+  ],
+
+  "marks": [
+    {
+      "type": "arc",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "x": {"signal": "width / 2"},
+          "y": {"signal": "height / 2"},
+          "fill": {"scale": "color", "field": "depth"},
+          "tooltip": {"signal": "datum.name + ', ' + datum.wildFloat + (datum.size ? ', ' + 'Count: ' + datum.size : '')"}
+        },
+        "update": {
+          "startAngle": {"field": "a0"},
+          "endAngle": {"field": "a1"},
+          "innerRadius": {"field": "r0"},
+          "outerRadius": {"field": "r1"},
+          "stroke": {"value": "white"},
+          "strokeWidth": {"value": 0.5},
+          "zindex": {"value": 0}
+        },
+        "hover": {
+          "stroke": {"value": "red"},
+          "strokeWidth": {"value": 2},
+          "zindex": {"value": 1}
         }
       }
-    ]
-  }
+    }
+  ]
+}
