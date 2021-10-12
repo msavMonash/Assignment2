@@ -1,3 +1,5 @@
-Impact,Captive,Wild
-Detrimental,8150,8136
-Beneficial,423,626
+Impact,Source,Number
+Detrimental,Captive,8150
+Beneficial,Captive,423
+Detrimental,Wild,8136
+Beneficial,Wild,626
