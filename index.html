@@ -20,10 +20,13 @@
     <div id="flex-container-title">
         <h1 class="title">Global Trading of Wild and Captive Animals in 2016</h1>
     </div>
+
+<!-- Import map -->
     <div id="flex-container-import-title">
         <h1 class="subtitle">Importation</h1>
-        <div class="text">The importing of captive and wild animals globally.
-    </div>
+        <div class="text">The importing of captive and wild animals globally that are sourced from the wild
+            or captive environments.
+    </div></div>
 <div id="flex-container-map">
     <div id="importMap" class="vega-container"></div>
     <div class="text-right"><p>Majority of countries import a relatively equal amount of wild and captive 
@@ -34,9 +37,13 @@
             captive animals.
     </p></div>
  </div>
+
+ <!-- Export map -->
+ <div class="grey">
  <div id="flex-container-export-title">
     <h1 class="subtitle">Exportation</h1>
-    <div class="text">The exporting of captive and wild animals globally.
+    <div class="text">The exporting of captive and wild animals globally that are sourced from the wild
+        or captive environments.
     </div>
 </div>
 <div id="flex-container-Export">
@@ -49,32 +56,46 @@
     </p>
     </div>
     <div id="exportMap" class="vega-container"></div>
-</div>
+</div></div>
+
+<!-- Classification Sunburst chart -->
 <div id="flex-container-sunburst-title">
     <h1 class="subtitle">Animal Classification</h1>
-    <div class="text">The network of animal classification heirarchy and the distribution of wild and
-        captive animals being classed as trade benefiting or harming them.
-</div>
+    <div class="text">The network of animal classification heirarchy, in order of animal kingdom, order,
+        class, family, genus, species. 
+</div></div>
 <div id="flex-container-Sunburst">
     <div id="sunburst"></div>
-    <div class="text-under">The Aves class and all orders, families, genuses and species that stem from it
+    <div class="text-right">The Aves class and all orders, genuses, families, and species that stem from it
         are mainly captive animals. Mammalia class is 90% wild animals, whereas the Reptilia class has the
         largest number of records, with the Sauria order being 85% traded from the wild but the Serpentes
         order consisted of 42% of wild animals being traded. Interestingly, records of python bivittatus species
         showed only 8% were wild animals, the large majority being captive.
     </div>
 </div>
-<div>
-    <div class="text-under">The Aves class and all orders, families, genuses and species that stem from it
-        are mainly captive animals. Mammalia class is 90% wild animals, whereas the Reptilia class has the
-        largest number of records, with the Sauria order being 85% traded from the wild but the Serpentes
-        order consisted of 42% of wild animals being traded. Interestingly, records of python bivittatus species
-        showed only 8% were wild animals, the large majority being captive.
+
+<!-- Protection pie chart -->
+<div class="grey">
+<div id="flex-container-protection-title">
+    <h1 class="subtitle">Protection</h1>
+    <div class="text">The protection level for anaimals traded. Classification is trade is either detrimental to
+        the species or beneficial, being used as a control mechanism.
+    </div>
+</div>
+<div id="flex-container-protection">
+    <div class="text-left">There was an overwhlemingly larger portion of detrimental species being traded compared
+        to beneficial species, perhaps they are more wanted species. The proportion of wild and captive species is quite
+        even between both protection levels, and wild beneficial species being traded more often compared to captive.
     </div>
     <div id="protection"></div>
 </div>
+</div>
+
+<!-- Purpose bar chart -->
 <div id="flex-container-purpose-title">
     <h1 class="subtitle">Purpose</h1>
+    <div class="text">The purpose for exporting or importing the animal.
+    </div>
 </div>
 <div id="flex-container-purpose"> 
     <div id="purposeBar"></div>
@@ -85,8 +106,13 @@
         scientific purposes mainly consisted of wild animals. </p>
     </div>
 </div>
+
+<!-- Condition bar chart -->
+<div class="grey">
 <div id="flex-container-condition-title">
     <h1 class="subtitle">Condition</h1>
+    <div class="text">The condition the animal was traded in, usually involving what part of the animal was traded.
+    </div>
 </div>
 <div id="flex-container-condition">
     <div class="text-left"><p>The condition or part of animal that was traded varies greatly. The largest condition
@@ -96,7 +122,7 @@
         of a small number of wild animals, such as horns and fur products.</p>
     </div>
     <div id="conditionBar"></div>
-</div>
+</div></div>
 
 
 </body>

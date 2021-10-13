@@ -103,7 +103,7 @@
           "zindex": {"value": 0}
         },
         "hover": {
-          "stroke": {"value": "red"},
+          "stroke": {"value": "blue"},
           "strokeWidth": {"value": 2},
           "zindex": {"value": 1}
         }

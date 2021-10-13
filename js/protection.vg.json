@@ -1,5 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": "container",
     "data": {
       "url":"https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/AppCaptiveWild.csv"
     },
