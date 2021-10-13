@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Purpose of Imported Wild and Captive Animals (%)",
+    "title": " Percentage of Wild and Captive Animals by Purpose",
     "width": "container",
     "height": 400,
     "config":{"view": {
@@ -29,7 +29,7 @@
         "field": "Source",
         "type": "nominal",
         "scale": {"range": ["#c0e6ba","#0e7735"]},
-        "title": "Source"
+        "legend": null
       },
 
       "tooltip": [

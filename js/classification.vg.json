@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "description": "Sunburst chart showing classification of animals imported and exported globally in 2016",
+  "title":"Percentage of Wild Animals per Classification Level",
   "width": 600,
   "height": 600,
   "padding": 5,
@@ -57,8 +57,6 @@
     
 
   ],
-
-  "legends": [{"fill": "color", "format": ".0%", "orient": "top-right"}],
 
   "marks": [
     {

@@ -1,6 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": "container",
+    "title":"Percentage of Wild and Captive Animals by Protection Level",
     "data": {
       "url":"https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/AppCaptiveWild.csv"
     },
@@ -29,9 +30,9 @@
           },
           "tooltip": [
             {"field":"Impact", "type": "nominal"},
-            {"field":"Source","type":"nominal"},
             {"field":"Percentage","type":"quantitative", "format": ".0%"},
-            {"field":"Number","type":"quantitative"}
+            {"field":"Number","type":"quantitative"},
+            {"field":"Source","type":"nominal"}
           ]
         }
       },
@@ -79,9 +80,9 @@
           },
           "tooltip": [
             {"field":"Impact", "type": "nominal"},
-            {"field":"Source","type":"nominal"},
             {"field":"Percentage","type":"quantitative", "format": ".0%"},
-            {"field":"Number","type":"quantitative"}
+            {"field":"Number","type":"quantitative"},
+            {"field":"Source","type":"nominal"}
           ]
         }
       },

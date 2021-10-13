@@ -1,11 +1,10 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Percentage of Imported Wild and Captive Animals for Their Condition",
+    "title": "Percentage of Wild and Captive Animals by Condition",
     "width": "container",
     "height": 400,
-    "config":{"view": {
-      "stroke": "transparent"
-   }},
+    "config":{"view": {"stroke": "transparent"}, "mark": {"font": "sans-serif"}
+  },
     "data": {"url": "https://raw.githubusercontent.com/msavMonash/Week10Homework/master/data/ConditionCaptiveWild.csv"},
     "params": [
         {
@@ -58,7 +57,7 @@
         "field": "Source",
         "type": "nominal",
         "scale": {"range": ["#c0e6ba","#0e7735"]},
-        "title": "Source"
+        "legend": null
       },
 
       "tooltip": [
