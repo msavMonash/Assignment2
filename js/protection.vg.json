@@ -6,7 +6,7 @@
     },
     "encoding": {
       "theta": {
-        "field": "Number",
+        "field": "Percentage",
         "type": "quantitative",
         "stack": true,
         "aggregate": "sum"
@@ -30,6 +30,7 @@
           "tooltip": [
             {"field":"Impact", "type": "nominal"},
             {"field":"Source","type":"nominal"},
+            {"field":"Percentage","type":"quantitative", "format": ".0%"},
             {"field":"Number","type":"quantitative"}
           ]
         }
@@ -41,9 +42,10 @@
         ],
         "encoding": {
           "text": {
-            "field": "Number",
+            "field": "Percentage",
             "type": "quantitative",
-            "aggregate": "sum"
+            "aggregate": "sum",
+            "format": ".0%"
           },
           "color": {
             "condition": {"test": "datum.Source === 'Captive'", "value": "black"},
@@ -78,6 +80,7 @@
           "tooltip": [
             {"field":"Impact", "type": "nominal"},
             {"field":"Source","type":"nominal"},
+            {"field":"Percentage","type":"quantitative", "format": ".0%"},
             {"field":"Number","type":"quantitative"}
           ]
         }
@@ -89,7 +92,7 @@
         ],
         "encoding": {
           "text": {
-            "field": "Number",
+            "field": "Percentage",
             "type": "quantitative",
             "aggregate": "sum"
           },

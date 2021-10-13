@@ -23,6 +23,14 @@
   font: 15px Verdana, sans-serif;
 }
 
+.text-sunburst {
+  display: flex;
+  flex-direction:column;
+  width: 30%;
+  margin-right: 10%;
+  font: 15px Verdana, sans-serif;
+}
+
 .title {
   padding-top: 2%;
   font: 40px Verdana, sans-serif;
