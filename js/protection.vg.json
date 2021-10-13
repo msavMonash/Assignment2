@@ -1,0 +1,119 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url":"https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/AppCaptiveWild.csv"
+    },
+    "encoding": {
+      "theta": {
+        "field": "Number",
+        "type": "quantitative",
+        "stack": true,
+        "aggregate": "sum"
+      }
+    },
+    "layer": [
+      {
+        "mark": {"type": "arc", "radius2": 100, "radius": 140},
+        "transform": [
+          {"filter": {"field": "Impact", "equal": "Beneficial"}}
+        ],
+        "encoding": {
+          "color": {
+            "field": "Source",
+            "type": "nominal",
+            "legend":null,
+            "scale": {
+              "domain":["Captive","Wild"],
+            "range":["#c0e6ba","#0e7735"]}
+          },
+          "tooltip": [
+            {"field":"Impact", "type": "nominal"},
+            {"field":"Source","type":"nominal"},
+            {"field":"Number","type":"quantitative"}
+          ]
+        }
+      },
+      {
+        "mark": {"type": "text", "radius": 120},
+        "transform": [
+          {"filter": {"field": "Impact", "equal": "Beneficial"}}
+        ],
+        "encoding": {
+          "text": {
+            "field": "Number",
+            "type": "quantitative",
+            "aggregate": "sum"
+          },
+          "color": {
+            "condition": {"test": "datum.Source === 'Captive'", "value": "black"},
+            "value": "white"
+        },
+          "detail": {"field": "Source", "type": "nominal"}
+        }
+      },
+      {
+        "mark": {"type": "text", "radius": 120, "color": "white"},
+        "transform": [
+          {"filter": {"field": "Impact", "equal": "Beneficial"}}
+        ],
+        "encoding": {
+          "text": {
+            "field": "Impact",
+            "type": "nominal"
+          }
+        }
+      },
+      {
+        "mark": {"type": "arc", "radius2": 150, "radius": 190},
+        "transform": [
+          {"filter": {"field": "Impact", "equal": "Detrimental"}}
+        ],
+        "encoding": {
+          "color": {
+            "field": "Source",
+            "type": "nominal",
+            "scale": {"range": "category"}
+          },
+          "tooltip": [
+            {"field":"Impact", "type": "nominal"},
+            {"field":"Source","type":"nominal"},
+            {"field":"Number","type":"quantitative"}
+          ]
+        }
+      },
+      {
+        "mark": {"type": "text", "radius": 170},
+        "transform": [
+          {"filter": {"field": "Impact", "equal": "Detrimental"}}
+        ],
+        "encoding": {
+          "text": {
+            "field": "Number",
+            "type": "quantitative",
+            "aggregate": "sum"
+          },
+          "color": {
+            "condition": {"test": "datum.Source === 'Captive'", "value": "black"},
+            "value": "white"
+        },
+
+            
+          "detail": {"field": "Source", "type": "nominal"}
+        }
+      },
+      {
+        "mark": {"type": "text", "radius": 170, "color": "white"},
+        "transform": [
+          {"filter": {"field": "Impact", "equal": "Detrimental"}}
+        ],
+        "encoding": {
+          "text": {
+            "field": "Impact",
+            "type": "nominal"
+          }
+        }
+      }
+    ],
+    "resolve": {"scale": {"theta": "independent"}},
+    "view": {"stroke": null}
+  }

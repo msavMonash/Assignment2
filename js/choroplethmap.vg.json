@@ -1,9 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Wild Animal Trade Imports (%)",
-    "width": 1000,
-    "height": 800,
-    "config":{"background":"#ffffff"},
+    "title": "Percentage of Wild Animal Trade Imports",
+    "width": "container",
+    "height": 400,
+    "config":{"view": {
+        "stroke": "transparent"
+     }},
     "projection": {"type": "equirectangular"},
     "data": {
         "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/js/lowResTopo.geo.json" ,
@@ -41,8 +43,7 @@
         "title": "Wild Imports (%)",
         "type": "quantitative",
         "legend":{"title":null,"format":".0%"},
-        "scale": {"type": "threshold", "domain":[0.20,0.40,0.60,0.80],
-        "range":["#08b3e5","#84dffb","#badede","#80ff86","#00ab08"]}
+        "scale": {"scheme": "greens", "domain":[0,1]}
         },
    
     "tooltip": [

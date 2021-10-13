@@ -38,6 +38,9 @@
         },
         {
           "type":"formula", "as": "wildFloat", "expr":"parseFloat(datum.wildPercent)"
+        },
+        {
+          "type":"formula", "as": "wildNum", "expr":"parseFloat(datum.wildPercent) * 100"
         }
         
       ]
@@ -47,17 +50,36 @@
   "scales": [
     {
       "name": "color",
-      "type": "threshold",
-      "domain": {
-        "fields": [
-          {"data": "tree", "field": "wildFloat"},
-          [0.2,0.4,0.6,0.8]
-        ]
-      },
-      "range":["#08b3e5","#84dffb","#badede","#80ff86","#00ab08"]
+      "type": "quantile",
+      "domain": [0,1],
+      "range": {"scheme":"greens"}
     }
     
 
+  ],
+
+  "legends": [
+		{
+		 "fill": "color", 
+		 "orient": "none",
+		 "padding": {"value": 10},
+		 "encode": {
+			"symbols": {
+			 "enter": {
+				"fillOpacity": {"value": 0.5}
+			 }
+			},
+
+			
+			"legend": {
+				"update": {
+					"x": {"signal": "width", "offset": 20}, 
+					"y": {"signal": "height / 2", "offset": -50}
+				}
+			}
+			
+		 }
+		}
   ],
 
   "marks": [
@@ -68,8 +90,8 @@
         "enter": {
           "x": {"signal": "width / 2"},
           "y": {"signal": "height / 2"},
-          "fill": {"scale": "color", "field": "depth"},
-          "tooltip": {"signal": "datum.name + ', ' + datum.wildFloat + (datum.size ? ', ' + 'Count: ' + datum.size : '')"}
+          "fill": {"scale": "color", "field": "wildFloat"},
+          "tooltip": {"signal": "datum.name + ', Wild: ' + datum.wildNum + '%' + (datum.size ? ', ' + 'Number: ' + datum.size : '')"}
         },
         "update": {
           "startAngle": {"field": "a0"},

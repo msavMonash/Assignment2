@@ -1,8 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Purpose of Imported Wild and Captive Animals (%)",
-    "width": 600,
+    "width": "container",
     "height": 400,
+    "config":{"view": {
+      "stroke": "transparent"
+   }},
     "data": {"url": "https://raw.githubusercontent.com/msavMonash/Week10Homework/master/data/PurposeCaptiveWild.csv"},
     "mark": "bar",
     "transform": [
@@ -12,18 +15,20 @@
     "encoding": {
       "x": {
         "field": "Purpose",
-        "type": "nominal"
+        "type": "nominal",
+        "title":null
       },
       "y": {
         "field": "CalcPercentPurpose",
         "title": "% of Animals",
         "type": "quantitative",
+        "scale": {"domain":[0,100]},
         "axis": {"grid": false, "ticks": false}
       },
       "color": {
         "field": "Source",
         "type": "nominal",
-        "scale": {"range": ["#08b3e5","#00ab08"]},
+        "scale": {"range": ["#c0e6ba","#0e7735"]},
         "title": "Source"
       },
 

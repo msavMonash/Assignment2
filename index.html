@@ -12,22 +12,91 @@
 
     <script src="js\vega_lite_vis.js"></script>
     <title>FIT3179 Assignment 2 - Maddie Savic</title>
+    <link rel="stylesheet" href="css/style.css" lang="css">
 
 </head>
 
 <body>
-    <h1>Global Animal Trading of Wild and Captive Animals</h1>
-    <div id="importMap"></div>
-
-    <div id="exportMap"></div>
-
-    <div id="purposeBar"></div>
-
-    <div id="conditionBar"></div>
-
+    <div id="flex-container-title">
+        <h1 class="title">Global Trading of Wild and Captive Animals in 2016</h1>
+    </div>
+    <div id="flex-container-import-title">
+        <h1 class="subtitle">Importation</h1>
+        <div class="text">The importing of captive and wild animals globally.
+    </div>
+<div id="flex-container-map">
+    <div id="importMap" class="vega-container"></div>
+    <div class="text-right"><p>Majority of countries import a relatively equal amount of wild and captive 
+        animals. Africa shows more countries importing captive animals comapred to wild.</p>
+        
+        <p>More developed regions tend show higher importation rates of wild animals such as North America, 
+            Europe and Australia which may be more expensive to import compared to 
+            captive animals.
+    </p></div>
+ </div>
+ <div id="flex-container-export-title">
+    <h1 class="subtitle">Exportation</h1>
+    <div class="text">The exporting of captive and wild animals globally.
+    </div>
+</div>
+<div id="flex-container-Export">
+    <div class="text-left"><p>Majority of Europe exports more captive animals than wild animals. Most of
+        North and South America export mainly wild animals. 
+    </p>
+    <p>
+        A larger portion of African countries had no export records, indicating that either they do not
+        export wild or captive animals, or the records were not registered with the CITES organisation.
+    </p>
+    </div>
+    <div id="exportMap" class="vega-container"></div>
+</div>
+<div id="flex-container-sunburst-title">
+    <h1 class="subtitle">Animal Classification</h1>
+    <div class="text">The network of animal classification heirarchy and the distribution of wild and
+        captive animals being classed as trade benefiting or harming them.
+</div>
+<div id="flex-container-Sunburst">
     <div id="sunburst"></div>
-
-
+    <div class="text-under">The Aves class and all orders, families, genuses and species that stem from it
+        are mainly captive animals. Mammalia class is 90% wild animals, whereas the Reptilia class has the
+        largest number of records, with the Sauria order being 85% traded from the wild but the Serpentes
+        order consisted of 42% of wild animals being traded. Interestingly, records of python bivittatus species
+        showed only 8% were wild animals, the large majority being captive.
+    </div>
+</div>
+<div>
+    <div class="text-under">The Aves class and all orders, families, genuses and species that stem from it
+        are mainly captive animals. Mammalia class is 90% wild animals, whereas the Reptilia class has the
+        largest number of records, with the Sauria order being 85% traded from the wild but the Serpentes
+        order consisted of 42% of wild animals being traded. Interestingly, records of python bivittatus species
+        showed only 8% were wild animals, the large majority being captive.
+    </div>
+    <div id="protection"></div>
+</div>
+<div id="flex-container-purpose-title">
+    <h1 class="subtitle">Purpose</h1>
+</div>
+<div id="flex-container-purpose"> 
+    <div id="purposeBar"></div>
+    <div class="text-right"><p>A large majority of the purpose for trading was commercial, with a total of 13,883
+        records, with roughly equal captive and wild animals. </p>
+        <p>Majority of records for medical and 
+        zoo purposes were captive animals. Whereas trading animals for educational, hunting trophies and
+        scientific purposes mainly consisted of wild animals. </p>
+    </div>
+</div>
+<div id="flex-container-condition-title">
+    <h1 class="subtitle">Condition</h1>
+</div>
+<div id="flex-container-condition">
+    <div class="text-left"><p>The condition or part of animal that was traded varies greatly. The largest condition
+        traded was live animals, with 8,236 records, followed by small leather products with 4,280 records.
+        For live animals, 68% were captive animals whereas for small leather products, only 35% were captive.</p>
+        <p>Although it appears there are more wild animal records, there are just more conditions that only consisted
+        of a small number of wild animals, such as horns and fur products.</p>
+    </div>
+    <div id="conditionBar"></div>
+</div>
 
 
 </body>
