@@ -44,6 +44,32 @@
   padding-bottom: 1%;
 }
 
+.outlined {
+  color: #c0e6ba;
+  text-shadow:
+    -1px -1px 0 #000,
+     0   -1px 0 #000,
+     1px -1px 0 #000,
+     1px  0   0 #000,
+     1px  1px 0 #000,
+     0    1px 0 #000,
+    -1px  1px 0 #000,
+    -1px  0   0 #000;
+}
+
+.green {
+  color: #0e7735;
+  text-shadow:
+  -1px -1px 0 #000,
+   0   -1px 0 #000,
+   1px -1px 0 #000,
+   1px  0   0 #000,
+   1px  1px 0 #000,
+   0    1px 0 #000,
+  -1px  1px 0 #000,
+  -1px  0   0 #000;
+}
+
 /* Styling for divisions */
 #flex-container-title {
   width: 80%;
