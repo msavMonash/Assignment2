@@ -94,7 +94,8 @@
           "text": {
             "field": "Percentage",
             "type": "quantitative",
-            "aggregate": "sum"
+            "aggregate": "sum",
+            "format": ".0%"
           },
           "color": {
             "condition": {"test": "datum.Source === 'Captive'", "value": "black"},

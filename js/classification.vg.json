@@ -58,29 +58,7 @@
 
   ],
 
-  "legends": [
-		{
-		 "fill": "color", 
-		 "orient": "none",
-		 "padding": {"value": 10},
-		 "encode": {
-			"symbols": {
-			 "enter": {
-				"fillOpacity": {"value": 0.5}
-			 }
-			},
-
-			
-			"legend": {
-				"update": {
-					"x": {"signal": "width", "offset": 20}, 
-					"y": {"signal": "height / 2", "offset": -50}
-				}
-			}
-			
-		 }
-		}
-  ],
+  "legends": [{"fill": "color", "format": ".0%", "orient": "top-right"}],
 
   "marks": [
     {
