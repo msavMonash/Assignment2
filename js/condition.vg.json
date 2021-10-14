@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Percentage of Wild and Captive Animals by Condition",
+    "title": {"text":"Percentage of Wild and Captive Animals by Condition", "offset":20},
     "width": "container",
-    "height": 400,
+    "background": "#f2f2f2",
     "config":{"view": {"stroke": "transparent"}, "mark": {"font": "sans-serif"}
   },
     "data": {"url": "https://raw.githubusercontent.com/msavMonash/Week10Homework/master/data/ConditionCaptiveWild.csv"},

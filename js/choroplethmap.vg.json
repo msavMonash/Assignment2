@@ -1,12 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Percentage of Wild Animal Trade Imports",
+    "title": {"text": "Percentage of Wild Animal Trade Imports","offset": 20},
     "width": "container",
-    "height": 400,
     "config":{"view": {
         "stroke": "transparent"
      }},
-    "projection": {"type": "equirectangular"},
+    "projection": {"type": "equalEarth"},
     "data": {
         "url": "https://raw.githubusercontent.com/msavMonash/Assignment2/master/js/lowResTopo.geo.json" ,
         "format": {"type": "topojson", "feature": "lowResTopo.geo"}

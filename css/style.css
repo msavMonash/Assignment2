@@ -2,34 +2,24 @@
 .grey {
   background-color: #f2f2f2;
   width: 100%;
-
-  padding-bottom: 5%;
 }
 
 /* Styling for text */
-.text-left {
+.paragraph {
   display: flex;
   flex-direction:column;
-  width: 30%;
-  margin-right: 5%;
-  font: 15px Verdana, sans-serif;
-}
-
-.text-right {
-  display: flex;
-  flex-direction:column;
-  width: 30%;
-  margin-left: 5%;
+  width: 50%;
   font: 15px Verdana, sans-serif;
 }
 
 .text-sunburst {
   display: flex;
+  align-content: flex-end;
   flex-direction:column;
-  width: 30%;
-  margin-right: 10%;
+  width: 50%;
   font: 15px Verdana, sans-serif;
 }
+
 
 .title {
   padding-top: 2%;
@@ -43,104 +33,100 @@
   font-weight: bold;
 }
 
-.text {
-  display: flex;
-  flex-direction:column;
-  width: 75%;
-  margin-right: 5%;
-  font: 15px Verdana, sans-serif;
-  padding-bottom: 1%;
+* {
+  font-family: Verdana;
+  font-size: 15px;
 }
 
-.outlined {
-  color: #c0e6ba;
-  text-shadow:
-    -1px -1px 0 #000,
-     0   -1px 0 #000,
-     1px -1px 0 #000,
-     1px  0   0 #000,
-     1px  1px 0 #000,
-     0    1px 0 #000,
-    -1px  1px 0 #000,
-    -1px  0   0 #000;
-}
-
-.green {
+.dark-title {
+  font-size: 40px;
   color: #0e7735;
-  text-shadow:
-  -1px -1px 0 #000,
-   0   -1px 0 #000,
-   1px -1px 0 #000,
-   1px  0   0 #000,
-   1px  1px 0 #000,
-   0    1px 0 #000,
-  -1px  1px 0 #000,
-  -1px  0   0 #000;
+  font-weight: bold;
+
 }
+
+.light-title {
+  font-size: 40px;
+  color: #99d68f;
+  font-weight: bold;
+
+}
+
+.dark {
+  color: #0e7735;
+  font-weight: bold;
+}
+
+.light {
+  color: #99d68f;
+  font-weight: bold;
+}  
 
 /* Styling for divisions */
 #flex-container-title {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
 }
 
 #flex-container-import-title {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
+  display: flex;
+  flex-direction: row;
 }
 
 #flex-container-export-title {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
 }
 
 #flex-container-purpose-title {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
 }
 
 #flex-container-condition-title {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
 }
 
 #flex-container-protection-title {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
 }
 
 #flex-container-sunburst-title {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
 }
 
 #flex-container-map {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
 #flex-container-Export {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -148,35 +134,35 @@
 
 #flex-container-Sunburst {
   width: 90%;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
 #flex-container-protection {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
 #flex-container-condition {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
 #flex-container-purpose {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -200,3 +186,23 @@
 .vega-embed {
     width: 100%;
  }
+
+ #sunburst {
+   width: 80%;
+ }
+
+ #protection {
+   width: 80%;
+ }
+
+ #purposeBar {
+   margin-right: 2%;
+ }
+
+ #conditionBar {
+  margin-left: 2%;
+}
+
+#importMap {
+  margin-right: 2%;
+}

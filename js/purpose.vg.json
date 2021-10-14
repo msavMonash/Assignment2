@@ -1,8 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": " Percentage of Wild and Captive Animals by Purpose",
+    "title": {"text": "Percentage of Wild and Captive Animals by Purpose", "offset":20},
     "width": "container",
-    "height": 400,
     "config":{"view": {
       "stroke": "transparent"
    }},

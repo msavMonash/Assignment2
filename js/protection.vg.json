@@ -1,7 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": "container",
-    "title":"Percentage of Wild and Captive Animals by Protection Level",
+    "background": "#f2f2f2",
+    "title": {"text": "Percentage of Wild and Captive Animals by Protection Level", "offset":20},
     "data": {
       "url":"https://raw.githubusercontent.com/msavMonash/Assignment2/master/data/AppCaptiveWild.csv"
     },

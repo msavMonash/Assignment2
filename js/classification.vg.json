@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "title":"Percentage of Wild Animals per Classification Level",
-  "width": 600,
-  "height": 600,
+  "title": {"text": "Percentage of Wild Animals per Classification Level", "offset": 20},
+  "width": 400,
+  "height": 400,
   "padding": 5,
   "autosize": "none",
 
